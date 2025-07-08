@@ -25,9 +25,9 @@ Alternatively, you can use this [this notebook](https://github.com/Jpickard1/HIF
 
 ## Data Storage
 
-- The /datasets directory contains .hif files for each hypergraph dataset.
+- The `/datasets` directory contains .hif files for each hypergraph dataset.
 
-- The /scripts directory includes scripts and notebooks used to format and process the datasets.
+- The `/scripts` directory includes scripts and notebooks used to format and process the datasets.
 
 For efficiency, .hif files larger than 50MB are split into multiple parts named as: `<dataset_name>_<part_number>of<total_parts>.hif`. The original file is split based on line count, and the resulting parts are not individually valid `.hif` files until they are reassembled.
 
