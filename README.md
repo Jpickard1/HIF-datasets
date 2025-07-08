@@ -23,6 +23,12 @@ HG = datasets.load("Azimuth_2023")
 
 Alternatively, you can use this [this notebook](https://github.com/Jpickard1/HIF-datasets/blob/main/scripts/download_hif_datasets.ipynb) to manually download datasets without relying on HAT.
 
+## Datasets
+
+**Note:** This section is currently under construction. The goal is to expand this repository into a larger, comprehensive database of hypergraph datasets.
+
+At present, the collection includes approximately 200 hypergraphs primarily derived from gene enrichment analyses and regulatory network data.
+
 ## Data Storage
 
 - The `/datasets` directory contains .hif files for each hypergraph dataset.
