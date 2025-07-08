@@ -6,7 +6,7 @@ This repository hosts hypergraph datasets in the `.hif` format, following the [H
 
 ## Usage
 
-You can retrieve and load datasets using the [`HAT`](https://github.com/jpickard1/HAT) Python package:
+You can retrieve and load datasets using the [`HAT`](https://github.com/Jpickard1/Hypergraph-Analysis-Toolbox) Python package:
 
 ```python
 from HAT import Hypergraph, datasets
