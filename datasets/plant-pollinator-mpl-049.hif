@@ -1,0 +1,3944 @@
+{
+  "metadata": {
+    "name": "plant-pollinator-mpl-049"
+  },
+  "network-type": "undirected",
+  "nodes": [
+    {
+      "attrs": {
+        "plant": "Crepis paludosa"
+      },
+      "node": "7"
+    },
+    {
+      "attrs": {
+        "plant": "Trifolium repens"
+      },
+      "node": "30"
+    },
+    {
+      "attrs": {
+        "plant": "Galium palustre"
+      },
+      "node": "9"
+    },
+    {
+      "attrs": {
+        "plant": "Lysimachia vulgaris"
+      },
+      "node": "16"
+    },
+    {
+      "attrs": {
+        "plant": "Mentha aquatica"
+      },
+      "node": "18"
+    },
+    {
+      "attrs": {
+        "plant": "Silene dioica"
+      },
+      "node": "25"
+    },
+    {
+      "attrs": {
+        "plant": "Ajuga reptans"
+      },
+      "node": "0"
+    },
+    {
+      "attrs": {
+        "plant": "Veronica beccabunga"
+      },
+      "node": "32"
+    },
+    {
+      "attrs": {
+        "plant": "Stellaria graminea"
+      },
+      "node": "26"
+    },
+    {
+      "attrs": {
+        "plant": "Stellaria palustris"
+      },
+      "node": "27"
+    },
+    {
+      "attrs": {
+        "plant": "Cirsium oleraceum"
+      },
+      "node": "5"
+    },
+    {
+      "attrs": {
+        "plant": "Myosotis palustris"
+      },
+      "node": "19"
+    },
+    {
+      "attrs": {
+        "plant": "Trifolium pratense"
+      },
+      "node": "29"
+    },
+    {
+      "attrs": {
+        "plant": "Veronica serpyllifolia"
+      },
+      "node": "34"
+    },
+    {
+      "attrs": {
+        "plant": "Ranunculus acris"
+      },
+      "node": "23"
+    },
+    {
+      "attrs": {
+        "plant": "Centaurea jacea"
+      },
+      "node": "3"
+    },
+    {
+      "attrs": {
+        "plant": "Lotus uliginosus"
+      },
+      "node": "14"
+    },
+    {
+      "attrs": {
+        "plant": "Lychnis flos-cuculi"
+      },
+      "node": "15"
+    },
+    {
+      "attrs": {
+        "plant": "Anthriscus sylvestris"
+      },
+      "node": "2"
+    },
+    {
+      "attrs": {
+        "plant": "Lythrum salicaria"
+      },
+      "node": "17"
+    },
+    {
+      "attrs": {
+        "plant": "Filipendula ulmaria"
+      },
+      "node": "8"
+    },
+    {
+      "attrs": {
+        "plant": "Potentilla erecta"
+      },
+      "node": "22"
+    },
+    {
+      "attrs": {
+        "plant": "Angelica sylvestris"
+      },
+      "node": "1"
+    },
+    {
+      "attrs": {
+        "plant": "Lathyrus pratensis"
+      },
+      "node": "13"
+    },
+    {
+      "attrs": {
+        "plant": "Veronica chamaedrys"
+      },
+      "node": "33"
+    },
+    {
+      "attrs": {
+        "plant": "Trifolium campestre"
+      },
+      "node": "28"
+    },
+    {
+      "attrs": {
+        "plant": "Ranunculus flammula"
+      },
+      "node": "24"
+    },
+    {
+      "attrs": {
+        "plant": "Vicia cracca"
+      },
+      "node": "35"
+    },
+    {
+      "attrs": {
+        "plant": "Cerastium fontanum"
+      },
+      "node": "4"
+    },
+    {
+      "attrs": {
+        "plant": "Pimpinella major"
+      },
+      "node": "20"
+    },
+    {
+      "attrs": {
+        "plant": "Geranium robertianum"
+      },
+      "node": "10"
+    },
+    {
+      "attrs": {
+        "plant": "Valeriana officinalis"
+      },
+      "node": "31"
+    },
+    {
+      "attrs": {
+        "plant": "Vicia sepium"
+      },
+      "node": "36"
+    },
+    {
+      "attrs": {
+        "plant": "Cirsium vulgare"
+      },
+      "node": "6"
+    },
+    {
+      "attrs": {
+        "plant": "Geum rivale"
+      },
+      "node": "11"
+    },
+    {
+      "attrs": {
+        "plant": "Lathyrus montanus"
+      },
+      "node": "12"
+    },
+    {
+      "attrs": {
+        "plant": "Polygonum amphibium"
+      },
+      "node": "21"
+    }
+  ],
+  "edges": [
+    {
+      "attrs": {
+        "pollinator": "Phorbia sp1 M_PL_049"
+      },
+      "edge": "146"
+    },
+    {
+      "attrs": {
+        "pollinator": "Nabis ferus"
+      },
+      "edge": "131"
+    },
+    {
+      "attrs": {
+        "pollinator": "Poletes steini"
+      },
+      "edge": "156"
+    },
+    {
+      "attrs": {
+        "pollinator": "Graphomya maculata"
+      },
+      "edge": "73"
+    },
+    {
+      "attrs": {
+        "pollinator": "Cetonia aurata"
+      },
+      "edge": "30"
+    },
+    {
+      "attrs": {
+        "pollinator": "Unidentified sp25 M_PL_049"
+      },
+      "edge": "208"
+    },
+    {
+      "attrs": {
+        "pollinator": "Vespa holsatica"
+      },
+      "edge": "221"
+    },
+    {
+      "attrs": {
+        "pollinator": "Anthobium torquratum"
+      },
+      "edge": "9"
+    },
+    {
+      "attrs": {
+        "pollinator": "Helophilus trivittatus"
+      },
+      "edge": "83"
+    },
+    {
+      "attrs": {
+        "pollinator": "Parhelophilus versicolor"
+      },
+      "edge": "143"
+    },
+    {
+      "attrs": {
+        "pollinator": "Macropis labiata"
+      },
+      "edge": "119"
+    },
+    {
+      "attrs": {
+        "pollinator": "Platycherius sp1 M_PL_049"
+      },
+      "edge": "155"
+    },
+    {
+      "attrs": {
+        "pollinator": "Lepidoptera sp31 M_PL_049"
+      },
+      "edge": "100"
+    },
+    {
+      "attrs": {
+        "pollinator": "Dasyphora cyanicolor"
+      },
+      "edge": "46"
+    },
+    {
+      "attrs": {
+        "pollinator": "Phorbia sp3 M_PL_049"
+      },
+      "edge": "148"
+    },
+    {
+      "attrs": {
+        "pollinator": "Lucilia sericata"
+      },
+      "edge": "116"
+    },
+    {
+      "attrs": {
+        "pollinator": "Anaspis frontalis"
+      },
+      "edge": "5"
+    },
+    {
+      "attrs": {
+        "pollinator": "Inachis io"
+      },
+      "edge": "96"
+    },
+    {
+      "attrs": {
+        "pollinator": "Tricimba cincta"
+      },
+      "edge": "189"
+    },
+    {
+      "attrs": {
+        "pollinator": "Empis pennipes"
+      },
+      "edge": "59"
+    },
+    {
+      "attrs": {
+        "pollinator": "Hylemya sp2 M_PL_049"
+      },
+      "edge": "93"
+    },
+    {
+      "attrs": {
+        "pollinator": "Morellis simplex"
+      },
+      "edge": "129"
+    },
+    {
+      "attrs": {
+        "pollinator": "Orthops kalmi"
+      },
+      "edge": "139"
+    },
+    {
+      "attrs": {
+        "pollinator": "Lepidoptera sp38 M_PL_049"
+      },
+      "edge": "105"
+    },
+    {
+      "attrs": {
+        "pollinator": "Rhinoncus perpendicularis"
+      },
+      "edge": "166"
+    },
+    {
+      "attrs": {
+        "pollinator": "Unidentified sp15 M_PL_049"
+      },
+      "edge": "197"
+    },
+    {
+      "attrs": {
+        "pollinator": "Thymelicus sylvestris"
+      },
+      "edge": "188"
+    },
+    {
+      "attrs": {
+        "pollinator": "Alliopsis sp3 M_PL_049"
+      },
+      "edge": "3"
+    },
+    {
+      "attrs": {
+        "pollinator": "Conioscinella frontella"
+      },
+      "edge": "42"
+    },
+    {
+      "attrs": {
+        "pollinator": "Unidentified sp21 M_PL_049"
+      },
+      "edge": "204"
+    },
+    {
+      "attrs": {
+        "pollinator": "Lygus lucorum"
+      },
+      "edge": "118"
+    },
+    {
+      "attrs": {
+        "pollinator": "Melanostoma scalare"
+      },
+      "edge": "122"
+    },
+    {
+      "attrs": {
+        "pollinator": "Cheilosia proxima"
+      },
+      "edge": "33"
+    },
+    {
+      "attrs": {
+        "pollinator": "Stenocorus meridianus"
+      },
+      "edge": "176"
+    },
+    {
+      "attrs": {
+        "pollinator": "Prosopis communis"
+      },
+      "edge": "160"
+    },
+    {
+      "attrs": {
+        "pollinator": "Phyllobius urticae"
+      },
+      "edge": "149"
+    },
+    {
+      "attrs": {
+        "pollinator": "Orthelia caesarion"
+      },
+      "edge": "138"
+    },
+    {
+      "attrs": {
+        "pollinator": "Tachinus fimetarius"
+      },
+      "edge": "185"
+    },
+    {
+      "attrs": {
+        "pollinator": "Alloestylus sudeticus"
+      },
+      "edge": "4"
+    },
+    {
+      "attrs": {
+        "pollinator": "Bombus hypnorum"
+      },
+      "edge": "20"
+    },
+    {
+      "attrs": {
+        "pollinator": "Chloromyia formosa "
+      },
+      "edge": "36"
+    },
+    {
+      "attrs": {
+        "pollinator": "Halictus leucopus"
+      },
+      "edge": "79"
+    },
+    {
+      "attrs": {
+        "pollinator": "Anaspis rufilabris "
+      },
+      "edge": "6"
+    },
+    {
+      "attrs": {
+        "pollinator": "Unidentified sp26 M_PL_049"
+      },
+      "edge": "209"
+    },
+    {
+      "attrs": {
+        "pollinator": "Sepsis cynipsea"
+      },
+      "edge": "170"
+    },
+    {
+      "attrs": {
+        "pollinator": "Heteronychia haemorrhoa"
+      },
+      "edge": "86"
+    },
+    {
+      "attrs": {
+        "pollinator": "Parasyrphus lineola"
+      },
+      "edge": "142"
+    },
+    {
+      "attrs": {
+        "pollinator": "Pseudonapomyza sp1 M_PL_049"
+      },
+      "edge": "161"
+    },
+    {
+      "attrs": {
+        "pollinator": "Empis rustica"
+      },
+      "edge": "60"
+    },
+    {
+      "attrs": {
+        "pollinator": "Senotainia conica"
+      },
+      "edge": "169"
+    },
+    {
+      "attrs": {
+        "pollinator": "Myathropa florea"
+      },
+      "edge": "130"
+    },
+    {
+      "attrs": {
+        "pollinator": "Delia sp3 M_PL_049"
+      },
+      "edge": "50"
+    },
+    {
+      "attrs": {
+        "pollinator": "Hylotoma ciliaris"
+      },
+      "edge": "95"
+    },
+    {
+      "attrs": {
+        "pollinator": "Sphaerophoria taenata"
+      },
+      "edge": "174"
+    },
+    {
+      "attrs": {
+        "pollinator": "Tetanocera silvatica"
+      },
+      "edge": "186"
+    },
+    {
+      "attrs": {
+        "pollinator": "Sepsis fulgens"
+      },
+      "edge": "172"
+    },
+    {
+      "attrs": {
+        "pollinator": "Strophosomus melanogrammus"
+      },
+      "edge": "181"
+    },
+    {
+      "attrs": {
+        "pollinator": "Athalia sp1 M_PL_049"
+      },
+      "edge": "16"
+    },
+    {
+      "attrs": {
+        "pollinator": "Polyommatus icarus "
+      },
+      "edge": "159"
+    },
+    {
+      "attrs": {
+        "pollinator": "Unidentified sp22 M_PL_049"
+      },
+      "edge": "205"
+    },
+    {
+      "attrs": {
+        "pollinator": "Sphaerophoria scripta"
+      },
+      "edge": "173"
+    },
+    {
+      "attrs": {
+        "pollinator": "Fannia pallitibia"
+      },
+      "edge": "66"
+    },
+    {
+      "attrs": {
+        "pollinator": "Melinda gentilis"
+      },
+      "edge": "125"
+    },
+    {
+      "attrs": {
+        "pollinator": "Syrphus ribesii"
+      },
+      "edge": "183"
+    },
+    {
+      "attrs": {
+        "pollinator": "Unidentified sp27 M_PL_049"
+      },
+      "edge": "210"
+    },
+    {
+      "attrs": {
+        "pollinator": "Unidentified sp8 M_PL_049"
+      },
+      "edge": "219"
+    },
+    {
+      "attrs": {
+        "pollinator": "Lepidoptera sp5 M_PL_049"
+      },
+      "edge": "108"
+    },
+    {
+      "attrs": {
+        "pollinator": "Hydrothassa marginella"
+      },
+      "edge": "91"
+    },
+    {
+      "attrs": {
+        "pollinator": "Eristalis intricaria"
+      },
+      "edge": "63"
+    },
+    {
+      "attrs": {
+        "pollinator": "Unidentified sp18 M_PL_049"
+      },
+      "edge": "200"
+    },
+    {
+      "attrs": {
+        "pollinator": "Unidentified sp1 M_PL_049"
+      },
+      "edge": "191"
+    },
+    {
+      "attrs": {
+        "pollinator": "Oscinella hortensis"
+      },
+      "edge": "140"
+    },
+    {
+      "attrs": {
+        "pollinator": "Delia sp4 M_PL_049"
+      },
+      "edge": "51"
+    },
+    {
+      "attrs": {
+        "pollinator": "Graphomya picta"
+      },
+      "edge": "74"
+    },
+    {
+      "attrs": {
+        "pollinator": "Empis aestiva"
+      },
+      "edge": "55"
+    },
+    {
+      "attrs": {
+        "pollinator": "Cheilosia pubera"
+      },
+      "edge": "34"
+    },
+    {
+      "attrs": {
+        "pollinator": "Chrysotoxum bicinetum"
+      },
+      "edge": "41"
+    },
+    {
+      "attrs": {
+        "pollinator": "Unidentified sp17 M_PL_049"
+      },
+      "edge": "199"
+    },
+    {
+      "attrs": {
+        "pollinator": "Bombus terestis"
+      },
+      "edge": "23"
+    },
+    {
+      "attrs": {
+        "pollinator": "Sarcophaga sp1 M_PL_049"
+      },
+      "edge": "168"
+    },
+    {
+      "attrs": {
+        "pollinator": "Meliscaeva cinectella"
+      },
+      "edge": "127"
+    },
+    {
+      "attrs": {
+        "pollinator": "Craspedochoeata sp1 M_PL_049"
+      },
+      "edge": "43"
+    },
+    {
+      "attrs": {
+        "pollinator": "Hadrodemus m-flavum"
+      },
+      "edge": "76"
+    },
+    {
+      "attrs": {
+        "pollinator": "Fannia sp1 M_PL_049"
+      },
+      "edge": "69"
+    },
+    {
+      "attrs": {
+        "pollinator": "Apocrita sp1 M_PL_049"
+      },
+      "edge": "14"
+    },
+    {
+      "attrs": {
+        "pollinator": "Lepidoptera sp32 M_PL_049"
+      },
+      "edge": "101"
+    },
+    {
+      "attrs": {
+        "pollinator": "Fannia rondanii"
+      },
+      "edge": "68"
+    },
+    {
+      "attrs": {
+        "pollinator": "Alliopsis sp2 M_PL_049"
+      },
+      "edge": "2"
+    },
+    {
+      "attrs": {
+        "pollinator": "Discocerina obscurella"
+      },
+      "edge": "53"
+    },
+    {
+      "attrs": {
+        "pollinator": "Lepidoptera sp33 M_PL_049"
+      },
+      "edge": "102"
+    },
+    {
+      "attrs": {
+        "pollinator": "Judolia cerambyciformis"
+      },
+      "edge": "98"
+    },
+    {
+      "attrs": {
+        "pollinator": "Strangalia melanura"
+      },
+      "edge": "178"
+    },
+    {
+      "attrs": {
+        "pollinator": "Ischyrosyrphys laternarius"
+      },
+      "edge": "97"
+    },
+    {
+      "attrs": {
+        "pollinator": "Strangalia Quadrifasciata"
+      },
+      "edge": "179"
+    },
+    {
+      "attrs": {
+        "pollinator": "Chloropsis sp1 M_PL_049"
+      },
+      "edge": "38"
+    },
+    {
+      "attrs": {
+        "pollinator": "Unidentified sp34 M_PL_049"
+      },
+      "edge": "215"
+    },
+    {
+      "attrs": {
+        "pollinator": "Neoascia podagrica"
+      },
+      "edge": "133"
+    },
+    {
+      "attrs": {
+        "pollinator": "Eristalis pertinax"
+      },
+      "edge": "64"
+    },
+    {
+      "attrs": {
+        "pollinator": "Helophilus hybridus"
+      },
+      "edge": "81"
+    },
+    {
+      "attrs": {
+        "pollinator": "Hercostomus germanus"
+      },
+      "edge": "84"
+    },
+    {
+      "attrs": {
+        "pollinator": "Fannia fuscula"
+      },
+      "edge": "65"
+    },
+    {
+      "attrs": {
+        "pollinator": "Cheilosia nigripes"
+      },
+      "edge": "31"
+    },
+    {
+      "attrs": {
+        "pollinator": "Gorytes Campestris"
+      },
+      "edge": "71"
+    },
+    {
+      "attrs": {
+        "pollinator": "Platycheirus cyaneus"
+      },
+      "edge": "152"
+    },
+    {
+      "attrs": {
+        "pollinator": "Rhingia campestris"
+      },
+      "edge": "165"
+    },
+    {
+      "attrs": {
+        "pollinator": "Unidentified sp9 M_PL_049"
+      },
+      "edge": "220"
+    },
+    {
+      "attrs": {
+        "pollinator": "Ochlodes venata "
+      },
+      "edge": "135"
+    },
+    {
+      "attrs": {
+        "pollinator": "Apion apricans"
+      },
+      "edge": "11"
+    },
+    {
+      "attrs": {
+        "pollinator": "Liriomyza sp1 M_PL_049"
+      },
+      "edge": "113"
+    },
+    {
+      "attrs": {
+        "pollinator": "Phorbia sp2 M_PL_049"
+      },
+      "edge": "147"
+    },
+    {
+      "attrs": {
+        "pollinator": "Apion flavipes"
+      },
+      "edge": "12"
+    },
+    {
+      "attrs": {
+        "pollinator": "Eristalis interrupta"
+      },
+      "edge": "62"
+    },
+    {
+      "attrs": {
+        "pollinator": "Morellia aenescens"
+      },
+      "edge": "128"
+    },
+    {
+      "attrs": {
+        "pollinator": "Unidentified sp12 M_PL_049"
+      },
+      "edge": "194"
+    },
+    {
+      "attrs": {
+        "pollinator": "Unidentified sp10 M_PL_049"
+      },
+      "edge": "192"
+    },
+    {
+      "attrs": {
+        "pollinator": "Unidentified sp14 M_PL_049"
+      },
+      "edge": "196"
+    },
+    {
+      "attrs": {
+        "pollinator": "Limnobaris T-album"
+      },
+      "edge": "110"
+    },
+    {
+      "attrs": {
+        "pollinator": "Gastroidea viridula"
+      },
+      "edge": "70"
+    },
+    {
+      "attrs": {
+        "pollinator": "Anthobium minutum"
+      },
+      "edge": "7"
+    },
+    {
+      "attrs": {
+        "pollinator": "Onesia sp1 M_PL_049"
+      },
+      "edge": "137"
+    },
+    {
+      "attrs": {
+        "pollinator": "Lepidoptera sp39 M_PL_049"
+      },
+      "edge": "106"
+    },
+    {
+      "attrs": {
+        "pollinator": "Chrysops pictus"
+      },
+      "edge": "40"
+    },
+    {
+      "attrs": {
+        "pollinator": "Brachicoma devia"
+      },
+      "edge": "25"
+    },
+    {
+      "attrs": {
+        "pollinator": "Oscinella vastator"
+      },
+      "edge": "141"
+    },
+    {
+      "attrs": {
+        "pollinator": "Lepidoptera sp4 M_PL_049"
+      },
+      "edge": "107"
+    },
+    {
+      "attrs": {
+        "pollinator": "Unidentified sp2 M_PL_049"
+      },
+      "edge": "202"
+    },
+    {
+      "attrs": {
+        "pollinator": "Tropidia scita"
+      },
+      "edge": "190"
+    },
+    {
+      "attrs": {
+        "pollinator": "Cheilosia pagana"
+      },
+      "edge": "32"
+    },
+    {
+      "attrs": {
+        "pollinator": "Grammoptra ruficornis"
+      },
+      "edge": "72"
+    },
+    {
+      "attrs": {
+        "pollinator": "Wahlgrenia magnicornis"
+      },
+      "edge": "223"
+    },
+    {
+      "attrs": {
+        "pollinator": "Crossocerus affinis"
+      },
+      "edge": "44"
+    },
+    {
+      "attrs": {
+        "pollinator": "Heteronychia vagens"
+      },
+      "edge": "87"
+    },
+    {
+      "attrs": {
+        "pollinator": "Unidentified sp3 M_PL_049"
+      },
+      "edge": "213"
+    },
+    {
+      "attrs": {
+        "pollinator": "Volucella pellucens"
+      },
+      "edge": "222"
+    },
+    {
+      "attrs": {
+        "pollinator": "Egle sp1 M_PL_049"
+      },
+      "edge": "54"
+    },
+    {
+      "attrs": {
+        "pollinator": "Episyrphus balteatus"
+      },
+      "edge": "61"
+    },
+    {
+      "attrs": {
+        "pollinator": "Bombus hortorum"
+      },
+      "edge": "19"
+    },
+    {
+      "attrs": {
+        "pollinator": "Meligethes aeneus"
+      },
+      "edge": "123"
+    },
+    {
+      "attrs": {
+        "pollinator": "Unidentified sp29 M_PL_049"
+      },
+      "edge": "212"
+    },
+    {
+      "attrs": {
+        "pollinator": "Limnophora riparia"
+      },
+      "edge": "111"
+    },
+    {
+      "attrs": {
+        "pollinator": "Leptopterna dolabrata"
+      },
+      "edge": "109"
+    },
+    {
+      "attrs": {
+        "pollinator": "Azelia triquetra"
+      },
+      "edge": "17"
+    },
+    {
+      "attrs": {
+        "pollinator": "Anthobium ophthalmicum"
+      },
+      "edge": "8"
+    },
+    {
+      "attrs": {
+        "pollinator": "Hylemya sp3 M_PL_049"
+      },
+      "edge": "94"
+    },
+    {
+      "attrs": {
+        "pollinator": "Alliopsis sp1 M_PL_049"
+      },
+      "edge": "1"
+    },
+    {
+      "attrs": {
+        "pollinator": "Apis mellifera"
+      },
+      "edge": "13"
+    },
+    {
+      "attrs": {
+        "pollinator": "Onesia floralis"
+      },
+      "edge": "136"
+    },
+    {
+      "attrs": {
+        "pollinator": "Platycheirus peltatus"
+      },
+      "edge": "153"
+    },
+    {
+      "attrs": {
+        "pollinator": "Calocoris sexguttatus"
+      },
+      "edge": "28"
+    },
+    {
+      "attrs": {
+        "pollinator": "Sphegina sp1 M_PL_049"
+      },
+      "edge": "175"
+    },
+    {
+      "attrs": {
+        "pollinator": "Picromerus bidens"
+      },
+      "edge": "150"
+    },
+    {
+      "attrs": {
+        "pollinator": "Neoascia obliqua"
+      },
+      "edge": "132"
+    },
+    {
+      "attrs": {
+        "pollinator": "Diptera sp7 M_PL_049"
+      },
+      "edge": "52"
+    },
+    {
+      "attrs": {
+        "pollinator": "Unidentified sp28 M_PL_049"
+      },
+      "edge": "211"
+    },
+    {
+      "attrs": {
+        "pollinator": "Empis nuntia"
+      },
+      "edge": "58"
+    },
+    {
+      "attrs": {
+        "pollinator": "Unidentified sp11 M_PL_049"
+      },
+      "edge": "193"
+    },
+    {
+      "attrs": {
+        "pollinator": "Empis nigripes"
+      },
+      "edge": "57"
+    },
+    {
+      "attrs": {
+        "pollinator": "Cynthia cardui"
+      },
+      "edge": "45"
+    },
+    {
+      "attrs": {
+        "pollinator": "Phaonia exoleta"
+      },
+      "edge": "144"
+    },
+    {
+      "attrs": {
+        "pollinator": "Pyrophaena rosarum"
+      },
+      "edge": "162"
+    },
+    {
+      "attrs": {
+        "pollinator": "Phaonia incana"
+      },
+      "edge": "145"
+    },
+    {
+      "attrs": {
+        "pollinator": "Sepsis flavimana"
+      },
+      "edge": "171"
+    },
+    {
+      "attrs": {
+        "pollinator": "Melanostoma mellinum"
+      },
+      "edge": "121"
+    },
+    {
+      "attrs": {
+        "pollinator": "Unidentified sp24 M_PL_049"
+      },
+      "edge": "207"
+    },
+    {
+      "attrs": {
+        "pollinator": "Lepidoptera sp36 M_PL_049"
+      },
+      "edge": "103"
+    },
+    {
+      "attrs": {
+        "pollinator": "Chrysogaster solstitialis"
+      },
+      "edge": "39"
+    },
+    {
+      "attrs": {
+        "pollinator": "Meligethes Coeruleovirens"
+      },
+      "edge": "124"
+    },
+    {
+      "attrs": {
+        "pollinator": "Bombus lucorum"
+      },
+      "edge": "21"
+    },
+    {
+      "attrs": {
+        "pollinator": "Haematopota pluvialis"
+      },
+      "edge": "77"
+    },
+    {
+      "attrs": {
+        "pollinator": "Hilara brevistyla"
+      },
+      "edge": "88"
+    },
+    {
+      "attrs": {
+        "pollinator": "Stratiomya potamidao"
+      },
+      "edge": "180"
+    },
+    {
+      "attrs": {
+        "pollinator": "Lucilia caesar"
+      },
+      "edge": "115"
+    },
+    {
+      "attrs": {
+        "pollinator": "Bombus agrorum"
+      },
+      "edge": "18"
+    },
+    {
+      "attrs": {
+        "pollinator": "Hercostomus nigripennis"
+      },
+      "edge": "85"
+    },
+    {
+      "attrs": {
+        "pollinator": "Melinda viridicyanea"
+      },
+      "edge": "126"
+    },
+    {
+      "attrs": {
+        "pollinator": "Lophosceles Cinereiventris"
+      },
+      "edge": "114"
+    },
+    {
+      "attrs": {
+        "pollinator": "Unidentified sp16 M_PL_049"
+      },
+      "edge": "198"
+    },
+    {
+      "attrs": {
+        "pollinator": "Delia sp2 M_PL_049"
+      },
+      "edge": "49"
+    },
+    {
+      "attrs": {
+        "pollinator": "Fannia polycheta"
+      },
+      "edge": "67"
+    },
+    {
+      "attrs": {
+        "pollinator": "Xylota abiens"
+      },
+      "edge": "224"
+    },
+    {
+      "attrs": {
+        "pollinator": "Aclonempis longipes"
+      },
+      "edge": "0"
+    },
+    {
+      "attrs": {
+        "pollinator": "Unidentified sp40 M_PL_049"
+      },
+      "edge": "217"
+    },
+    {
+      "attrs": {
+        "pollinator": "Unidentified sp13 M_PL_049"
+      },
+      "edge": "195"
+    },
+    {
+      "attrs": {
+        "pollinator": "Chloropis sp1 M_PL_049"
+      },
+      "edge": "37"
+    },
+    {
+      "attrs": {
+        "pollinator": "Pieris napa"
+      },
+      "edge": "151"
+    },
+    {
+      "attrs": {
+        "pollinator": "Hilarella stictica"
+      },
+      "edge": "89"
+    },
+    {
+      "attrs": {
+        "pollinator": "Calocoris norvegicus"
+      },
+      "edge": "27"
+    },
+    {
+      "attrs": {
+        "pollinator": "Calameuta filiformis"
+      },
+      "edge": "26"
+    },
+    {
+      "attrs": {
+        "pollinator": "Dasytes plumbeus "
+      },
+      "edge": "47"
+    },
+    {
+      "attrs": {
+        "pollinator": "Holoclera nigripennis"
+      },
+      "edge": "90"
+    },
+    {
+      "attrs": {
+        "pollinator": "Cateretes pedicularius"
+      },
+      "edge": "29"
+    },
+    {
+      "attrs": {
+        "pollinator": "Limnophora triangular"
+      },
+      "edge": "112"
+    },
+    {
+      "attrs": {
+        "pollinator": "Hylemya sp1 M_PL_049"
+      },
+      "edge": "92"
+    },
+    {
+      "attrs": {
+        "pollinator": "Thrypticus bellus"
+      },
+      "edge": "187"
+    },
+    {
+      "attrs": {
+        "pollinator": "Unidentified sp35 M_PL_049"
+      },
+      "edge": "216"
+    },
+    {
+      "attrs": {
+        "pollinator": "Platycheirus scutatus"
+      },
+      "edge": "154"
+    },
+    {
+      "attrs": {
+        "pollinator": "Unidentified sp23 M_PL_049"
+      },
+      "edge": "206"
+    },
+    {
+      "attrs": {
+        "pollinator": "Halictus calceatus"
+      },
+      "edge": "78"
+    },
+    {
+      "attrs": {
+        "pollinator": "Lucilia silvarum"
+      },
+      "edge": "117"
+    },
+    {
+      "attrs": {
+        "pollinator": "Rhagonycha fulva"
+      },
+      "edge": "163"
+    },
+    {
+      "attrs": {
+        "pollinator": "Pollenia rudis"
+      },
+      "edge": "158"
+    },
+    {
+      "attrs": {
+        "pollinator": "Athalia lineolata"
+      },
+      "edge": "15"
+    },
+    {
+      "attrs": {
+        "pollinator": "Empis albinervis"
+      },
+      "edge": "56"
+    },
+    {
+      "attrs": {
+        "pollinator": "Delia sp1 M_PL_049"
+      },
+      "edge": "48"
+    },
+    {
+      "attrs": {
+        "pollinator": "Unidentified sp20 M_PL_049"
+      },
+      "edge": "203"
+    },
+    {
+      "attrs": {
+        "pollinator": "Bombus pratorum"
+      },
+      "edge": "22"
+    },
+    {
+      "attrs": {
+        "pollinator": "Helophilus pendulus"
+      },
+      "edge": "82"
+    },
+    {
+      "attrs": {
+        "pollinator": "Maniola jurtina"
+      },
+      "edge": "120"
+    },
+    {
+      "attrs": {
+        "pollinator": "Bombylius major"
+      },
+      "edge": "24"
+    },
+    {
+      "attrs": {
+        "pollinator": "Rhamphomyia hirtula"
+      },
+      "edge": "164"
+    },
+    {
+      "attrs": {
+        "pollinator": "Cheilosia variabilis"
+      },
+      "edge": "35"
+    },
+    {
+      "attrs": {
+        "pollinator": "Gymnetron veronicae"
+      },
+      "edge": "75"
+    },
+    {
+      "attrs": {
+        "pollinator": "Saldula sp1 M_PL_049"
+      },
+      "edge": "167"
+    },
+    {
+      "attrs": {
+        "pollinator": "Laria loti"
+      },
+      "edge": "99"
+    },
+    {
+      "attrs": {
+        "pollinator": "Lepidoptera sp37 M_PL_049"
+      },
+      "edge": "104"
+    },
+    {
+      "attrs": {
+        "pollinator": "Aphantopus hyperantus"
+      },
+      "edge": "10"
+    },
+    {
+      "attrs": {
+        "pollinator": "Unidentified sp6 M_PL_049"
+      },
+      "edge": "218"
+    },
+    {
+      "attrs": {
+        "pollinator": "Syrphus vitripennis "
+      },
+      "edge": "184"
+    },
+    {
+      "attrs": {
+        "pollinator": "Halictus quadrinotatus"
+      },
+      "edge": "80"
+    },
+    {
+      "attrs": {
+        "pollinator": "Pollenia pediculata"
+      },
+      "edge": "157"
+    },
+    {
+      "attrs": {
+        "pollinator": "Stenotus binotatus"
+      },
+      "edge": "177"
+    },
+    {
+      "attrs": {
+        "pollinator": "Unidentified sp19 M_PL_049"
+      },
+      "edge": "201"
+    },
+    {
+      "attrs": {
+        "pollinator": "Neoascia tenur"
+      },
+      "edge": "134"
+    },
+    {
+      "attrs": {
+        "pollinator": "Unidentified sp30 M_PL_049"
+      },
+      "edge": "214"
+    },
+    {
+      "attrs": {
+        "pollinator": "Syritta pipiens"
+      },
+      "edge": "182"
+    }
+  ],
+  "incidences": [
+    {
+      "edge": "152",
+      "node": "17"
+    },
+    {
+      "edge": "152",
+      "node": "30"
+    },
+    {
+      "edge": "152",
+      "node": "9"
+    },
+    {
+      "edge": "152",
+      "node": "16"
+    },
+    {
+      "edge": "152",
+      "node": "22"
+    },
+    {
+      "edge": "152",
+      "node": "13"
+    },
+    {
+      "edge": "152",
+      "node": "25"
+    },
+    {
+      "edge": "152",
+      "node": "33"
+    },
+    {
+      "edge": "152",
+      "node": "28"
+    },
+    {
+      "edge": "152",
+      "node": "24"
+    },
+    {
+      "edge": "152",
+      "node": "0"
+    },
+    {
+      "edge": "152",
+      "node": "35"
+    },
+    {
+      "edge": "152",
+      "node": "32"
+    },
+    {
+      "edge": "152",
+      "node": "26"
+    },
+    {
+      "edge": "152",
+      "node": "4"
+    },
+    {
+      "edge": "152",
+      "node": "20"
+    },
+    {
+      "edge": "152",
+      "node": "31"
+    },
+    {
+      "edge": "152",
+      "node": "36"
+    },
+    {
+      "edge": "152",
+      "node": "19"
+    },
+    {
+      "edge": "152",
+      "node": "23"
+    },
+    {
+      "edge": "152",
+      "node": "12"
+    },
+    {
+      "edge": "152",
+      "node": "3"
+    },
+    {
+      "edge": "152",
+      "node": "14"
+    },
+    {
+      "edge": "152",
+      "node": "15"
+    },
+    {
+      "edge": "1",
+      "node": "1"
+    },
+    {
+      "edge": "2",
+      "node": "1"
+    },
+    {
+      "edge": "4",
+      "node": "1"
+    },
+    {
+      "edge": "4",
+      "node": "25"
+    },
+    {
+      "edge": "10",
+      "node": "7"
+    },
+    {
+      "edge": "10",
+      "node": "8"
+    },
+    {
+      "edge": "10",
+      "node": "22"
+    },
+    {
+      "edge": "10",
+      "node": "1"
+    },
+    {
+      "edge": "10",
+      "node": "13"
+    },
+    {
+      "edge": "10",
+      "node": "25"
+    },
+    {
+      "edge": "10",
+      "node": "32"
+    },
+    {
+      "edge": "10",
+      "node": "26"
+    },
+    {
+      "edge": "10",
+      "node": "20"
+    },
+    {
+      "edge": "10",
+      "node": "5"
+    },
+    {
+      "edge": "10",
+      "node": "31"
+    },
+    {
+      "edge": "10",
+      "node": "19"
+    },
+    {
+      "edge": "10",
+      "node": "6"
+    },
+    {
+      "edge": "10",
+      "node": "29"
+    },
+    {
+      "edge": "10",
+      "node": "23"
+    },
+    {
+      "edge": "10",
+      "node": "3"
+    },
+    {
+      "edge": "10",
+      "node": "14"
+    },
+    {
+      "edge": "10",
+      "node": "21"
+    },
+    {
+      "edge": "13",
+      "node": "5"
+    },
+    {
+      "edge": "13",
+      "node": "3"
+    },
+    {
+      "edge": "13",
+      "node": "6"
+    },
+    {
+      "edge": "13",
+      "node": "1"
+    },
+    {
+      "edge": "13",
+      "node": "21"
+    },
+    {
+      "edge": "16",
+      "node": "20"
+    },
+    {
+      "edge": "16",
+      "node": "1"
+    },
+    {
+      "edge": "17",
+      "node": "1"
+    },
+    {
+      "edge": "21",
+      "node": "20"
+    },
+    {
+      "edge": "21",
+      "node": "5"
+    },
+    {
+      "edge": "21",
+      "node": "30"
+    },
+    {
+      "edge": "21",
+      "node": "8"
+    },
+    {
+      "edge": "21",
+      "node": "6"
+    },
+    {
+      "edge": "21",
+      "node": "1"
+    },
+    {
+      "edge": "21",
+      "node": "18"
+    },
+    {
+      "edge": "21",
+      "node": "35"
+    },
+    {
+      "edge": "21",
+      "node": "3"
+    },
+    {
+      "edge": "25",
+      "node": "19"
+    },
+    {
+      "edge": "25",
+      "node": "32"
+    },
+    {
+      "edge": "25",
+      "node": "1"
+    },
+    {
+      "edge": "28",
+      "node": "20"
+    },
+    {
+      "edge": "28",
+      "node": "1"
+    },
+    {
+      "edge": "33",
+      "node": "1"
+    },
+    {
+      "edge": "36",
+      "node": "9"
+    },
+    {
+      "edge": "36",
+      "node": "20"
+    },
+    {
+      "edge": "36",
+      "node": "1"
+    },
+    {
+      "edge": "39",
+      "node": "20"
+    },
+    {
+      "edge": "39",
+      "node": "1"
+    },
+    {
+      "edge": "39",
+      "node": "22"
+    },
+    {
+      "edge": "39",
+      "node": "26"
+    },
+    {
+      "edge": "46",
+      "node": "8"
+    },
+    {
+      "edge": "46",
+      "node": "1"
+    },
+    {
+      "edge": "46",
+      "node": "5"
+    },
+    {
+      "edge": "48",
+      "node": "20"
+    },
+    {
+      "edge": "48",
+      "node": "1"
+    },
+    {
+      "edge": "49",
+      "node": "1"
+    },
+    {
+      "edge": "50",
+      "node": "1"
+    },
+    {
+      "edge": "61",
+      "node": "21"
+    },
+    {
+      "edge": "61",
+      "node": "17"
+    },
+    {
+      "edge": "61",
+      "node": "7"
+    },
+    {
+      "edge": "61",
+      "node": "9"
+    },
+    {
+      "edge": "61",
+      "node": "16"
+    },
+    {
+      "edge": "61",
+      "node": "18"
+    },
+    {
+      "edge": "61",
+      "node": "8"
+    },
+    {
+      "edge": "61",
+      "node": "25"
+    },
+    {
+      "edge": "61",
+      "node": "22"
+    },
+    {
+      "edge": "61",
+      "node": "1"
+    },
+    {
+      "edge": "61",
+      "node": "24"
+    },
+    {
+      "edge": "61",
+      "node": "35"
+    },
+    {
+      "edge": "61",
+      "node": "32"
+    },
+    {
+      "edge": "61",
+      "node": "4"
+    },
+    {
+      "edge": "61",
+      "node": "20"
+    },
+    {
+      "edge": "61",
+      "node": "5"
+    },
+    {
+      "edge": "61",
+      "node": "10"
+    },
+    {
+      "edge": "61",
+      "node": "31"
+    },
+    {
+      "edge": "61",
+      "node": "29"
+    },
+    {
+      "edge": "61",
+      "node": "6"
+    },
+    {
+      "edge": "61",
+      "node": "23"
+    },
+    {
+      "edge": "61",
+      "node": "3"
+    },
+    {
+      "edge": "61",
+      "node": "14"
+    },
+    {
+      "edge": "61",
+      "node": "15"
+    },
+    {
+      "edge": "62",
+      "node": "20"
+    },
+    {
+      "edge": "62",
+      "node": "5"
+    },
+    {
+      "edge": "62",
+      "node": "31"
+    },
+    {
+      "edge": "62",
+      "node": "30"
+    },
+    {
+      "edge": "62",
+      "node": "7"
+    },
+    {
+      "edge": "62",
+      "node": "8"
+    },
+    {
+      "edge": "62",
+      "node": "19"
+    },
+    {
+      "edge": "62",
+      "node": "6"
+    },
+    {
+      "edge": "62",
+      "node": "1"
+    },
+    {
+      "edge": "62",
+      "node": "18"
+    },
+    {
+      "edge": "62",
+      "node": "3"
+    },
+    {
+      "edge": "62",
+      "node": "14"
+    },
+    {
+      "edge": "62",
+      "node": "21"
+    },
+    {
+      "edge": "64",
+      "node": "8"
+    },
+    {
+      "edge": "64",
+      "node": "1"
+    },
+    {
+      "edge": "65",
+      "node": "1"
+    },
+    {
+      "edge": "65",
+      "node": "5"
+    },
+    {
+      "edge": "66",
+      "node": "1"
+    },
+    {
+      "edge": "68",
+      "node": "1"
+    },
+    {
+      "edge": "71",
+      "node": "1"
+    },
+    {
+      "edge": "73",
+      "node": "1"
+    },
+    {
+      "edge": "74",
+      "node": "1"
+    },
+    {
+      "edge": "84",
+      "node": "20"
+    },
+    {
+      "edge": "84",
+      "node": "1"
+    },
+    {
+      "edge": "90",
+      "node": "2"
+    },
+    {
+      "edge": "90",
+      "node": "31"
+    },
+    {
+      "edge": "90",
+      "node": "7"
+    },
+    {
+      "edge": "90",
+      "node": "1"
+    },
+    {
+      "edge": "90",
+      "node": "25"
+    },
+    {
+      "edge": "90",
+      "node": "33"
+    },
+    {
+      "edge": "90",
+      "node": "23"
+    },
+    {
+      "edge": "90",
+      "node": "3"
+    },
+    {
+      "edge": "90",
+      "node": "14"
+    },
+    {
+      "edge": "93",
+      "node": "1"
+    },
+    {
+      "edge": "94",
+      "node": "1"
+    },
+    {
+      "edge": "111",
+      "node": "20"
+    },
+    {
+      "edge": "111",
+      "node": "1"
+    },
+    {
+      "edge": "111",
+      "node": "26"
+    },
+    {
+      "edge": "112",
+      "node": "20"
+    },
+    {
+      "edge": "112",
+      "node": "1"
+    },
+    {
+      "edge": "114",
+      "node": "1"
+    },
+    {
+      "edge": "115",
+      "node": "1"
+    },
+    {
+      "edge": "116",
+      "node": "1"
+    },
+    {
+      "edge": "117",
+      "node": "20"
+    },
+    {
+      "edge": "117",
+      "node": "18"
+    },
+    {
+      "edge": "117",
+      "node": "1"
+    },
+    {
+      "edge": "118",
+      "node": "3"
+    },
+    {
+      "edge": "118",
+      "node": "1"
+    },
+    {
+      "edge": "122",
+      "node": "5"
+    },
+    {
+      "edge": "122",
+      "node": "7"
+    },
+    {
+      "edge": "122",
+      "node": "8"
+    },
+    {
+      "edge": "122",
+      "node": "29"
+    },
+    {
+      "edge": "122",
+      "node": "1"
+    },
+    {
+      "edge": "122",
+      "node": "14"
+    },
+    {
+      "edge": "122",
+      "node": "15"
+    },
+    {
+      "edge": "123",
+      "node": "2"
+    },
+    {
+      "edge": "123",
+      "node": "17"
+    },
+    {
+      "edge": "123",
+      "node": "30"
+    },
+    {
+      "edge": "123",
+      "node": "7"
+    },
+    {
+      "edge": "123",
+      "node": "8"
+    },
+    {
+      "edge": "123",
+      "node": "16"
+    },
+    {
+      "edge": "123",
+      "node": "22"
+    },
+    {
+      "edge": "123",
+      "node": "1"
+    },
+    {
+      "edge": "123",
+      "node": "25"
+    },
+    {
+      "edge": "123",
+      "node": "13"
+    },
+    {
+      "edge": "123",
+      "node": "24"
+    },
+    {
+      "edge": "123",
+      "node": "35"
+    },
+    {
+      "edge": "123",
+      "node": "20"
+    },
+    {
+      "edge": "123",
+      "node": "5"
+    },
+    {
+      "edge": "123",
+      "node": "31"
+    },
+    {
+      "edge": "123",
+      "node": "19"
+    },
+    {
+      "edge": "123",
+      "node": "29"
+    },
+    {
+      "edge": "123",
+      "node": "6"
+    },
+    {
+      "edge": "123",
+      "node": "23"
+    },
+    {
+      "edge": "123",
+      "node": "12"
+    },
+    {
+      "edge": "123",
+      "node": "3"
+    },
+    {
+      "edge": "123",
+      "node": "14"
+    },
+    {
+      "edge": "125",
+      "node": "9"
+    },
+    {
+      "edge": "125",
+      "node": "1"
+    },
+    {
+      "edge": "126",
+      "node": "20"
+    },
+    {
+      "edge": "126",
+      "node": "8"
+    },
+    {
+      "edge": "126",
+      "node": "18"
+    },
+    {
+      "edge": "126",
+      "node": "1"
+    },
+    {
+      "edge": "126",
+      "node": "26"
+    },
+    {
+      "edge": "127",
+      "node": "1"
+    },
+    {
+      "edge": "128",
+      "node": "3"
+    },
+    {
+      "edge": "128",
+      "node": "9"
+    },
+    {
+      "edge": "128",
+      "node": "1"
+    },
+    {
+      "edge": "128",
+      "node": "8"
+    },
+    {
+      "edge": "129",
+      "node": "1"
+    },
+    {
+      "edge": "130",
+      "node": "8"
+    },
+    {
+      "edge": "130",
+      "node": "20"
+    },
+    {
+      "edge": "130",
+      "node": "1"
+    },
+    {
+      "edge": "136",
+      "node": "20"
+    },
+    {
+      "edge": "136",
+      "node": "6"
+    },
+    {
+      "edge": "136",
+      "node": "1"
+    },
+    {
+      "edge": "136",
+      "node": "18"
+    },
+    {
+      "edge": "137",
+      "node": "1"
+    },
+    {
+      "edge": "138",
+      "node": "1"
+    },
+    {
+      "edge": "143",
+      "node": "1"
+    },
+    {
+      "edge": "144",
+      "node": "1"
+    },
+    {
+      "edge": "156",
+      "node": "1"
+    },
+    {
+      "edge": "157",
+      "node": "20"
+    },
+    {
+      "edge": "157",
+      "node": "1"
+    },
+    {
+      "edge": "157",
+      "node": "5"
+    },
+    {
+      "edge": "158",
+      "node": "1"
+    },
+    {
+      "edge": "162",
+      "node": "1"
+    },
+    {
+      "edge": "163",
+      "node": "20"
+    },
+    {
+      "edge": "163",
+      "node": "5"
+    },
+    {
+      "edge": "163",
+      "node": "31"
+    },
+    {
+      "edge": "163",
+      "node": "8"
+    },
+    {
+      "edge": "163",
+      "node": "1"
+    },
+    {
+      "edge": "167",
+      "node": "1"
+    },
+    {
+      "edge": "168",
+      "node": "20"
+    },
+    {
+      "edge": "168",
+      "node": "5"
+    },
+    {
+      "edge": "168",
+      "node": "8"
+    },
+    {
+      "edge": "168",
+      "node": "6"
+    },
+    {
+      "edge": "168",
+      "node": "1"
+    },
+    {
+      "edge": "168",
+      "node": "21"
+    },
+    {
+      "edge": "168",
+      "node": "18"
+    },
+    {
+      "edge": "170",
+      "node": "1"
+    },
+    {
+      "edge": "170",
+      "node": "21"
+    },
+    {
+      "edge": "173",
+      "node": "3"
+    },
+    {
+      "edge": "173",
+      "node": "9"
+    },
+    {
+      "edge": "173",
+      "node": "1"
+    },
+    {
+      "edge": "173",
+      "node": "21"
+    },
+    {
+      "edge": "177",
+      "node": "3"
+    },
+    {
+      "edge": "177",
+      "node": "1"
+    },
+    {
+      "edge": "178",
+      "node": "20"
+    },
+    {
+      "edge": "178",
+      "node": "6"
+    },
+    {
+      "edge": "178",
+      "node": "1"
+    },
+    {
+      "edge": "182",
+      "node": "19"
+    },
+    {
+      "edge": "182",
+      "node": "1"
+    },
+    {
+      "edge": "183",
+      "node": "20"
+    },
+    {
+      "edge": "183",
+      "node": "3"
+    },
+    {
+      "edge": "183",
+      "node": "6"
+    },
+    {
+      "edge": "183",
+      "node": "1"
+    },
+    {
+      "edge": "183",
+      "node": "14"
+    },
+    {
+      "edge": "184",
+      "node": "8"
+    },
+    {
+      "edge": "184",
+      "node": "1"
+    },
+    {
+      "edge": "184",
+      "node": "5"
+    },
+    {
+      "edge": "184",
+      "node": "24"
+    },
+    {
+      "edge": "189",
+      "node": "1"
+    },
+    {
+      "edge": "196",
+      "node": "1"
+    },
+    {
+      "edge": "197",
+      "node": "20"
+    },
+    {
+      "edge": "197",
+      "node": "1"
+    },
+    {
+      "edge": "198",
+      "node": "1"
+    },
+    {
+      "edge": "199",
+      "node": "1"
+    },
+    {
+      "edge": "200",
+      "node": "1"
+    },
+    {
+      "edge": "201",
+      "node": "1"
+    },
+    {
+      "edge": "203",
+      "node": "20"
+    },
+    {
+      "edge": "203",
+      "node": "1"
+    },
+    {
+      "edge": "204",
+      "node": "1"
+    },
+    {
+      "edge": "206",
+      "node": "20"
+    },
+    {
+      "edge": "206",
+      "node": "1"
+    },
+    {
+      "edge": "206",
+      "node": "36"
+    },
+    {
+      "edge": "208",
+      "node": "1"
+    },
+    {
+      "edge": "209",
+      "node": "20"
+    },
+    {
+      "edge": "209",
+      "node": "1"
+    },
+    {
+      "edge": "209",
+      "node": "5"
+    },
+    {
+      "edge": "209",
+      "node": "26"
+    },
+    {
+      "edge": "211",
+      "node": "1"
+    },
+    {
+      "edge": "221",
+      "node": "1"
+    },
+    {
+      "edge": "223",
+      "node": "1"
+    },
+    {
+      "edge": "224",
+      "node": "8"
+    },
+    {
+      "edge": "224",
+      "node": "20"
+    },
+    {
+      "edge": "224",
+      "node": "1"
+    },
+    {
+      "edge": "224",
+      "node": "5"
+    },
+    {
+      "edge": "5",
+      "node": "8"
+    },
+    {
+      "edge": "5",
+      "node": "2"
+    },
+    {
+      "edge": "6",
+      "node": "2"
+    },
+    {
+      "edge": "15",
+      "node": "20"
+    },
+    {
+      "edge": "15",
+      "node": "2"
+    },
+    {
+      "edge": "15",
+      "node": "14"
+    },
+    {
+      "edge": "27",
+      "node": "13"
+    },
+    {
+      "edge": "27",
+      "node": "5"
+    },
+    {
+      "edge": "27",
+      "node": "2"
+    },
+    {
+      "edge": "38",
+      "node": "32"
+    },
+    {
+      "edge": "38",
+      "node": "2"
+    },
+    {
+      "edge": "52",
+      "node": "2"
+    },
+    {
+      "edge": "58",
+      "node": "19"
+    },
+    {
+      "edge": "58",
+      "node": "2"
+    },
+    {
+      "edge": "95",
+      "node": "2"
+    },
+    {
+      "edge": "103",
+      "node": "2"
+    },
+    {
+      "edge": "103",
+      "node": "27"
+    },
+    {
+      "edge": "103",
+      "node": "19"
+    },
+    {
+      "edge": "103",
+      "node": "33"
+    },
+    {
+      "edge": "103",
+      "node": "28"
+    },
+    {
+      "edge": "146",
+      "node": "2"
+    },
+    {
+      "edge": "192",
+      "node": "19"
+    },
+    {
+      "edge": "192",
+      "node": "2"
+    },
+    {
+      "edge": "192",
+      "node": "14"
+    },
+    {
+      "edge": "192",
+      "node": "28"
+    },
+    {
+      "edge": "193",
+      "node": "2"
+    },
+    {
+      "edge": "194",
+      "node": "2"
+    },
+    {
+      "edge": "220",
+      "node": "2"
+    },
+    {
+      "edge": "22",
+      "node": "17"
+    },
+    {
+      "edge": "22",
+      "node": "5"
+    },
+    {
+      "edge": "22",
+      "node": "7"
+    },
+    {
+      "edge": "22",
+      "node": "31"
+    },
+    {
+      "edge": "22",
+      "node": "3"
+    },
+    {
+      "edge": "22",
+      "node": "6"
+    },
+    {
+      "edge": "22",
+      "node": "14"
+    },
+    {
+      "edge": "23",
+      "node": "5"
+    },
+    {
+      "edge": "23",
+      "node": "3"
+    },
+    {
+      "edge": "23",
+      "node": "36"
+    },
+    {
+      "edge": "23",
+      "node": "8"
+    },
+    {
+      "edge": "23",
+      "node": "6"
+    },
+    {
+      "edge": "23",
+      "node": "14"
+    },
+    {
+      "edge": "23",
+      "node": "18"
+    },
+    {
+      "edge": "45",
+      "node": "3"
+    },
+    {
+      "edge": "45",
+      "node": "5"
+    },
+    {
+      "edge": "45",
+      "node": "31"
+    },
+    {
+      "edge": "60",
+      "node": "10"
+    },
+    {
+      "edge": "60",
+      "node": "31"
+    },
+    {
+      "edge": "60",
+      "node": "3"
+    },
+    {
+      "edge": "60",
+      "node": "6"
+    },
+    {
+      "edge": "60",
+      "node": "26"
+    },
+    {
+      "edge": "60",
+      "node": "21"
+    },
+    {
+      "edge": "60",
+      "node": "18"
+    },
+    {
+      "edge": "78",
+      "node": "3"
+    },
+    {
+      "edge": "82",
+      "node": "31"
+    },
+    {
+      "edge": "82",
+      "node": "3"
+    },
+    {
+      "edge": "82",
+      "node": "18"
+    },
+    {
+      "edge": "82",
+      "node": "25"
+    },
+    {
+      "edge": "82",
+      "node": "21"
+    },
+    {
+      "edge": "82",
+      "node": "26"
+    },
+    {
+      "edge": "101",
+      "node": "3"
+    },
+    {
+      "edge": "101",
+      "node": "18"
+    },
+    {
+      "edge": "101",
+      "node": "5"
+    },
+    {
+      "edge": "120",
+      "node": "23"
+    },
+    {
+      "edge": "120",
+      "node": "15"
+    },
+    {
+      "edge": "120",
+      "node": "30"
+    },
+    {
+      "edge": "120",
+      "node": "3"
+    },
+    {
+      "edge": "120",
+      "node": "22"
+    },
+    {
+      "edge": "120",
+      "node": "18"
+    },
+    {
+      "edge": "120",
+      "node": "21"
+    },
+    {
+      "edge": "151",
+      "node": "31"
+    },
+    {
+      "edge": "151",
+      "node": "17"
+    },
+    {
+      "edge": "151",
+      "node": "5"
+    },
+    {
+      "edge": "151",
+      "node": "10"
+    },
+    {
+      "edge": "151",
+      "node": "15"
+    },
+    {
+      "edge": "151",
+      "node": "19"
+    },
+    {
+      "edge": "151",
+      "node": "6"
+    },
+    {
+      "edge": "151",
+      "node": "18"
+    },
+    {
+      "edge": "151",
+      "node": "25"
+    },
+    {
+      "edge": "151",
+      "node": "29"
+    },
+    {
+      "edge": "151",
+      "node": "3"
+    },
+    {
+      "edge": "151",
+      "node": "21"
+    },
+    {
+      "edge": "153",
+      "node": "5"
+    },
+    {
+      "edge": "153",
+      "node": "12"
+    },
+    {
+      "edge": "153",
+      "node": "3"
+    },
+    {
+      "edge": "153",
+      "node": "6"
+    },
+    {
+      "edge": "153",
+      "node": "21"
+    },
+    {
+      "edge": "153",
+      "node": "18"
+    },
+    {
+      "edge": "159",
+      "node": "3"
+    },
+    {
+      "edge": "159",
+      "node": "14"
+    },
+    {
+      "edge": "159",
+      "node": "21"
+    },
+    {
+      "edge": "174",
+      "node": "3"
+    },
+    {
+      "edge": "174",
+      "node": "9"
+    },
+    {
+      "edge": "174",
+      "node": "17"
+    },
+    {
+      "edge": "174",
+      "node": "22"
+    },
+    {
+      "edge": "188",
+      "node": "3"
+    },
+    {
+      "edge": "188",
+      "node": "17"
+    },
+    {
+      "edge": "188",
+      "node": "14"
+    },
+    {
+      "edge": "188",
+      "node": "30"
+    },
+    {
+      "edge": "202",
+      "node": "3"
+    },
+    {
+      "edge": "202",
+      "node": "32"
+    },
+    {
+      "edge": "79",
+      "node": "4"
+    },
+    {
+      "edge": "79",
+      "node": "34"
+    },
+    {
+      "edge": "121",
+      "node": "4"
+    },
+    {
+      "edge": "121",
+      "node": "19"
+    },
+    {
+      "edge": "121",
+      "node": "8"
+    },
+    {
+      "edge": "121",
+      "node": "22"
+    },
+    {
+      "edge": "121",
+      "node": "18"
+    },
+    {
+      "edge": "14",
+      "node": "6"
+    },
+    {
+      "edge": "14",
+      "node": "5"
+    },
+    {
+      "edge": "18",
+      "node": "17"
+    },
+    {
+      "edge": "18",
+      "node": "5"
+    },
+    {
+      "edge": "18",
+      "node": "30"
+    },
+    {
+      "edge": "18",
+      "node": "36"
+    },
+    {
+      "edge": "18",
+      "node": "6"
+    },
+    {
+      "edge": "18",
+      "node": "13"
+    },
+    {
+      "edge": "18",
+      "node": "11"
+    },
+    {
+      "edge": "18",
+      "node": "35"
+    },
+    {
+      "edge": "18",
+      "node": "12"
+    },
+    {
+      "edge": "18",
+      "node": "14"
+    },
+    {
+      "edge": "18",
+      "node": "15"
+    },
+    {
+      "edge": "19",
+      "node": "5"
+    },
+    {
+      "edge": "19",
+      "node": "15"
+    },
+    {
+      "edge": "20",
+      "node": "6"
+    },
+    {
+      "edge": "20",
+      "node": "5"
+    },
+    {
+      "edge": "29",
+      "node": "5"
+    },
+    {
+      "edge": "29",
+      "node": "30"
+    },
+    {
+      "edge": "29",
+      "node": "36"
+    },
+    {
+      "edge": "29",
+      "node": "8"
+    },
+    {
+      "edge": "29",
+      "node": "22"
+    },
+    {
+      "edge": "29",
+      "node": "6"
+    },
+    {
+      "edge": "29",
+      "node": "29"
+    },
+    {
+      "edge": "29",
+      "node": "28"
+    },
+    {
+      "edge": "29",
+      "node": "35"
+    },
+    {
+      "edge": "29",
+      "node": "14"
+    },
+    {
+      "edge": "63",
+      "node": "6"
+    },
+    {
+      "edge": "63",
+      "node": "5"
+    },
+    {
+      "edge": "96",
+      "node": "5"
+    },
+    {
+      "edge": "97",
+      "node": "5"
+    },
+    {
+      "edge": "212",
+      "node": "5"
+    },
+    {
+      "edge": "214",
+      "node": "5"
+    },
+    {
+      "edge": "47",
+      "node": "6"
+    },
+    {
+      "edge": "47",
+      "node": "25"
+    },
+    {
+      "edge": "47",
+      "node": "21"
+    },
+    {
+      "edge": "119",
+      "node": "16"
+    },
+    {
+      "edge": "119",
+      "node": "6"
+    },
+    {
+      "edge": "147",
+      "node": "6"
+    },
+    {
+      "edge": "165",
+      "node": "31"
+    },
+    {
+      "edge": "165",
+      "node": "17"
+    },
+    {
+      "edge": "165",
+      "node": "10"
+    },
+    {
+      "edge": "165",
+      "node": "6"
+    },
+    {
+      "edge": "165",
+      "node": "25"
+    },
+    {
+      "edge": "165",
+      "node": "11"
+    },
+    {
+      "edge": "165",
+      "node": "32"
+    },
+    {
+      "edge": "165",
+      "node": "15"
+    },
+    {
+      "edge": "222",
+      "node": "19"
+    },
+    {
+      "edge": "222",
+      "node": "6"
+    },
+    {
+      "edge": "222",
+      "node": "20"
+    },
+    {
+      "edge": "55",
+      "node": "20"
+    },
+    {
+      "edge": "55",
+      "node": "10"
+    },
+    {
+      "edge": "55",
+      "node": "31"
+    },
+    {
+      "edge": "55",
+      "node": "7"
+    },
+    {
+      "edge": "55",
+      "node": "9"
+    },
+    {
+      "edge": "55",
+      "node": "19"
+    },
+    {
+      "edge": "55",
+      "node": "22"
+    },
+    {
+      "edge": "55",
+      "node": "13"
+    },
+    {
+      "edge": "55",
+      "node": "33"
+    },
+    {
+      "edge": "55",
+      "node": "24"
+    },
+    {
+      "edge": "55",
+      "node": "26"
+    },
+    {
+      "edge": "92",
+      "node": "7"
+    },
+    {
+      "edge": "9",
+      "node": "8"
+    },
+    {
+      "edge": "30",
+      "node": "8"
+    },
+    {
+      "edge": "67",
+      "node": "8"
+    },
+    {
+      "edge": "69",
+      "node": "8"
+    },
+    {
+      "edge": "72",
+      "node": "8"
+    },
+    {
+      "edge": "77",
+      "node": "8"
+    },
+    {
+      "edge": "81",
+      "node": "20"
+    },
+    {
+      "edge": "81",
+      "node": "17"
+    },
+    {
+      "edge": "81",
+      "node": "31"
+    },
+    {
+      "edge": "81",
+      "node": "8"
+    },
+    {
+      "edge": "81",
+      "node": "18"
+    },
+    {
+      "edge": "81",
+      "node": "14"
+    },
+    {
+      "edge": "81",
+      "node": "21"
+    },
+    {
+      "edge": "124",
+      "node": "8"
+    },
+    {
+      "edge": "124",
+      "node": "33"
+    },
+    {
+      "edge": "124",
+      "node": "15"
+    },
+    {
+      "edge": "124",
+      "node": "23"
+    },
+    {
+      "edge": "142",
+      "node": "8"
+    },
+    {
+      "edge": "145",
+      "node": "8"
+    },
+    {
+      "edge": "145",
+      "node": "22"
+    },
+    {
+      "edge": "145",
+      "node": "21"
+    },
+    {
+      "edge": "145",
+      "node": "26"
+    },
+    {
+      "edge": "149",
+      "node": "8"
+    },
+    {
+      "edge": "176",
+      "node": "8"
+    },
+    {
+      "edge": "176",
+      "node": "20"
+    },
+    {
+      "edge": "185",
+      "node": "8"
+    },
+    {
+      "edge": "207",
+      "node": "8"
+    },
+    {
+      "edge": "219",
+      "node": "8"
+    },
+    {
+      "edge": "219",
+      "node": "14"
+    },
+    {
+      "edge": "32",
+      "node": "23"
+    },
+    {
+      "edge": "32",
+      "node": "20"
+    },
+    {
+      "edge": "32",
+      "node": "19"
+    },
+    {
+      "edge": "32",
+      "node": "9"
+    },
+    {
+      "edge": "32",
+      "node": "22"
+    },
+    {
+      "edge": "32",
+      "node": "26"
+    },
+    {
+      "edge": "40",
+      "node": "9"
+    },
+    {
+      "edge": "56",
+      "node": "24"
+    },
+    {
+      "edge": "56",
+      "node": "31"
+    },
+    {
+      "edge": "56",
+      "node": "30"
+    },
+    {
+      "edge": "56",
+      "node": "9"
+    },
+    {
+      "edge": "56",
+      "node": "19"
+    },
+    {
+      "edge": "56",
+      "node": "26"
+    },
+    {
+      "edge": "108",
+      "node": "9"
+    },
+    {
+      "edge": "0",
+      "node": "24"
+    },
+    {
+      "edge": "0",
+      "node": "10"
+    },
+    {
+      "edge": "59",
+      "node": "10"
+    },
+    {
+      "edge": "59",
+      "node": "31"
+    },
+    {
+      "edge": "217",
+      "node": "23"
+    },
+    {
+      "edge": "217",
+      "node": "12"
+    },
+    {
+      "edge": "7",
+      "node": "13"
+    },
+    {
+      "edge": "7",
+      "node": "14"
+    },
+    {
+      "edge": "7",
+      "node": "25"
+    },
+    {
+      "edge": "99",
+      "node": "13"
+    },
+    {
+      "edge": "105",
+      "node": "13"
+    },
+    {
+      "edge": "105",
+      "node": "33"
+    },
+    {
+      "edge": "135",
+      "node": "15"
+    },
+    {
+      "edge": "155",
+      "node": "15"
+    },
+    {
+      "edge": "133",
+      "node": "20"
+    },
+    {
+      "edge": "133",
+      "node": "19"
+    },
+    {
+      "edge": "133",
+      "node": "16"
+    },
+    {
+      "edge": "133",
+      "node": "32"
+    },
+    {
+      "edge": "133",
+      "node": "22"
+    },
+    {
+      "edge": "133",
+      "node": "26"
+    },
+    {
+      "edge": "134",
+      "node": "16"
+    },
+    {
+      "edge": "134",
+      "node": "30"
+    },
+    {
+      "edge": "134",
+      "node": "26"
+    },
+    {
+      "edge": "191",
+      "node": "16"
+    },
+    {
+      "edge": "148",
+      "node": "17"
+    },
+    {
+      "edge": "181",
+      "node": "17"
+    },
+    {
+      "edge": "83",
+      "node": "18"
+    },
+    {
+      "edge": "100",
+      "node": "18"
+    },
+    {
+      "edge": "107",
+      "node": "18"
+    },
+    {
+      "edge": "160",
+      "node": "18"
+    },
+    {
+      "edge": "218",
+      "node": "18"
+    },
+    {
+      "edge": "37",
+      "node": "20"
+    },
+    {
+      "edge": "44",
+      "node": "20"
+    },
+    {
+      "edge": "54",
+      "node": "20"
+    },
+    {
+      "edge": "86",
+      "node": "20"
+    },
+    {
+      "edge": "87",
+      "node": "20"
+    },
+    {
+      "edge": "89",
+      "node": "20"
+    },
+    {
+      "edge": "98",
+      "node": "20"
+    },
+    {
+      "edge": "132",
+      "node": "20"
+    },
+    {
+      "edge": "132",
+      "node": "29"
+    },
+    {
+      "edge": "132",
+      "node": "26"
+    },
+    {
+      "edge": "139",
+      "node": "20"
+    },
+    {
+      "edge": "150",
+      "node": "20"
+    },
+    {
+      "edge": "171",
+      "node": "20"
+    },
+    {
+      "edge": "172",
+      "node": "20"
+    },
+    {
+      "edge": "179",
+      "node": "20"
+    },
+    {
+      "edge": "179",
+      "node": "31"
+    },
+    {
+      "edge": "180",
+      "node": "20"
+    },
+    {
+      "edge": "186",
+      "node": "20"
+    },
+    {
+      "edge": "195",
+      "node": "20"
+    },
+    {
+      "edge": "205",
+      "node": "20"
+    },
+    {
+      "edge": "210",
+      "node": "20"
+    },
+    {
+      "edge": "70",
+      "node": "21"
+    },
+    {
+      "edge": "85",
+      "node": "22"
+    },
+    {
+      "edge": "85",
+      "node": "21"
+    },
+    {
+      "edge": "131",
+      "node": "21"
+    },
+    {
+      "edge": "140",
+      "node": "21"
+    },
+    {
+      "edge": "166",
+      "node": "21"
+    },
+    {
+      "edge": "187",
+      "node": "21"
+    },
+    {
+      "edge": "190",
+      "node": "21"
+    },
+    {
+      "edge": "80",
+      "node": "22"
+    },
+    {
+      "edge": "80",
+      "node": "33"
+    },
+    {
+      "edge": "80",
+      "node": "30"
+    },
+    {
+      "edge": "80",
+      "node": "28"
+    },
+    {
+      "edge": "141",
+      "node": "24"
+    },
+    {
+      "edge": "141",
+      "node": "22"
+    },
+    {
+      "edge": "3",
+      "node": "23"
+    },
+    {
+      "edge": "31",
+      "node": "23"
+    },
+    {
+      "edge": "34",
+      "node": "23"
+    },
+    {
+      "edge": "34",
+      "node": "24"
+    },
+    {
+      "edge": "110",
+      "node": "23"
+    },
+    {
+      "edge": "215",
+      "node": "23"
+    },
+    {
+      "edge": "53",
+      "node": "24"
+    },
+    {
+      "edge": "53",
+      "node": "32"
+    },
+    {
+      "edge": "88",
+      "node": "24"
+    },
+    {
+      "edge": "91",
+      "node": "24"
+    },
+    {
+      "edge": "76",
+      "node": "25"
+    },
+    {
+      "edge": "113",
+      "node": "25"
+    },
+    {
+      "edge": "161",
+      "node": "25"
+    },
+    {
+      "edge": "8",
+      "node": "26"
+    },
+    {
+      "edge": "35",
+      "node": "26"
+    },
+    {
+      "edge": "41",
+      "node": "26"
+    },
+    {
+      "edge": "57",
+      "node": "26"
+    },
+    {
+      "edge": "106",
+      "node": "26"
+    },
+    {
+      "edge": "106",
+      "node": "36"
+    },
+    {
+      "edge": "154",
+      "node": "26"
+    },
+    {
+      "edge": "175",
+      "node": "26"
+    },
+    {
+      "edge": "213",
+      "node": "26"
+    },
+    {
+      "edge": "42",
+      "node": "27"
+    },
+    {
+      "edge": "26",
+      "node": "28"
+    },
+    {
+      "edge": "216",
+      "node": "28"
+    },
+    {
+      "edge": "164",
+      "node": "29"
+    },
+    {
+      "edge": "11",
+      "node": "30"
+    },
+    {
+      "edge": "12",
+      "node": "30"
+    },
+    {
+      "edge": "24",
+      "node": "30"
+    },
+    {
+      "edge": "43",
+      "node": "31"
+    },
+    {
+      "edge": "43",
+      "node": "30"
+    },
+    {
+      "edge": "51",
+      "node": "30"
+    },
+    {
+      "edge": "102",
+      "node": "31"
+    },
+    {
+      "edge": "109",
+      "node": "31"
+    },
+    {
+      "edge": "75",
+      "node": "32"
+    },
+    {
+      "edge": "104",
+      "node": "33"
+    },
+    {
+      "edge": "169",
+      "node": "35"
+    }
+  ]
+}
