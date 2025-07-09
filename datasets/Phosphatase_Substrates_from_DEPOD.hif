@@ -1,0 +1,7259 @@
+{
+    "network-type": "undirected",
+    "metadata": {
+        "uniform": false,
+        "order": -1,
+        "directed": false,
+        "name": "Phosphatase_Substrates_from_DEPOD",
+        "source": "Enrichr: https://maayanlab.cloud/Enrichr/geneSetLibrary?mode=text&libraryName=Phosphatase_Substrates_from_DEPOD",
+        "date": "2025-07-09"
+    },
+    "nodes": [
+        {
+            "node": 0,
+            "attrs": {
+                "Names": "MOK"
+            }
+        },
+        {
+            "node": 1,
+            "attrs": {
+                "Names": "NDEL1"
+            }
+        },
+        {
+            "node": 2,
+            "attrs": {
+                "Names": "MAPK9"
+            }
+        },
+        {
+            "node": 3,
+            "attrs": {
+                "Names": "CSNK1E"
+            }
+        },
+        {
+            "node": 4,
+            "attrs": {
+                "Names": "MAPKAPK2"
+            }
+        },
+        {
+            "node": 5,
+            "attrs": {
+                "Names": "PNCK"
+            }
+        },
+        {
+            "node": 6,
+            "attrs": {
+                "Names": "BMPR2"
+            }
+        },
+        {
+            "node": 7,
+            "attrs": {
+                "Names": "LCK"
+            }
+        },
+        {
+            "node": 8,
+            "attrs": {
+                "Names": "NOS1"
+            }
+        },
+        {
+            "node": 9,
+            "attrs": {
+                "Names": "RB1"
+            }
+        },
+        {
+            "node": 10,
+            "attrs": {
+                "Names": "GOLGA2"
+            }
+        },
+        {
+            "node": 11,
+            "attrs": {
+                "Names": "NR3C1"
+            }
+        },
+        {
+            "node": 12,
+            "attrs": {
+                "Names": "RPS6KB1"
+            }
+        },
+        {
+            "node": 13,
+            "attrs": {
+                "Names": "POLR2A"
+            }
+        },
+        {
+            "node": 14,
+            "attrs": {
+                "Names": "STMN1"
+            }
+        },
+        {
+            "node": 15,
+            "attrs": {
+                "Names": "RPA2"
+            }
+        },
+        {
+            "node": 16,
+            "attrs": {
+                "Names": "MAPK12"
+            }
+        },
+        {
+            "node": 17,
+            "attrs": {
+                "Names": "JAK2"
+            }
+        },
+        {
+            "node": 18,
+            "attrs": {
+                "Names": "TJP1"
+            }
+        },
+        {
+            "node": 19,
+            "attrs": {
+                "Names": "ELK1"
+            }
+        },
+        {
+            "node": 20,
+            "attrs": {
+                "Names": "IL6ST"
+            }
+        },
+        {
+            "node": 21,
+            "attrs": {
+                "Names": "RHO"
+            }
+        },
+        {
+            "node": 22,
+            "attrs": {
+                "Names": "OCLN"
+            }
+        },
+        {
+            "node": 23,
+            "attrs": {
+                "Names": "IRS1"
+            }
+        },
+        {
+            "node": 24,
+            "attrs": {
+                "Names": "MSN"
+            }
+        },
+        {
+            "node": 25,
+            "attrs": {
+                "Names": "CD33"
+            }
+        },
+        {
+            "node": 26,
+            "attrs": {
+                "Names": "PPP1R8"
+            }
+        },
+        {
+            "node": 27,
+            "attrs": {
+                "Names": "CAMK2A"
+            }
+        },
+        {
+            "node": 28,
+            "attrs": {
+                "Names": "BCAR1"
+            }
+        },
+        {
+            "node": 29,
+            "attrs": {
+                "Names": "EIF2S1"
+            }
+        },
+        {
+            "node": 30,
+            "attrs": {
+                "Names": "SMN1"
+            }
+        },
+        {
+            "node": 31,
+            "attrs": {
+                "Names": "HIST1H3A"
+            }
+        },
+        {
+            "node": 32,
+            "attrs": {
+                "Names": "PRKAA1"
+            }
+        },
+        {
+            "node": 33,
+            "attrs": {
+                "Names": "PTK2B"
+            }
+        },
+        {
+            "node": 34,
+            "attrs": {
+                "Names": "CBL"
+            }
+        },
+        {
+            "node": 35,
+            "attrs": {
+                "Names": "SMO"
+            }
+        },
+        {
+            "node": 36,
+            "attrs": {
+                "Names": "MAPK14"
+            }
+        },
+        {
+            "node": 37,
+            "attrs": {
+                "Names": "RBM39"
+            }
+        },
+        {
+            "node": 38,
+            "attrs": {
+                "Names": "CDC42BPA"
+            }
+        },
+        {
+            "node": 39,
+            "attrs": {
+                "Names": "EMS1"
+            }
+        },
+        {
+            "node": 40,
+            "attrs": {
+                "Names": "BRCA1"
+            }
+        },
+        {
+            "node": 41,
+            "attrs": {
+                "Names": "H2A1"
+            }
+        },
+        {
+            "node": 42,
+            "attrs": {
+                "Names": "SIRT2"
+            }
+        },
+        {
+            "node": 43,
+            "attrs": {
+                "Names": "STAT5A"
+            }
+        },
+        {
+            "node": 44,
+            "attrs": {
+                "Names": "PXN"
+            }
+        },
+        {
+            "node": 45,
+            "attrs": {
+                "Names": "DNM1L"
+            }
+        },
+        {
+            "node": 46,
+            "attrs": {
+                "Names": "H2B1A"
+            }
+        },
+        {
+            "node": 47,
+            "attrs": {
+                "Names": "SPHK1"
+            }
+        },
+        {
+            "node": 48,
+            "attrs": {
+                "Names": "SLC10A1"
+            }
+        },
+        {
+            "node": 49,
+            "attrs": {
+                "Names": "DSTN"
+            }
+        },
+        {
+            "node": 50,
+            "attrs": {
+                "Names": "CRYAA"
+            }
+        },
+        {
+            "node": 51,
+            "attrs": {
+                "Names": "PDGFRB"
+            }
+        },
+        {
+            "node": 52,
+            "attrs": {
+                "Names": "NOS3"
+            }
+        },
+        {
+            "node": 53,
+            "attrs": {
+                "Names": "VIM"
+            }
+        },
+        {
+            "node": 54,
+            "attrs": {
+                "Names": "VCP"
+            }
+        },
+        {
+            "node": 55,
+            "attrs": {
+                "Names": "PIK3R1"
+            }
+        },
+        {
+            "node": 56,
+            "attrs": {
+                "Names": "TP53"
+            }
+        },
+        {
+            "node": 57,
+            "attrs": {
+                "Names": "CAMK2G"
+            }
+        },
+        {
+            "node": 58,
+            "attrs": {
+                "Names": "CDH1"
+            }
+        },
+        {
+            "node": 59,
+            "attrs": {
+                "Names": "CDK9"
+            }
+        },
+        {
+            "node": 60,
+            "attrs": {
+                "Names": "INSR"
+            }
+        },
+        {
+            "node": 61,
+            "attrs": {
+                "Names": "LIMK1"
+            }
+        },
+        {
+            "node": 62,
+            "attrs": {
+                "Names": "AHCYL1"
+            }
+        },
+        {
+            "node": 63,
+            "attrs": {
+                "Names": "TUBB"
+            }
+        },
+        {
+            "node": 64,
+            "attrs": {
+                "Names": "PARD3"
+            }
+        },
+        {
+            "node": 65,
+            "attrs": {
+                "Names": "LAT"
+            }
+        },
+        {
+            "node": 66,
+            "attrs": {
+                "Names": "ABL1"
+            }
+        },
+        {
+            "node": 67,
+            "attrs": {
+                "Names": "PRKDC"
+            }
+        },
+        {
+            "node": 68,
+            "attrs": {
+                "Names": "CSN1S1"
+            }
+        },
+        {
+            "node": 69,
+            "attrs": {
+                "Names": "MAPK6"
+            }
+        },
+        {
+            "node": 70,
+            "attrs": {
+                "Names": "TNNI3"
+            }
+        },
+        {
+            "node": 71,
+            "attrs": {
+                "Names": "CHUK"
+            }
+        },
+        {
+            "node": 72,
+            "attrs": {
+                "Names": "NFAT5"
+            }
+        },
+        {
+            "node": 73,
+            "attrs": {
+                "Names": "KCNB1"
+            }
+        },
+        {
+            "node": 74,
+            "attrs": {
+                "Names": "FABP4"
+            }
+        },
+        {
+            "node": 75,
+            "attrs": {
+                "Names": "CAMK4"
+            }
+        },
+        {
+            "node": 76,
+            "attrs": {
+                "Names": "CDK1"
+            }
+        },
+        {
+            "node": 77,
+            "attrs": {
+                "Names": "STK3"
+            }
+        },
+        {
+            "node": 78,
+            "attrs": {
+                "Names": "SELE"
+            }
+        },
+        {
+            "node": 79,
+            "attrs": {
+                "Names": "PTPRA"
+            }
+        },
+        {
+            "node": 80,
+            "attrs": {
+                "Names": "CDK2"
+            }
+        },
+        {
+            "node": 81,
+            "attrs": {
+                "Names": "KIF23"
+            }
+        },
+        {
+            "node": 82,
+            "attrs": {
+                "Names": "GRM3"
+            }
+        },
+        {
+            "node": 83,
+            "attrs": {
+                "Names": "CDC42BPB"
+            }
+        },
+        {
+            "node": 84,
+            "attrs": {
+                "Names": "AURKA"
+            }
+        },
+        {
+            "node": 85,
+            "attrs": {
+                "Names": "PRKAR2A"
+            }
+        },
+        {
+            "node": 86,
+            "attrs": {
+                "Names": "CREB1"
+            }
+        },
+        {
+            "node": 87,
+            "attrs": {
+                "Names": "EEF2"
+            }
+        },
+        {
+            "node": 88,
+            "attrs": {
+                "Names": "MAP4K1"
+            }
+        },
+        {
+            "node": 89,
+            "attrs": {
+                "Names": "EZR"
+            }
+        },
+        {
+            "node": 90,
+            "attrs": {
+                "Names": "FGFR2"
+            }
+        },
+        {
+            "node": 91,
+            "attrs": {
+                "Names": "TRIP6"
+            }
+        },
+        {
+            "node": 92,
+            "attrs": {
+                "Names": "CASP8"
+            }
+        },
+        {
+            "node": 93,
+            "attrs": {
+                "Names": "SKP2"
+            }
+        },
+        {
+            "node": 94,
+            "attrs": {
+                "Names": "PDHA2"
+            }
+        },
+        {
+            "node": 95,
+            "attrs": {
+                "Names": "CDKN1B"
+            }
+        },
+        {
+            "node": 96,
+            "attrs": {
+                "Names": "MAPK1"
+            }
+        },
+        {
+            "node": 97,
+            "attrs": {
+                "Names": "PTPN11"
+            }
+        },
+        {
+            "node": 98,
+            "attrs": {
+                "Names": "KSR2"
+            }
+        },
+        {
+            "node": 99,
+            "attrs": {
+                "Names": "TEK"
+            }
+        },
+        {
+            "node": 100,
+            "attrs": {
+                "Names": "NTRK3"
+            }
+        },
+        {
+            "node": 101,
+            "attrs": {
+                "Names": "CARD11"
+            }
+        },
+        {
+            "node": 102,
+            "attrs": {
+                "Names": "PPP1CA"
+            }
+        },
+        {
+            "node": 103,
+            "attrs": {
+                "Names": "CRK"
+            }
+        },
+        {
+            "node": 104,
+            "attrs": {
+                "Names": "ARHGAP5"
+            }
+        },
+        {
+            "node": 105,
+            "attrs": {
+                "Names": "H2AFX"
+            }
+        },
+        {
+            "node": 106,
+            "attrs": {
+                "Names": "HDAC3"
+            }
+        },
+        {
+            "node": 107,
+            "attrs": {
+                "Names": "PTPN6"
+            }
+        },
+        {
+            "node": 108,
+            "attrs": {
+                "Names": "PRKG1"
+            }
+        },
+        {
+            "node": 109,
+            "attrs": {
+                "Names": "CTNNB1"
+            }
+        },
+        {
+            "node": 110,
+            "attrs": {
+                "Names": "WASL"
+            }
+        },
+        {
+            "node": 111,
+            "attrs": {
+                "Names": "EPHB2"
+            }
+        },
+        {
+            "node": 112,
+            "attrs": {
+                "Names": "PPP1R1B"
+            }
+        },
+        {
+            "node": 113,
+            "attrs": {
+                "Names": "ADD2"
+            }
+        },
+        {
+            "node": 114,
+            "attrs": {
+                "Names": "AKT3"
+            }
+        },
+        {
+            "node": 115,
+            "attrs": {
+                "Names": "BAX"
+            }
+        },
+        {
+            "node": 116,
+            "attrs": {
+                "Names": "ZAP70"
+            }
+        },
+        {
+            "node": 117,
+            "attrs": {
+                "Names": "CAD"
+            }
+        },
+        {
+            "node": 118,
+            "attrs": {
+                "Names": "CDK5R1"
+            }
+        },
+        {
+            "node": 119,
+            "attrs": {
+                "Names": "GAB2"
+            }
+        },
+        {
+            "node": 120,
+            "attrs": {
+                "Names": "EGFR"
+            }
+        },
+        {
+            "node": 121,
+            "attrs": {
+                "Names": "EIF2AK2"
+            }
+        },
+        {
+            "node": 122,
+            "attrs": {
+                "Names": "PACS1"
+            }
+        },
+        {
+            "node": 123,
+            "attrs": {
+                "Names": "NFATC2"
+            }
+        },
+        {
+            "node": 124,
+            "attrs": {
+                "Names": "TCRZ"
+            }
+        },
+        {
+            "node": 125,
+            "attrs": {
+                "Names": "CDC25B"
+            }
+        },
+        {
+            "node": 126,
+            "attrs": {
+                "Names": "GNB1"
+            }
+        },
+        {
+            "node": 127,
+            "attrs": {
+                "Names": "NSF"
+            }
+        },
+        {
+            "node": 128,
+            "attrs": {
+                "Names": "BCR-ABL"
+            }
+        },
+        {
+            "node": 129,
+            "attrs": {
+                "Names": "PTEN"
+            }
+        },
+        {
+            "node": 130,
+            "attrs": {
+                "Names": "TRPV6"
+            }
+        },
+        {
+            "node": 131,
+            "attrs": {
+                "Names": "PAK2"
+            }
+        },
+        {
+            "node": 132,
+            "attrs": {
+                "Names": "CASP2"
+            }
+        },
+        {
+            "node": 133,
+            "attrs": {
+                "Names": "KDR"
+            }
+        },
+        {
+            "node": 134,
+            "attrs": {
+                "Names": "SMAD1"
+            }
+        },
+        {
+            "node": 135,
+            "attrs": {
+                "Names": "JAK3"
+            }
+        },
+        {
+            "node": 136,
+            "attrs": {
+                "Names": "CFL1"
+            }
+        },
+        {
+            "node": 137,
+            "attrs": {
+                "Names": "NTRK2"
+            }
+        },
+        {
+            "node": 138,
+            "attrs": {
+                "Names": "PRKCB"
+            }
+        },
+        {
+            "node": 139,
+            "attrs": {
+                "Names": "STK4"
+            }
+        },
+        {
+            "node": 140,
+            "attrs": {
+                "Names": "MDM2"
+            }
+        },
+        {
+            "node": 141,
+            "attrs": {
+                "Names": "MAPT"
+            }
+        },
+        {
+            "node": 142,
+            "attrs": {
+                "Names": "RPS6KA3"
+            }
+        },
+        {
+            "node": 143,
+            "attrs": {
+                "Names": "RIPK4"
+            }
+        },
+        {
+            "node": 144,
+            "attrs": {
+                "Names": "LYN"
+            }
+        },
+        {
+            "node": 145,
+            "attrs": {
+                "Names": "ARHGAP35"
+            }
+        },
+        {
+            "node": 146,
+            "attrs": {
+                "Names": "SLC4A1"
+            }
+        },
+        {
+            "node": 147,
+            "attrs": {
+                "Names": "PRKCA"
+            }
+        },
+        {
+            "node": 148,
+            "attrs": {
+                "Names": "COL4A3BP"
+            }
+        },
+        {
+            "node": 149,
+            "attrs": {
+                "Names": "MPZL1"
+            }
+        },
+        {
+            "node": 150,
+            "attrs": {
+                "Names": "CASP3"
+            }
+        },
+        {
+            "node": 151,
+            "attrs": {
+                "Names": "GAD1"
+            }
+        },
+        {
+            "node": 152,
+            "attrs": {
+                "Names": "PLK1"
+            }
+        },
+        {
+            "node": 153,
+            "attrs": {
+                "Names": "PKD1"
+            }
+        },
+        {
+            "node": 154,
+            "attrs": {
+                "Names": "ELF1"
+            }
+        },
+        {
+            "node": 155,
+            "attrs": {
+                "Names": "PTK2"
+            }
+        },
+        {
+            "node": 156,
+            "attrs": {
+                "Names": "GSK3B"
+            }
+        },
+        {
+            "node": 157,
+            "attrs": {
+                "Names": "KCNN4"
+            }
+        },
+        {
+            "node": 158,
+            "attrs": {
+                "Names": "RELA"
+            }
+        },
+        {
+            "node": 159,
+            "attrs": {
+                "Names": "AKT2"
+            }
+        },
+        {
+            "node": 160,
+            "attrs": {
+                "Names": "PAG1"
+            }
+        },
+        {
+            "node": 161,
+            "attrs": {
+                "Names": "CAMK2B"
+            }
+        },
+        {
+            "node": 162,
+            "attrs": {
+                "Names": "TYK2"
+            }
+        },
+        {
+            "node": 163,
+            "attrs": {
+                "Names": "KRT8"
+            }
+        },
+        {
+            "node": 164,
+            "attrs": {
+                "Names": "CANX"
+            }
+        },
+        {
+            "node": 165,
+            "attrs": {
+                "Names": "MET"
+            }
+        },
+        {
+            "node": 166,
+            "attrs": {
+                "Names": "PLCG1"
+            }
+        },
+        {
+            "node": 167,
+            "attrs": {
+                "Names": "SKAP1"
+            }
+        },
+        {
+            "node": 168,
+            "attrs": {
+                "Names": "PPP2R5A"
+            }
+        },
+        {
+            "node": 169,
+            "attrs": {
+                "Names": "FLNA"
+            }
+        },
+        {
+            "node": 170,
+            "attrs": {
+                "Names": "CD22"
+            }
+        },
+        {
+            "node": 171,
+            "attrs": {
+                "Names": "IL33"
+            }
+        },
+        {
+            "node": 172,
+            "attrs": {
+                "Names": "ITGB1"
+            }
+        },
+        {
+            "node": 173,
+            "attrs": {
+                "Names": "MAPK3"
+            }
+        },
+        {
+            "node": 174,
+            "attrs": {
+                "Names": "CETN2"
+            }
+        },
+        {
+            "node": 175,
+            "attrs": {
+                "Names": "EPHA3"
+            }
+        },
+        {
+            "node": 176,
+            "attrs": {
+                "Names": "MAP2K6"
+            }
+        },
+        {
+            "node": 177,
+            "attrs": {
+                "Names": "SNCA"
+            }
+        },
+        {
+            "node": 178,
+            "attrs": {
+                "Names": "MAP3K5"
+            }
+        },
+        {
+            "node": 179,
+            "attrs": {
+                "Names": "HDAC7"
+            }
+        },
+        {
+            "node": 180,
+            "attrs": {
+                "Names": "MAP2K1"
+            }
+        },
+        {
+            "node": 181,
+            "attrs": {
+                "Names": "MAPK8"
+            }
+        },
+        {
+            "node": 182,
+            "attrs": {
+                "Names": "UNG"
+            }
+        },
+        {
+            "node": 183,
+            "attrs": {
+                "Names": "RBL1"
+            }
+        },
+        {
+            "node": 184,
+            "attrs": {
+                "Names": "RET"
+            }
+        },
+        {
+            "node": 185,
+            "attrs": {
+                "Names": "BCL2"
+            }
+        },
+        {
+            "node": 186,
+            "attrs": {
+                "Names": "CDC25A"
+            }
+        },
+        {
+            "node": 187,
+            "attrs": {
+                "Names": "C16ORF82"
+            }
+        },
+        {
+            "node": 188,
+            "attrs": {
+                "Names": "JAK1"
+            }
+        },
+        {
+            "node": 189,
+            "attrs": {
+                "Names": "SSH1"
+            }
+        },
+        {
+            "node": 190,
+            "attrs": {
+                "Names": "CTNND1"
+            }
+        },
+        {
+            "node": 191,
+            "attrs": {
+                "Names": "ACLY"
+            }
+        },
+        {
+            "node": 192,
+            "attrs": {
+                "Names": "PAK1"
+            }
+        },
+        {
+            "node": 193,
+            "attrs": {
+                "Names": "SIRPA"
+            }
+        },
+        {
+            "node": 194,
+            "attrs": {
+                "Names": "STAT5B"
+            }
+        },
+        {
+            "node": 195,
+            "attrs": {
+                "Names": "AXIN1"
+            }
+        },
+        {
+            "node": 196,
+            "attrs": {
+                "Names": "KIT"
+            }
+        },
+        {
+            "node": 197,
+            "attrs": {
+                "Names": "IKZF1"
+            }
+        },
+        {
+            "node": 198,
+            "attrs": {
+                "Names": "NCOR1"
+            }
+        },
+        {
+            "node": 199,
+            "attrs": {
+                "Names": "MYC"
+            }
+        },
+        {
+            "node": 200,
+            "attrs": {
+                "Names": "DOK1"
+            }
+        },
+        {
+            "node": 201,
+            "attrs": {
+                "Names": "MAP3K4"
+            }
+        },
+        {
+            "node": 202,
+            "attrs": {
+                "Names": "USP6NL"
+            }
+        },
+        {
+            "node": 203,
+            "attrs": {
+                "Names": "STAT1"
+            }
+        },
+        {
+            "node": 204,
+            "attrs": {
+                "Names": "MBP"
+            }
+        },
+        {
+            "node": 205,
+            "attrs": {
+                "Names": "TRAF2"
+            }
+        },
+        {
+            "node": 206,
+            "attrs": {
+                "Names": "MAP3K7"
+            }
+        },
+        {
+            "node": 207,
+            "attrs": {
+                "Names": "SETD8"
+            }
+        },
+        {
+            "node": 208,
+            "attrs": {
+                "Names": "NTRK1"
+            }
+        },
+        {
+            "node": 209,
+            "attrs": {
+                "Names": "RAF1"
+            }
+        },
+        {
+            "node": 210,
+            "attrs": {
+                "Names": "CDC25C"
+            }
+        },
+        {
+            "node": 211,
+            "attrs": {
+                "Names": "GAD2"
+            }
+        },
+        {
+            "node": 212,
+            "attrs": {
+                "Names": "PRKCI"
+            }
+        },
+        {
+            "node": 213,
+            "attrs": {
+                "Names": "POLD3"
+            }
+        },
+        {
+            "node": 214,
+            "attrs": {
+                "Names": "STAT3"
+            }
+        },
+        {
+            "node": 215,
+            "attrs": {
+                "Names": "YES1"
+            }
+        },
+        {
+            "node": 216,
+            "attrs": {
+                "Names": "GHR"
+            }
+        },
+        {
+            "node": 217,
+            "attrs": {
+                "Names": "ROS1"
+            }
+        },
+        {
+            "node": 218,
+            "attrs": {
+                "Names": "CDK6"
+            }
+        },
+        {
+            "node": 219,
+            "attrs": {
+                "Names": "SPRY2"
+            }
+        },
+        {
+            "node": 220,
+            "attrs": {
+                "Names": "WAS"
+            }
+        },
+        {
+            "node": 221,
+            "attrs": {
+                "Names": "RCAN1"
+            }
+        },
+        {
+            "node": 222,
+            "attrs": {
+                "Names": "NCL"
+            }
+        },
+        {
+            "node": 223,
+            "attrs": {
+                "Names": "DNM2"
+            }
+        },
+        {
+            "node": 224,
+            "attrs": {
+                "Names": "SMAD2"
+            }
+        },
+        {
+            "node": 225,
+            "attrs": {
+                "Names": "DDX20"
+            }
+        },
+        {
+            "node": 226,
+            "attrs": {
+                "Names": "GAB1"
+            }
+        },
+        {
+            "node": 227,
+            "attrs": {
+                "Names": "STAT6"
+            }
+        },
+        {
+            "node": 228,
+            "attrs": {
+                "Names": "INCENP"
+            }
+        },
+        {
+            "node": 229,
+            "attrs": {
+                "Names": "NFKBIA"
+            }
+        },
+        {
+            "node": 230,
+            "attrs": {
+                "Names": "CAV1"
+            }
+        },
+        {
+            "node": 231,
+            "attrs": {
+                "Names": "SRC"
+            }
+        },
+        {
+            "node": 232,
+            "attrs": {
+                "Names": "PDHA1"
+            }
+        },
+        {
+            "node": 233,
+            "attrs": {
+                "Names": "HSPB1"
+            }
+        },
+        {
+            "node": 234,
+            "attrs": {
+                "Names": "ACTN1"
+            }
+        },
+        {
+            "node": 235,
+            "attrs": {
+                "Names": "NEK8"
+            }
+        },
+        {
+            "node": 236,
+            "attrs": {
+                "Names": "IREB2"
+            }
+        },
+        {
+            "node": 237,
+            "attrs": {
+                "Names": "KIFAP3"
+            }
+        },
+        {
+            "node": 238,
+            "attrs": {
+                "Names": "CAMK1"
+            }
+        },
+        {
+            "node": 239,
+            "attrs": {
+                "Names": "PSTPIP1"
+            }
+        },
+        {
+            "node": 240,
+            "attrs": {
+                "Names": "COIL"
+            }
+        },
+        {
+            "node": 241,
+            "attrs": {
+                "Names": "VASP"
+            }
+        },
+        {
+            "node": 242,
+            "attrs": {
+                "Names": "EPOR"
+            }
+        },
+        {
+            "node": 243,
+            "attrs": {
+                "Names": "IGF1R"
+            }
+        },
+        {
+            "node": 244,
+            "attrs": {
+                "Names": "HIST1H4A"
+            }
+        },
+        {
+            "node": 245,
+            "attrs": {
+                "Names": "FYN"
+            }
+        },
+        {
+            "node": 246,
+            "attrs": {
+                "Names": "ATM"
+            }
+        },
+        {
+            "node": 247,
+            "attrs": {
+                "Names": "CHEK1"
+            }
+        },
+        {
+            "node": 248,
+            "attrs": {
+                "Names": "PDCD10"
+            }
+        },
+        {
+            "node": 249,
+            "attrs": {
+                "Names": "CETN1"
+            }
+        },
+        {
+            "node": 250,
+            "attrs": {
+                "Names": "CDK4"
+            }
+        },
+        {
+            "node": 251,
+            "attrs": {
+                "Names": "CHEK2"
+            }
+        },
+        {
+            "node": 252,
+            "attrs": {
+                "Names": "PTPN7"
+            }
+        },
+        {
+            "node": 253,
+            "attrs": {
+                "Names": "CEP250"
+            }
+        },
+        {
+            "node": 254,
+            "attrs": {
+                "Names": "AKT1"
+            }
+        },
+        {
+            "node": 255,
+            "attrs": {
+                "Names": "MAP2K4"
+            }
+        },
+        {
+            "node": 256,
+            "attrs": {
+                "Names": "STAM2"
+            }
+        },
+        {
+            "node": 257,
+            "attrs": {
+                "Names": "SPRY1"
+            }
+        },
+        {
+            "node": 258,
+            "attrs": {
+                "Names": "CASP9"
+            }
+        },
+        {
+            "node": 259,
+            "attrs": {
+                "Names": "BAD"
+            }
+        },
+        {
+            "node": 260,
+            "attrs": {
+                "Names": "ERBB2"
+            }
+        },
+        {
+            "node": 261,
+            "attrs": {
+                "Names": "DMN1"
+            }
+        },
+        {
+            "node": 262,
+            "attrs": {
+                "Names": "CDC37"
+            }
+        },
+        {
+            "node": 263,
+            "attrs": {
+                "Names": "CUX1"
+            }
+        },
+        {
+            "node": 264,
+            "attrs": {
+                "Names": "LMNB1"
+            }
+        },
+        {
+            "node": 265,
+            "attrs": {
+                "Names": "CORO1B"
+            }
+        },
+        {
+            "node": 266,
+            "attrs": {
+                "Names": "IKBKB"
+            }
+        },
+        {
+            "node": 267,
+            "attrs": {
+                "Names": "PTPRF"
+            }
+        },
+        {
+            "node": 268,
+            "attrs": {
+                "Names": "ACP1"
+            }
+        },
+        {
+            "node": 269,
+            "attrs": {
+                "Names": "FCGR2B"
+            }
+        },
+        {
+            "node": 270,
+            "attrs": {
+                "Names": "PTPN1"
+            }
+        },
+        {
+            "node": 271,
+            "attrs": {
+                "Names": "HOXA10"
+            }
+        },
+        {
+            "node": 272,
+            "attrs": {
+                "Names": "SMAD3"
+            }
+        },
+        {
+            "node": 273,
+            "attrs": {
+                "Names": "JUN"
+            }
+        },
+        {
+            "node": 274,
+            "attrs": {
+                "Names": "PRKACA"
+            }
+        },
+        {
+            "node": 275,
+            "attrs": {
+                "Names": "FKBP4"
+            }
+        },
+        {
+            "node": 276,
+            "attrs": {
+                "Names": "CSN2"
+            }
+        },
+        {
+            "node": 277,
+            "attrs": {
+                "Names": "SHC1"
+            }
+        },
+        {
+            "node": 278,
+            "attrs": {
+                "Names": "RYR1"
+            }
+        },
+        {
+            "node": 279,
+            "attrs": {
+                "Names": "RACGAP1"
+            }
+        }
+    ],
+    "edges": [
+        {
+            "edge": 0,
+            "attrs": {
+                "nodes": [
+                    51,
+                    60,
+                    231,
+                    109,
+                    146,
+                    120,
+                    155,
+                    74,
+                    116,
+                    269,
+                    254,
+                    133,
+                    268,
+                    65,
+                    43
+                ],
+                "Edges": 0,
+                "Pathway": "ACP1"
+            }
+        },
+        {
+            "edge": 1,
+            "attrs": {
+                "nodes": [
+                    239,
+                    66,
+                    245,
+                    145
+                ],
+                "Edges": 1,
+                "Pathway": "BDP1"
+            }
+        },
+        {
+            "edge": 2,
+            "attrs": {
+                "nodes": [
+                    236,
+                    95,
+                    202,
+                    228,
+                    58,
+                    207,
+                    186,
+                    81,
+                    42,
+                    69,
+                    56,
+                    125
+                ],
+                "Edges": 2,
+                "Pathway": "CDC14A"
+            }
+        },
+        {
+            "edge": 3,
+            "attrs": {
+                "nodes": [
+                    58,
+                    207,
+                    186,
+                    42,
+                    69,
+                    125,
+                    56,
+                    93,
+                    210
+                ],
+                "Edges": 3,
+                "Pathway": "CDC14B"
+            }
+        },
+        {
+            "edge": 4,
+            "attrs": {
+                "nodes": [
+                    263,
+                    250,
+                    80,
+                    173,
+                    76,
+                    96,
+                    120,
+                    209
+                ],
+                "Edges": 4,
+                "Pathway": "CDC25A"
+            }
+        },
+        {
+            "edge": 5,
+            "attrs": {
+                "nodes": [
+                    272,
+                    224,
+                    13,
+                    134
+                ],
+                "Edges": 5,
+                "Pathway": "CTDSP1"
+            }
+        },
+        {
+            "edge": 6,
+            "attrs": {
+                "nodes": [
+                    272,
+                    224,
+                    9,
+                    134,
+                    57
+                ],
+                "Edges": 6,
+                "Pathway": "CTDSPL"
+            }
+        },
+        {
+            "edge": 7,
+            "attrs": {
+                "nodes": [
+                    173,
+                    96,
+                    36
+                ],
+                "Edges": 7,
+                "Pathway": "DUPD1"
+            }
+        },
+        {
+            "edge": 8,
+            "attrs": {
+                "nodes": [
+                    2,
+                    181,
+                    173,
+                    96,
+                    36
+                ],
+                "Edges": 8,
+                "Pathway": "DUSP1"
+            }
+        },
+        {
+            "edge": 9,
+            "attrs": {
+                "nodes": [
+                    2,
+                    181,
+                    36
+                ],
+                "Edges": 9,
+                "Pathway": "DUSP10"
+            }
+        },
+        {
+            "edge": 10,
+            "attrs": {
+                "nodes": [
+                    2,
+                    173,
+                    36
+                ],
+                "Edges": 10,
+                "Pathway": "DUSP14"
+            }
+        },
+        {
+            "edge": 11,
+            "attrs": {
+                "nodes": [
+                    37,
+                    181,
+                    214,
+                    96,
+                    204,
+                    36
+                ],
+                "Edges": 11,
+                "Pathway": "DUSP22"
+            }
+        },
+        {
+            "edge": 12,
+            "attrs": {
+                "nodes": [
+                    237,
+                    56,
+                    36
+                ],
+                "Edges": 12,
+                "Pathway": "DUSP26"
+            }
+        },
+        {
+            "edge": 13,
+            "attrs": {
+                "nodes": [
+                    51,
+                    60,
+                    276,
+                    120,
+                    36,
+                    2,
+                    181,
+                    260,
+                    173,
+                    96,
+                    68,
+                    43,
+                    90
+                ],
+                "Edges": 13,
+                "Pathway": "DUSP3"
+            }
+        },
+        {
+            "edge": 14,
+            "attrs": {
+                "nodes": [
+                    2,
+                    173,
+                    96
+                ],
+                "Edges": 14,
+                "Pathway": "DUSP4"
+            }
+        },
+        {
+            "edge": 15,
+            "attrs": {
+                "nodes": [
+                    2,
+                    181,
+                    173,
+                    96,
+                    36
+                ],
+                "Edges": 15,
+                "Pathway": "DUSP9"
+            }
+        },
+        {
+            "edge": 16,
+            "attrs": {
+                "nodes": [
+                    94,
+                    232,
+                    134
+                ],
+                "Edges": 16,
+                "Pathway": "PDP1"
+            }
+        },
+        {
+            "edge": 17,
+            "attrs": {
+                "nodes": [
+                    94,
+                    232,
+                    134
+                ],
+                "Edges": 17,
+                "Pathway": "PDP2"
+            }
+        },
+        {
+            "edge": 18,
+            "attrs": {
+                "nodes": [
+                    114,
+                    254,
+                    159,
+                    138,
+                    147,
+                    139
+                ],
+                "Edges": 18,
+                "Pathway": "PHLPP1"
+            }
+        },
+        {
+            "edge": 19,
+            "attrs": {
+                "nodes": [
+                    114,
+                    254,
+                    159,
+                    138,
+                    147,
+                    139
+                ],
+                "Edges": 19,
+                "Pathway": "PHLPP2"
+            }
+        },
+        {
+            "edge": 20,
+            "attrs": {
+                "nodes": [
+                    191,
+                    244,
+                    126,
+                    157
+                ],
+                "Edges": 20,
+                "Pathway": "PHPT1"
+            }
+        },
+        {
+            "edge": 21,
+            "attrs": {
+                "nodes": [
+                    272,
+                    255,
+                    224,
+                    249,
+                    143,
+                    134,
+                    24,
+                    195,
+                    87,
+                    83,
+                    38,
+                    36,
+                    266,
+                    59,
+                    82,
+                    131,
+                    192,
+                    55,
+                    218,
+                    80,
+                    176
+                ],
+                "Edges": 21,
+                "Pathway": "PPM1A"
+            }
+        },
+        {
+            "edge": 22,
+            "attrs": {
+                "nodes": [
+                    266,
+                    59,
+                    249,
+                    218,
+                    174,
+                    259,
+                    24,
+                    80,
+                    206
+                ],
+                "Edges": 22,
+                "Pathway": "PPM1B"
+            }
+        },
+        {
+            "edge": 23,
+            "attrs": {
+                "nodes": [
+                    247,
+                    142,
+                    105,
+                    251,
+                    246,
+                    182,
+                    56,
+                    36,
+                    140
+                ],
+                "Edges": 23,
+                "Pathway": "PPM1D"
+            }
+        },
+        {
+            "edge": 24,
+            "attrs": {
+                "nodes": [
+                    192,
+                    27,
+                    75,
+                    238
+                ],
+                "Edges": 24,
+                "Pathway": "PPM1F"
+            }
+        },
+        {
+            "edge": 25,
+            "attrs": {
+                "nodes": [
+                    240,
+                    105,
+                    41,
+                    46,
+                    30,
+                    225
+                ],
+                "Edges": 25,
+                "Pathway": "PPM1G"
+            }
+        },
+        {
+            "edge": 26,
+            "attrs": {
+                "nodes": [
+                    148,
+                    206,
+                    178
+                ],
+                "Edges": 26,
+                "Pathway": "PPM1L"
+            }
+        },
+        {
+            "edge": 27,
+            "attrs": {
+                "nodes": [
+                    52,
+                    117,
+                    143,
+                    259,
+                    211,
+                    121,
+                    105,
+                    151,
+                    195,
+                    64,
+                    138,
+                    3,
+                    147,
+                    29,
+                    102,
+                    155,
+                    210,
+                    187,
+                    59,
+                    198,
+                    141,
+                    35,
+                    246,
+                    252,
+                    56,
+                    209,
+                    62,
+                    9,
+                    153,
+                    278,
+                    27,
+                    84,
+                    264,
+                    197,
+                    40,
+                    77,
+                    139,
+                    31,
+                    258,
+                    213,
+                    254,
+                    253,
+                    132,
+                    70,
+                    204,
+                    57
+                ],
+                "Edges": 27,
+                "Pathway": "PPP1CA"
+            }
+        },
+        {
+            "edge": 28,
+            "attrs": {
+                "nodes": [
+                    143,
+                    259,
+                    63,
+                    47,
+                    163,
+                    195,
+                    168,
+                    36,
+                    59,
+                    154,
+                    183,
+                    141,
+                    4,
+                    53,
+                    80,
+                    246,
+                    75,
+                    76,
+                    115,
+                    185,
+                    238,
+                    20,
+                    56,
+                    28,
+                    209,
+                    5,
+                    158,
+                    6,
+                    32,
+                    77,
+                    233,
+                    139,
+                    192,
+                    247,
+                    279,
+                    114,
+                    199,
+                    251,
+                    254,
+                    150,
+                    206,
+                    177,
+                    108,
+                    272,
+                    255,
+                    171,
+                    101,
+                    212,
+                    152,
+                    117,
+                    71,
+                    180,
+                    105,
+                    134,
+                    211,
+                    151,
+                    3,
+                    138,
+                    122,
+                    205,
+                    147,
+                    87,
+                    241,
+                    86,
+                    112,
+                    35,
+                    12,
+                    118,
+                    140,
+                    50,
+                    172,
+                    231,
+                    153,
+                    44,
+                    27,
+                    161,
+                    179,
+                    266,
+                    31,
+                    181,
+                    142,
+                    26,
+                    10,
+                    21,
+                    96,
+                    204,
+                    57,
+                    274
+                ],
+                "Edges": 28,
+                "Pathway": "PPP2CA"
+            }
+        },
+        {
+            "edge": 29,
+            "attrs": {
+                "nodes": [
+                    171,
+                    273,
+                    48,
+                    98,
+                    259,
+                    211,
+                    151,
+                    123,
+                    3,
+                    189,
+                    223,
+                    241,
+                    221,
+                    112,
+                    141,
+                    164,
+                    50,
+                    156,
+                    261,
+                    19,
+                    233,
+                    26,
+                    85,
+                    169,
+                    45
+                ],
+                "Edges": 29,
+                "Pathway": "PPP3CA"
+            }
+        },
+        {
+            "edge": 30,
+            "attrs": {
+                "nodes": [
+                    158,
+                    106,
+                    88,
+                    105,
+                    15,
+                    1
+                ],
+                "Edges": 30,
+                "Pathway": "PPP4C"
+            }
+        },
+        {
+            "edge": 31,
+            "attrs": {
+                "nodes": [
+                    141,
+                    259,
+                    262,
+                    0,
+                    3,
+                    11,
+                    178,
+                    209
+                ],
+                "Edges": 31,
+                "Pathway": "PPP5C"
+            }
+        },
+        {
+            "edge": 32,
+            "attrs": {
+                "nodes": [
+                    105,
+                    84,
+                    67,
+                    204,
+                    206
+                ],
+                "Edges": 32,
+                "Pathway": "PPP6C"
+            }
+        },
+        {
+            "edge": 33,
+            "attrs": {
+                "nodes": [
+                    51,
+                    86,
+                    277,
+                    129,
+                    155
+                ],
+                "Edges": 33,
+                "Pathway": "PTEN"
+            }
+        },
+        {
+            "edge": 34,
+            "attrs": {
+                "nodes": [
+                    172,
+                    14,
+                    222,
+                    163,
+                    89,
+                    28
+                ],
+                "Edges": 34,
+                "Pathway": "PTP4A3"
+            }
+        },
+        {
+            "edge": 35,
+            "attrs": {
+                "nodes": [
+                    194,
+                    37,
+                    270,
+                    51,
+                    60,
+                    127,
+                    214,
+                    128,
+                    230,
+                    234,
+                    226,
+                    97,
+                    162,
+                    242,
+                    155,
+                    200,
+                    229,
+                    130,
+                    103,
+                    165,
+                    256,
+                    107,
+                    175,
+                    209,
+                    28,
+                    65,
+                    231,
+                    156,
+                    23,
+                    39,
+                    109,
+                    120,
+                    243,
+                    216,
+                    227,
+                    166,
+                    17,
+                    43
+                ],
+                "Edges": 35,
+                "Pathway": "PTPN1"
+            }
+        },
+        {
+            "edge": 36,
+            "attrs": {
+                "nodes": [
+                    194,
+                    51,
+                    201,
+                    231,
+                    203,
+                    23,
+                    44,
+                    119,
+                    226,
+                    78,
+                    120,
+                    104,
+                    193,
+                    33,
+                    149,
+                    133,
+                    219,
+                    257,
+                    17,
+                    160,
+                    43
+                ],
+                "Edges": 36,
+                "Pathway": "PTPN11"
+            }
+        },
+        {
+            "edge": 37,
+            "attrs": {
+                "nodes": [
+                    231,
+                    239,
+                    33,
+                    220,
+                    66,
+                    155,
+                    28
+                ],
+                "Edges": 37,
+                "Pathway": "PTPN12"
+            }
+        },
+        {
+            "edge": 38,
+            "attrs": {
+                "nodes": [
+                    229,
+                    248,
+                    23,
+                    91,
+                    204
+                ],
+                "Edges": 38,
+                "Pathway": "PTPN13"
+            }
+        },
+        {
+            "edge": 39,
+            "attrs": {
+                "nodes": [
+                    194,
+                    51,
+                    60,
+                    231,
+                    277,
+                    203,
+                    214,
+                    230,
+                    110,
+                    120,
+                    227,
+                    133,
+                    165,
+                    135,
+                    275,
+                    188,
+                    43
+                ],
+                "Edges": 39,
+                "Pathway": "PTPN2"
+            }
+        },
+        {
+            "edge": 40,
+            "attrs": {
+                "nodes": [
+                    124,
+                    7,
+                    116
+                ],
+                "Edges": 40,
+                "Pathway": "PTPN22"
+            }
+        },
+        {
+            "edge": 41,
+            "attrs": {
+                "nodes": [
+                    231,
+                    58,
+                    109,
+                    155
+                ],
+                "Edges": 41,
+                "Pathway": "PTPN23"
+            }
+        },
+        {
+            "edge": 42,
+            "attrs": {
+                "nodes": [
+                    124,
+                    16,
+                    216,
+                    54
+                ],
+                "Edges": 42,
+                "Pathway": "PTPN3"
+            }
+        },
+        {
+            "edge": 43,
+            "attrs": {
+                "nodes": [
+                    37,
+                    144,
+                    72,
+                    231,
+                    208,
+                    190,
+                    234,
+                    119,
+                    120,
+                    271,
+                    92,
+                    7,
+                    196,
+                    133,
+                    8,
+                    217,
+                    170,
+                    25,
+                    17
+                ],
+                "Edges": 43,
+                "Pathway": "PTPN6"
+            }
+        },
+        {
+            "edge": 44,
+            "attrs": {
+                "nodes": [
+                    173,
+                    96,
+                    36
+                ],
+                "Edges": 44,
+                "Pathway": "PTPN7"
+            }
+        },
+        {
+            "edge": 45,
+            "attrs": {
+                "nodes": [
+                    127,
+                    260,
+                    120
+                ],
+                "Edges": 45,
+                "Pathway": "PTPN9"
+            }
+        },
+        {
+            "edge": 46,
+            "attrs": {
+                "nodes": [
+                    144,
+                    231,
+                    79,
+                    245,
+                    28
+                ],
+                "Edges": 46,
+                "Pathway": "PTPRA"
+            }
+        },
+        {
+            "edge": 47,
+            "attrs": {
+                "nodes": [
+                    99,
+                    133,
+                    165
+                ],
+                "Edges": 47,
+                "Pathway": "PTPRB"
+            }
+        },
+        {
+            "edge": 48,
+            "attrs": {
+                "nodes": [
+                    124,
+                    144,
+                    7,
+                    245,
+                    162,
+                    135,
+                    167,
+                    188,
+                    17
+                ],
+                "Edges": 48,
+                "Pathway": "PTPRC"
+            }
+        },
+        {
+            "edge": 49,
+            "attrs": {
+                "nodes": [
+                    215,
+                    60,
+                    231,
+                    73,
+                    173,
+                    96,
+                    245
+                ],
+                "Edges": 49,
+                "Pathway": "PTPRE"
+            }
+        },
+        {
+            "edge": 50,
+            "attrs": {
+                "nodes": [
+                    60,
+                    267,
+                    109,
+                    165
+                ],
+                "Edges": 50,
+                "Pathway": "PTPRF"
+            }
+        },
+        {
+            "edge": 51,
+            "attrs": {
+                "nodes": [
+                    200,
+                    231,
+                    7,
+                    28
+                ],
+                "Edges": 51,
+                "Pathway": "PTPRH"
+            }
+        },
+        {
+            "edge": 52,
+            "attrs": {
+                "nodes": [
+                    51,
+                    184,
+                    144,
+                    231,
+                    190,
+                    120,
+                    34,
+                    22,
+                    18,
+                    55,
+                    173,
+                    133,
+                    165,
+                    166,
+                    96,
+                    245,
+                    65
+                ],
+                "Edges": 52,
+                "Pathway": "PTPRJ"
+            }
+        },
+        {
+            "edge": 53,
+            "attrs": {
+                "nodes": [
+                    100,
+                    235,
+                    111
+                ],
+                "Edges": 53,
+                "Pathway": "PTPRO"
+            }
+        },
+        {
+            "edge": 54,
+            "attrs": {
+                "nodes": [
+                    137,
+                    100,
+                    208,
+                    120
+                ],
+                "Edges": 54,
+                "Pathway": "PTPRS"
+            }
+        },
+        {
+            "edge": 55,
+            "attrs": {
+                "nodes": [
+                    44,
+                    190,
+                    58,
+                    214
+                ],
+                "Edges": 55,
+                "Pathway": "PTPRT"
+            }
+        },
+        {
+            "edge": 56,
+            "attrs": {
+                "nodes": [
+                    208,
+                    113,
+                    145
+                ],
+                "Edges": 56,
+                "Pathway": "PTPRZ1"
+            }
+        },
+        {
+            "edge": 57,
+            "attrs": {
+                "nodes": [
+                    272,
+                    224,
+                    13,
+                    134
+                ],
+                "Edges": 57,
+                "Pathway": "SCP2"
+            }
+        },
+        {
+            "edge": 58,
+            "attrs": {
+                "nodes": [
+                    61,
+                    49,
+                    136,
+                    265
+                ],
+                "Edges": 58,
+                "Pathway": "SSH1"
+            }
+        }
+    ],
+    "incidences": [
+        {
+            "edge": 0,
+            "node": 51,
+            "attrs": {
+                "Edges": 0,
+                "Pathway": "ACP1"
+            }
+        },
+        {
+            "edge": 0,
+            "node": 60,
+            "attrs": {
+                "Edges": 0,
+                "Pathway": "ACP1"
+            }
+        },
+        {
+            "edge": 0,
+            "node": 231,
+            "attrs": {
+                "Edges": 0,
+                "Pathway": "ACP1"
+            }
+        },
+        {
+            "edge": 0,
+            "node": 109,
+            "attrs": {
+                "Edges": 0,
+                "Pathway": "ACP1"
+            }
+        },
+        {
+            "edge": 0,
+            "node": 146,
+            "attrs": {
+                "Edges": 0,
+                "Pathway": "ACP1"
+            }
+        },
+        {
+            "edge": 0,
+            "node": 120,
+            "attrs": {
+                "Edges": 0,
+                "Pathway": "ACP1"
+            }
+        },
+        {
+            "edge": 0,
+            "node": 155,
+            "attrs": {
+                "Edges": 0,
+                "Pathway": "ACP1"
+            }
+        },
+        {
+            "edge": 0,
+            "node": 74,
+            "attrs": {
+                "Edges": 0,
+                "Pathway": "ACP1"
+            }
+        },
+        {
+            "edge": 0,
+            "node": 116,
+            "attrs": {
+                "Edges": 0,
+                "Pathway": "ACP1"
+            }
+        },
+        {
+            "edge": 0,
+            "node": 269,
+            "attrs": {
+                "Edges": 0,
+                "Pathway": "ACP1"
+            }
+        },
+        {
+            "edge": 0,
+            "node": 254,
+            "attrs": {
+                "Edges": 0,
+                "Pathway": "ACP1"
+            }
+        },
+        {
+            "edge": 0,
+            "node": 133,
+            "attrs": {
+                "Edges": 0,
+                "Pathway": "ACP1"
+            }
+        },
+        {
+            "edge": 0,
+            "node": 268,
+            "attrs": {
+                "Edges": 0,
+                "Pathway": "ACP1"
+            }
+        },
+        {
+            "edge": 0,
+            "node": 65,
+            "attrs": {
+                "Edges": 0,
+                "Pathway": "ACP1"
+            }
+        },
+        {
+            "edge": 0,
+            "node": 43,
+            "attrs": {
+                "Edges": 0,
+                "Pathway": "ACP1"
+            }
+        },
+        {
+            "edge": 1,
+            "node": 239,
+            "attrs": {
+                "Edges": 1,
+                "Pathway": "BDP1"
+            }
+        },
+        {
+            "edge": 1,
+            "node": 66,
+            "attrs": {
+                "Edges": 1,
+                "Pathway": "BDP1"
+            }
+        },
+        {
+            "edge": 1,
+            "node": 245,
+            "attrs": {
+                "Edges": 1,
+                "Pathway": "BDP1"
+            }
+        },
+        {
+            "edge": 1,
+            "node": 145,
+            "attrs": {
+                "Edges": 1,
+                "Pathway": "BDP1"
+            }
+        },
+        {
+            "edge": 2,
+            "node": 236,
+            "attrs": {
+                "Edges": 2,
+                "Pathway": "CDC14A"
+            }
+        },
+        {
+            "edge": 2,
+            "node": 95,
+            "attrs": {
+                "Edges": 2,
+                "Pathway": "CDC14A"
+            }
+        },
+        {
+            "edge": 2,
+            "node": 202,
+            "attrs": {
+                "Edges": 2,
+                "Pathway": "CDC14A"
+            }
+        },
+        {
+            "edge": 2,
+            "node": 228,
+            "attrs": {
+                "Edges": 2,
+                "Pathway": "CDC14A"
+            }
+        },
+        {
+            "edge": 2,
+            "node": 58,
+            "attrs": {
+                "Edges": 2,
+                "Pathway": "CDC14A"
+            }
+        },
+        {
+            "edge": 2,
+            "node": 207,
+            "attrs": {
+                "Edges": 2,
+                "Pathway": "CDC14A"
+            }
+        },
+        {
+            "edge": 2,
+            "node": 186,
+            "attrs": {
+                "Edges": 2,
+                "Pathway": "CDC14A"
+            }
+        },
+        {
+            "edge": 2,
+            "node": 81,
+            "attrs": {
+                "Edges": 2,
+                "Pathway": "CDC14A"
+            }
+        },
+        {
+            "edge": 2,
+            "node": 42,
+            "attrs": {
+                "Edges": 2,
+                "Pathway": "CDC14A"
+            }
+        },
+        {
+            "edge": 2,
+            "node": 69,
+            "attrs": {
+                "Edges": 2,
+                "Pathway": "CDC14A"
+            }
+        },
+        {
+            "edge": 2,
+            "node": 56,
+            "attrs": {
+                "Edges": 2,
+                "Pathway": "CDC14A"
+            }
+        },
+        {
+            "edge": 2,
+            "node": 125,
+            "attrs": {
+                "Edges": 2,
+                "Pathway": "CDC14A"
+            }
+        },
+        {
+            "edge": 3,
+            "node": 58,
+            "attrs": {
+                "Edges": 3,
+                "Pathway": "CDC14B"
+            }
+        },
+        {
+            "edge": 3,
+            "node": 207,
+            "attrs": {
+                "Edges": 3,
+                "Pathway": "CDC14B"
+            }
+        },
+        {
+            "edge": 3,
+            "node": 186,
+            "attrs": {
+                "Edges": 3,
+                "Pathway": "CDC14B"
+            }
+        },
+        {
+            "edge": 3,
+            "node": 42,
+            "attrs": {
+                "Edges": 3,
+                "Pathway": "CDC14B"
+            }
+        },
+        {
+            "edge": 3,
+            "node": 69,
+            "attrs": {
+                "Edges": 3,
+                "Pathway": "CDC14B"
+            }
+        },
+        {
+            "edge": 3,
+            "node": 125,
+            "attrs": {
+                "Edges": 3,
+                "Pathway": "CDC14B"
+            }
+        },
+        {
+            "edge": 3,
+            "node": 56,
+            "attrs": {
+                "Edges": 3,
+                "Pathway": "CDC14B"
+            }
+        },
+        {
+            "edge": 3,
+            "node": 93,
+            "attrs": {
+                "Edges": 3,
+                "Pathway": "CDC14B"
+            }
+        },
+        {
+            "edge": 3,
+            "node": 210,
+            "attrs": {
+                "Edges": 3,
+                "Pathway": "CDC14B"
+            }
+        },
+        {
+            "edge": 4,
+            "node": 263,
+            "attrs": {
+                "Edges": 4,
+                "Pathway": "CDC25A"
+            }
+        },
+        {
+            "edge": 4,
+            "node": 250,
+            "attrs": {
+                "Edges": 4,
+                "Pathway": "CDC25A"
+            }
+        },
+        {
+            "edge": 4,
+            "node": 80,
+            "attrs": {
+                "Edges": 4,
+                "Pathway": "CDC25A"
+            }
+        },
+        {
+            "edge": 4,
+            "node": 173,
+            "attrs": {
+                "Edges": 4,
+                "Pathway": "CDC25A"
+            }
+        },
+        {
+            "edge": 4,
+            "node": 76,
+            "attrs": {
+                "Edges": 4,
+                "Pathway": "CDC25A"
+            }
+        },
+        {
+            "edge": 4,
+            "node": 96,
+            "attrs": {
+                "Edges": 4,
+                "Pathway": "CDC25A"
+            }
+        },
+        {
+            "edge": 4,
+            "node": 120,
+            "attrs": {
+                "Edges": 4,
+                "Pathway": "CDC25A"
+            }
+        },
+        {
+            "edge": 4,
+            "node": 209,
+            "attrs": {
+                "Edges": 4,
+                "Pathway": "CDC25A"
+            }
+        },
+        {
+            "edge": 5,
+            "node": 272,
+            "attrs": {
+                "Edges": 5,
+                "Pathway": "CTDSP1"
+            }
+        },
+        {
+            "edge": 5,
+            "node": 224,
+            "attrs": {
+                "Edges": 5,
+                "Pathway": "CTDSP1"
+            }
+        },
+        {
+            "edge": 5,
+            "node": 13,
+            "attrs": {
+                "Edges": 5,
+                "Pathway": "CTDSP1"
+            }
+        },
+        {
+            "edge": 5,
+            "node": 134,
+            "attrs": {
+                "Edges": 5,
+                "Pathway": "CTDSP1"
+            }
+        },
+        {
+            "edge": 6,
+            "node": 272,
+            "attrs": {
+                "Edges": 6,
+                "Pathway": "CTDSPL"
+            }
+        },
+        {
+            "edge": 6,
+            "node": 224,
+            "attrs": {
+                "Edges": 6,
+                "Pathway": "CTDSPL"
+            }
+        },
+        {
+            "edge": 6,
+            "node": 9,
+            "attrs": {
+                "Edges": 6,
+                "Pathway": "CTDSPL"
+            }
+        },
+        {
+            "edge": 6,
+            "node": 134,
+            "attrs": {
+                "Edges": 6,
+                "Pathway": "CTDSPL"
+            }
+        },
+        {
+            "edge": 6,
+            "node": 57,
+            "attrs": {
+                "Edges": 6,
+                "Pathway": "CTDSPL"
+            }
+        },
+        {
+            "edge": 7,
+            "node": 173,
+            "attrs": {
+                "Edges": 7,
+                "Pathway": "DUPD1"
+            }
+        },
+        {
+            "edge": 7,
+            "node": 96,
+            "attrs": {
+                "Edges": 7,
+                "Pathway": "DUPD1"
+            }
+        },
+        {
+            "edge": 7,
+            "node": 36,
+            "attrs": {
+                "Edges": 7,
+                "Pathway": "DUPD1"
+            }
+        },
+        {
+            "edge": 8,
+            "node": 2,
+            "attrs": {
+                "Edges": 8,
+                "Pathway": "DUSP1"
+            }
+        },
+        {
+            "edge": 8,
+            "node": 181,
+            "attrs": {
+                "Edges": 8,
+                "Pathway": "DUSP1"
+            }
+        },
+        {
+            "edge": 8,
+            "node": 173,
+            "attrs": {
+                "Edges": 8,
+                "Pathway": "DUSP1"
+            }
+        },
+        {
+            "edge": 8,
+            "node": 96,
+            "attrs": {
+                "Edges": 8,
+                "Pathway": "DUSP1"
+            }
+        },
+        {
+            "edge": 8,
+            "node": 36,
+            "attrs": {
+                "Edges": 8,
+                "Pathway": "DUSP1"
+            }
+        },
+        {
+            "edge": 9,
+            "node": 2,
+            "attrs": {
+                "Edges": 9,
+                "Pathway": "DUSP10"
+            }
+        },
+        {
+            "edge": 9,
+            "node": 181,
+            "attrs": {
+                "Edges": 9,
+                "Pathway": "DUSP10"
+            }
+        },
+        {
+            "edge": 9,
+            "node": 36,
+            "attrs": {
+                "Edges": 9,
+                "Pathway": "DUSP10"
+            }
+        },
+        {
+            "edge": 10,
+            "node": 2,
+            "attrs": {
+                "Edges": 10,
+                "Pathway": "DUSP14"
+            }
+        },
+        {
+            "edge": 10,
+            "node": 173,
+            "attrs": {
+                "Edges": 10,
+                "Pathway": "DUSP14"
+            }
+        },
+        {
+            "edge": 10,
+            "node": 36,
+            "attrs": {
+                "Edges": 10,
+                "Pathway": "DUSP14"
+            }
+        },
+        {
+            "edge": 11,
+            "node": 37,
+            "attrs": {
+                "Edges": 11,
+                "Pathway": "DUSP22"
+            }
+        },
+        {
+            "edge": 11,
+            "node": 181,
+            "attrs": {
+                "Edges": 11,
+                "Pathway": "DUSP22"
+            }
+        },
+        {
+            "edge": 11,
+            "node": 214,
+            "attrs": {
+                "Edges": 11,
+                "Pathway": "DUSP22"
+            }
+        },
+        {
+            "edge": 11,
+            "node": 96,
+            "attrs": {
+                "Edges": 11,
+                "Pathway": "DUSP22"
+            }
+        },
+        {
+            "edge": 11,
+            "node": 204,
+            "attrs": {
+                "Edges": 11,
+                "Pathway": "DUSP22"
+            }
+        },
+        {
+            "edge": 11,
+            "node": 36,
+            "attrs": {
+                "Edges": 11,
+                "Pathway": "DUSP22"
+            }
+        },
+        {
+            "edge": 12,
+            "node": 237,
+            "attrs": {
+                "Edges": 12,
+                "Pathway": "DUSP26"
+            }
+        },
+        {
+            "edge": 12,
+            "node": 56,
+            "attrs": {
+                "Edges": 12,
+                "Pathway": "DUSP26"
+            }
+        },
+        {
+            "edge": 12,
+            "node": 36,
+            "attrs": {
+                "Edges": 12,
+                "Pathway": "DUSP26"
+            }
+        },
+        {
+            "edge": 13,
+            "node": 51,
+            "attrs": {
+                "Edges": 13,
+                "Pathway": "DUSP3"
+            }
+        },
+        {
+            "edge": 13,
+            "node": 60,
+            "attrs": {
+                "Edges": 13,
+                "Pathway": "DUSP3"
+            }
+        },
+        {
+            "edge": 13,
+            "node": 276,
+            "attrs": {
+                "Edges": 13,
+                "Pathway": "DUSP3"
+            }
+        },
+        {
+            "edge": 13,
+            "node": 120,
+            "attrs": {
+                "Edges": 13,
+                "Pathway": "DUSP3"
+            }
+        },
+        {
+            "edge": 13,
+            "node": 36,
+            "attrs": {
+                "Edges": 13,
+                "Pathway": "DUSP3"
+            }
+        },
+        {
+            "edge": 13,
+            "node": 2,
+            "attrs": {
+                "Edges": 13,
+                "Pathway": "DUSP3"
+            }
+        },
+        {
+            "edge": 13,
+            "node": 181,
+            "attrs": {
+                "Edges": 13,
+                "Pathway": "DUSP3"
+            }
+        },
+        {
+            "edge": 13,
+            "node": 260,
+            "attrs": {
+                "Edges": 13,
+                "Pathway": "DUSP3"
+            }
+        },
+        {
+            "edge": 13,
+            "node": 173,
+            "attrs": {
+                "Edges": 13,
+                "Pathway": "DUSP3"
+            }
+        },
+        {
+            "edge": 13,
+            "node": 96,
+            "attrs": {
+                "Edges": 13,
+                "Pathway": "DUSP3"
+            }
+        },
+        {
+            "edge": 13,
+            "node": 68,
+            "attrs": {
+                "Edges": 13,
+                "Pathway": "DUSP3"
+            }
+        },
+        {
+            "edge": 13,
+            "node": 43,
+            "attrs": {
+                "Edges": 13,
+                "Pathway": "DUSP3"
+            }
+        },
+        {
+            "edge": 13,
+            "node": 90,
+            "attrs": {
+                "Edges": 13,
+                "Pathway": "DUSP3"
+            }
+        },
+        {
+            "edge": 14,
+            "node": 2,
+            "attrs": {
+                "Edges": 14,
+                "Pathway": "DUSP4"
+            }
+        },
+        {
+            "edge": 14,
+            "node": 173,
+            "attrs": {
+                "Edges": 14,
+                "Pathway": "DUSP4"
+            }
+        },
+        {
+            "edge": 14,
+            "node": 96,
+            "attrs": {
+                "Edges": 14,
+                "Pathway": "DUSP4"
+            }
+        },
+        {
+            "edge": 15,
+            "node": 2,
+            "attrs": {
+                "Edges": 15,
+                "Pathway": "DUSP9"
+            }
+        },
+        {
+            "edge": 15,
+            "node": 181,
+            "attrs": {
+                "Edges": 15,
+                "Pathway": "DUSP9"
+            }
+        },
+        {
+            "edge": 15,
+            "node": 173,
+            "attrs": {
+                "Edges": 15,
+                "Pathway": "DUSP9"
+            }
+        },
+        {
+            "edge": 15,
+            "node": 96,
+            "attrs": {
+                "Edges": 15,
+                "Pathway": "DUSP9"
+            }
+        },
+        {
+            "edge": 15,
+            "node": 36,
+            "attrs": {
+                "Edges": 15,
+                "Pathway": "DUSP9"
+            }
+        },
+        {
+            "edge": 16,
+            "node": 94,
+            "attrs": {
+                "Edges": 16,
+                "Pathway": "PDP1"
+            }
+        },
+        {
+            "edge": 16,
+            "node": 232,
+            "attrs": {
+                "Edges": 16,
+                "Pathway": "PDP1"
+            }
+        },
+        {
+            "edge": 16,
+            "node": 134,
+            "attrs": {
+                "Edges": 16,
+                "Pathway": "PDP1"
+            }
+        },
+        {
+            "edge": 17,
+            "node": 94,
+            "attrs": {
+                "Edges": 17,
+                "Pathway": "PDP2"
+            }
+        },
+        {
+            "edge": 17,
+            "node": 232,
+            "attrs": {
+                "Edges": 17,
+                "Pathway": "PDP2"
+            }
+        },
+        {
+            "edge": 17,
+            "node": 134,
+            "attrs": {
+                "Edges": 17,
+                "Pathway": "PDP2"
+            }
+        },
+        {
+            "edge": 18,
+            "node": 114,
+            "attrs": {
+                "Edges": 18,
+                "Pathway": "PHLPP1"
+            }
+        },
+        {
+            "edge": 18,
+            "node": 254,
+            "attrs": {
+                "Edges": 18,
+                "Pathway": "PHLPP1"
+            }
+        },
+        {
+            "edge": 18,
+            "node": 159,
+            "attrs": {
+                "Edges": 18,
+                "Pathway": "PHLPP1"
+            }
+        },
+        {
+            "edge": 18,
+            "node": 138,
+            "attrs": {
+                "Edges": 18,
+                "Pathway": "PHLPP1"
+            }
+        },
+        {
+            "edge": 18,
+            "node": 147,
+            "attrs": {
+                "Edges": 18,
+                "Pathway": "PHLPP1"
+            }
+        },
+        {
+            "edge": 18,
+            "node": 139,
+            "attrs": {
+                "Edges": 18,
+                "Pathway": "PHLPP1"
+            }
+        },
+        {
+            "edge": 19,
+            "node": 114,
+            "attrs": {
+                "Edges": 19,
+                "Pathway": "PHLPP2"
+            }
+        },
+        {
+            "edge": 19,
+            "node": 254,
+            "attrs": {
+                "Edges": 19,
+                "Pathway": "PHLPP2"
+            }
+        },
+        {
+            "edge": 19,
+            "node": 159,
+            "attrs": {
+                "Edges": 19,
+                "Pathway": "PHLPP2"
+            }
+        },
+        {
+            "edge": 19,
+            "node": 138,
+            "attrs": {
+                "Edges": 19,
+                "Pathway": "PHLPP2"
+            }
+        },
+        {
+            "edge": 19,
+            "node": 147,
+            "attrs": {
+                "Edges": 19,
+                "Pathway": "PHLPP2"
+            }
+        },
+        {
+            "edge": 19,
+            "node": 139,
+            "attrs": {
+                "Edges": 19,
+                "Pathway": "PHLPP2"
+            }
+        },
+        {
+            "edge": 20,
+            "node": 191,
+            "attrs": {
+                "Edges": 20,
+                "Pathway": "PHPT1"
+            }
+        },
+        {
+            "edge": 20,
+            "node": 244,
+            "attrs": {
+                "Edges": 20,
+                "Pathway": "PHPT1"
+            }
+        },
+        {
+            "edge": 20,
+            "node": 126,
+            "attrs": {
+                "Edges": 20,
+                "Pathway": "PHPT1"
+            }
+        },
+        {
+            "edge": 20,
+            "node": 157,
+            "attrs": {
+                "Edges": 20,
+                "Pathway": "PHPT1"
+            }
+        },
+        {
+            "edge": 21,
+            "node": 272,
+            "attrs": {
+                "Edges": 21,
+                "Pathway": "PPM1A"
+            }
+        },
+        {
+            "edge": 21,
+            "node": 255,
+            "attrs": {
+                "Edges": 21,
+                "Pathway": "PPM1A"
+            }
+        },
+        {
+            "edge": 21,
+            "node": 224,
+            "attrs": {
+                "Edges": 21,
+                "Pathway": "PPM1A"
+            }
+        },
+        {
+            "edge": 21,
+            "node": 249,
+            "attrs": {
+                "Edges": 21,
+                "Pathway": "PPM1A"
+            }
+        },
+        {
+            "edge": 21,
+            "node": 143,
+            "attrs": {
+                "Edges": 21,
+                "Pathway": "PPM1A"
+            }
+        },
+        {
+            "edge": 21,
+            "node": 134,
+            "attrs": {
+                "Edges": 21,
+                "Pathway": "PPM1A"
+            }
+        },
+        {
+            "edge": 21,
+            "node": 24,
+            "attrs": {
+                "Edges": 21,
+                "Pathway": "PPM1A"
+            }
+        },
+        {
+            "edge": 21,
+            "node": 195,
+            "attrs": {
+                "Edges": 21,
+                "Pathway": "PPM1A"
+            }
+        },
+        {
+            "edge": 21,
+            "node": 87,
+            "attrs": {
+                "Edges": 21,
+                "Pathway": "PPM1A"
+            }
+        },
+        {
+            "edge": 21,
+            "node": 83,
+            "attrs": {
+                "Edges": 21,
+                "Pathway": "PPM1A"
+            }
+        },
+        {
+            "edge": 21,
+            "node": 38,
+            "attrs": {
+                "Edges": 21,
+                "Pathway": "PPM1A"
+            }
+        },
+        {
+            "edge": 21,
+            "node": 36,
+            "attrs": {
+                "Edges": 21,
+                "Pathway": "PPM1A"
+            }
+        },
+        {
+            "edge": 21,
+            "node": 266,
+            "attrs": {
+                "Edges": 21,
+                "Pathway": "PPM1A"
+            }
+        },
+        {
+            "edge": 21,
+            "node": 59,
+            "attrs": {
+                "Edges": 21,
+                "Pathway": "PPM1A"
+            }
+        },
+        {
+            "edge": 21,
+            "node": 82,
+            "attrs": {
+                "Edges": 21,
+                "Pathway": "PPM1A"
+            }
+        },
+        {
+            "edge": 21,
+            "node": 131,
+            "attrs": {
+                "Edges": 21,
+                "Pathway": "PPM1A"
+            }
+        },
+        {
+            "edge": 21,
+            "node": 192,
+            "attrs": {
+                "Edges": 21,
+                "Pathway": "PPM1A"
+            }
+        },
+        {
+            "edge": 21,
+            "node": 55,
+            "attrs": {
+                "Edges": 21,
+                "Pathway": "PPM1A"
+            }
+        },
+        {
+            "edge": 21,
+            "node": 218,
+            "attrs": {
+                "Edges": 21,
+                "Pathway": "PPM1A"
+            }
+        },
+        {
+            "edge": 21,
+            "node": 80,
+            "attrs": {
+                "Edges": 21,
+                "Pathway": "PPM1A"
+            }
+        },
+        {
+            "edge": 21,
+            "node": 176,
+            "attrs": {
+                "Edges": 21,
+                "Pathway": "PPM1A"
+            }
+        },
+        {
+            "edge": 22,
+            "node": 266,
+            "attrs": {
+                "Edges": 22,
+                "Pathway": "PPM1B"
+            }
+        },
+        {
+            "edge": 22,
+            "node": 59,
+            "attrs": {
+                "Edges": 22,
+                "Pathway": "PPM1B"
+            }
+        },
+        {
+            "edge": 22,
+            "node": 249,
+            "attrs": {
+                "Edges": 22,
+                "Pathway": "PPM1B"
+            }
+        },
+        {
+            "edge": 22,
+            "node": 218,
+            "attrs": {
+                "Edges": 22,
+                "Pathway": "PPM1B"
+            }
+        },
+        {
+            "edge": 22,
+            "node": 174,
+            "attrs": {
+                "Edges": 22,
+                "Pathway": "PPM1B"
+            }
+        },
+        {
+            "edge": 22,
+            "node": 259,
+            "attrs": {
+                "Edges": 22,
+                "Pathway": "PPM1B"
+            }
+        },
+        {
+            "edge": 22,
+            "node": 24,
+            "attrs": {
+                "Edges": 22,
+                "Pathway": "PPM1B"
+            }
+        },
+        {
+            "edge": 22,
+            "node": 80,
+            "attrs": {
+                "Edges": 22,
+                "Pathway": "PPM1B"
+            }
+        },
+        {
+            "edge": 22,
+            "node": 206,
+            "attrs": {
+                "Edges": 22,
+                "Pathway": "PPM1B"
+            }
+        },
+        {
+            "edge": 23,
+            "node": 247,
+            "attrs": {
+                "Edges": 23,
+                "Pathway": "PPM1D"
+            }
+        },
+        {
+            "edge": 23,
+            "node": 142,
+            "attrs": {
+                "Edges": 23,
+                "Pathway": "PPM1D"
+            }
+        },
+        {
+            "edge": 23,
+            "node": 105,
+            "attrs": {
+                "Edges": 23,
+                "Pathway": "PPM1D"
+            }
+        },
+        {
+            "edge": 23,
+            "node": 251,
+            "attrs": {
+                "Edges": 23,
+                "Pathway": "PPM1D"
+            }
+        },
+        {
+            "edge": 23,
+            "node": 246,
+            "attrs": {
+                "Edges": 23,
+                "Pathway": "PPM1D"
+            }
+        },
+        {
+            "edge": 23,
+            "node": 182,
+            "attrs": {
+                "Edges": 23,
+                "Pathway": "PPM1D"
+            }
+        },
+        {
+            "edge": 23,
+            "node": 56,
+            "attrs": {
+                "Edges": 23,
+                "Pathway": "PPM1D"
+            }
+        },
+        {
+            "edge": 23,
+            "node": 36,
+            "attrs": {
+                "Edges": 23,
+                "Pathway": "PPM1D"
+            }
+        },
+        {
+            "edge": 23,
+            "node": 140,
+            "attrs": {
+                "Edges": 23,
+                "Pathway": "PPM1D"
+            }
+        },
+        {
+            "edge": 24,
+            "node": 192,
+            "attrs": {
+                "Edges": 24,
+                "Pathway": "PPM1F"
+            }
+        },
+        {
+            "edge": 24,
+            "node": 27,
+            "attrs": {
+                "Edges": 24,
+                "Pathway": "PPM1F"
+            }
+        },
+        {
+            "edge": 24,
+            "node": 75,
+            "attrs": {
+                "Edges": 24,
+                "Pathway": "PPM1F"
+            }
+        },
+        {
+            "edge": 24,
+            "node": 238,
+            "attrs": {
+                "Edges": 24,
+                "Pathway": "PPM1F"
+            }
+        },
+        {
+            "edge": 25,
+            "node": 240,
+            "attrs": {
+                "Edges": 25,
+                "Pathway": "PPM1G"
+            }
+        },
+        {
+            "edge": 25,
+            "node": 105,
+            "attrs": {
+                "Edges": 25,
+                "Pathway": "PPM1G"
+            }
+        },
+        {
+            "edge": 25,
+            "node": 41,
+            "attrs": {
+                "Edges": 25,
+                "Pathway": "PPM1G"
+            }
+        },
+        {
+            "edge": 25,
+            "node": 46,
+            "attrs": {
+                "Edges": 25,
+                "Pathway": "PPM1G"
+            }
+        },
+        {
+            "edge": 25,
+            "node": 30,
+            "attrs": {
+                "Edges": 25,
+                "Pathway": "PPM1G"
+            }
+        },
+        {
+            "edge": 25,
+            "node": 225,
+            "attrs": {
+                "Edges": 25,
+                "Pathway": "PPM1G"
+            }
+        },
+        {
+            "edge": 26,
+            "node": 148,
+            "attrs": {
+                "Edges": 26,
+                "Pathway": "PPM1L"
+            }
+        },
+        {
+            "edge": 26,
+            "node": 206,
+            "attrs": {
+                "Edges": 26,
+                "Pathway": "PPM1L"
+            }
+        },
+        {
+            "edge": 26,
+            "node": 178,
+            "attrs": {
+                "Edges": 26,
+                "Pathway": "PPM1L"
+            }
+        },
+        {
+            "edge": 27,
+            "node": 52,
+            "attrs": {
+                "Edges": 27,
+                "Pathway": "PPP1CA"
+            }
+        },
+        {
+            "edge": 27,
+            "node": 117,
+            "attrs": {
+                "Edges": 27,
+                "Pathway": "PPP1CA"
+            }
+        },
+        {
+            "edge": 27,
+            "node": 143,
+            "attrs": {
+                "Edges": 27,
+                "Pathway": "PPP1CA"
+            }
+        },
+        {
+            "edge": 27,
+            "node": 259,
+            "attrs": {
+                "Edges": 27,
+                "Pathway": "PPP1CA"
+            }
+        },
+        {
+            "edge": 27,
+            "node": 211,
+            "attrs": {
+                "Edges": 27,
+                "Pathway": "PPP1CA"
+            }
+        },
+        {
+            "edge": 27,
+            "node": 121,
+            "attrs": {
+                "Edges": 27,
+                "Pathway": "PPP1CA"
+            }
+        },
+        {
+            "edge": 27,
+            "node": 105,
+            "attrs": {
+                "Edges": 27,
+                "Pathway": "PPP1CA"
+            }
+        },
+        {
+            "edge": 27,
+            "node": 151,
+            "attrs": {
+                "Edges": 27,
+                "Pathway": "PPP1CA"
+            }
+        },
+        {
+            "edge": 27,
+            "node": 195,
+            "attrs": {
+                "Edges": 27,
+                "Pathway": "PPP1CA"
+            }
+        },
+        {
+            "edge": 27,
+            "node": 64,
+            "attrs": {
+                "Edges": 27,
+                "Pathway": "PPP1CA"
+            }
+        },
+        {
+            "edge": 27,
+            "node": 138,
+            "attrs": {
+                "Edges": 27,
+                "Pathway": "PPP1CA"
+            }
+        },
+        {
+            "edge": 27,
+            "node": 3,
+            "attrs": {
+                "Edges": 27,
+                "Pathway": "PPP1CA"
+            }
+        },
+        {
+            "edge": 27,
+            "node": 147,
+            "attrs": {
+                "Edges": 27,
+                "Pathway": "PPP1CA"
+            }
+        },
+        {
+            "edge": 27,
+            "node": 29,
+            "attrs": {
+                "Edges": 27,
+                "Pathway": "PPP1CA"
+            }
+        },
+        {
+            "edge": 27,
+            "node": 102,
+            "attrs": {
+                "Edges": 27,
+                "Pathway": "PPP1CA"
+            }
+        },
+        {
+            "edge": 27,
+            "node": 155,
+            "attrs": {
+                "Edges": 27,
+                "Pathway": "PPP1CA"
+            }
+        },
+        {
+            "edge": 27,
+            "node": 210,
+            "attrs": {
+                "Edges": 27,
+                "Pathway": "PPP1CA"
+            }
+        },
+        {
+            "edge": 27,
+            "node": 187,
+            "attrs": {
+                "Edges": 27,
+                "Pathway": "PPP1CA"
+            }
+        },
+        {
+            "edge": 27,
+            "node": 59,
+            "attrs": {
+                "Edges": 27,
+                "Pathway": "PPP1CA"
+            }
+        },
+        {
+            "edge": 27,
+            "node": 198,
+            "attrs": {
+                "Edges": 27,
+                "Pathway": "PPP1CA"
+            }
+        },
+        {
+            "edge": 27,
+            "node": 141,
+            "attrs": {
+                "Edges": 27,
+                "Pathway": "PPP1CA"
+            }
+        },
+        {
+            "edge": 27,
+            "node": 35,
+            "attrs": {
+                "Edges": 27,
+                "Pathway": "PPP1CA"
+            }
+        },
+        {
+            "edge": 27,
+            "node": 246,
+            "attrs": {
+                "Edges": 27,
+                "Pathway": "PPP1CA"
+            }
+        },
+        {
+            "edge": 27,
+            "node": 252,
+            "attrs": {
+                "Edges": 27,
+                "Pathway": "PPP1CA"
+            }
+        },
+        {
+            "edge": 27,
+            "node": 56,
+            "attrs": {
+                "Edges": 27,
+                "Pathway": "PPP1CA"
+            }
+        },
+        {
+            "edge": 27,
+            "node": 209,
+            "attrs": {
+                "Edges": 27,
+                "Pathway": "PPP1CA"
+            }
+        },
+        {
+            "edge": 27,
+            "node": 62,
+            "attrs": {
+                "Edges": 27,
+                "Pathway": "PPP1CA"
+            }
+        },
+        {
+            "edge": 27,
+            "node": 9,
+            "attrs": {
+                "Edges": 27,
+                "Pathway": "PPP1CA"
+            }
+        },
+        {
+            "edge": 27,
+            "node": 153,
+            "attrs": {
+                "Edges": 27,
+                "Pathway": "PPP1CA"
+            }
+        },
+        {
+            "edge": 27,
+            "node": 278,
+            "attrs": {
+                "Edges": 27,
+                "Pathway": "PPP1CA"
+            }
+        },
+        {
+            "edge": 27,
+            "node": 27,
+            "attrs": {
+                "Edges": 27,
+                "Pathway": "PPP1CA"
+            }
+        },
+        {
+            "edge": 27,
+            "node": 84,
+            "attrs": {
+                "Edges": 27,
+                "Pathway": "PPP1CA"
+            }
+        },
+        {
+            "edge": 27,
+            "node": 264,
+            "attrs": {
+                "Edges": 27,
+                "Pathway": "PPP1CA"
+            }
+        },
+        {
+            "edge": 27,
+            "node": 197,
+            "attrs": {
+                "Edges": 27,
+                "Pathway": "PPP1CA"
+            }
+        },
+        {
+            "edge": 27,
+            "node": 40,
+            "attrs": {
+                "Edges": 27,
+                "Pathway": "PPP1CA"
+            }
+        },
+        {
+            "edge": 27,
+            "node": 77,
+            "attrs": {
+                "Edges": 27,
+                "Pathway": "PPP1CA"
+            }
+        },
+        {
+            "edge": 27,
+            "node": 139,
+            "attrs": {
+                "Edges": 27,
+                "Pathway": "PPP1CA"
+            }
+        },
+        {
+            "edge": 27,
+            "node": 31,
+            "attrs": {
+                "Edges": 27,
+                "Pathway": "PPP1CA"
+            }
+        },
+        {
+            "edge": 27,
+            "node": 258,
+            "attrs": {
+                "Edges": 27,
+                "Pathway": "PPP1CA"
+            }
+        },
+        {
+            "edge": 27,
+            "node": 213,
+            "attrs": {
+                "Edges": 27,
+                "Pathway": "PPP1CA"
+            }
+        },
+        {
+            "edge": 27,
+            "node": 254,
+            "attrs": {
+                "Edges": 27,
+                "Pathway": "PPP1CA"
+            }
+        },
+        {
+            "edge": 27,
+            "node": 253,
+            "attrs": {
+                "Edges": 27,
+                "Pathway": "PPP1CA"
+            }
+        },
+        {
+            "edge": 27,
+            "node": 132,
+            "attrs": {
+                "Edges": 27,
+                "Pathway": "PPP1CA"
+            }
+        },
+        {
+            "edge": 27,
+            "node": 70,
+            "attrs": {
+                "Edges": 27,
+                "Pathway": "PPP1CA"
+            }
+        },
+        {
+            "edge": 27,
+            "node": 204,
+            "attrs": {
+                "Edges": 27,
+                "Pathway": "PPP1CA"
+            }
+        },
+        {
+            "edge": 27,
+            "node": 57,
+            "attrs": {
+                "Edges": 27,
+                "Pathway": "PPP1CA"
+            }
+        },
+        {
+            "edge": 28,
+            "node": 143,
+            "attrs": {
+                "Edges": 28,
+                "Pathway": "PPP2CA"
+            }
+        },
+        {
+            "edge": 28,
+            "node": 259,
+            "attrs": {
+                "Edges": 28,
+                "Pathway": "PPP2CA"
+            }
+        },
+        {
+            "edge": 28,
+            "node": 63,
+            "attrs": {
+                "Edges": 28,
+                "Pathway": "PPP2CA"
+            }
+        },
+        {
+            "edge": 28,
+            "node": 47,
+            "attrs": {
+                "Edges": 28,
+                "Pathway": "PPP2CA"
+            }
+        },
+        {
+            "edge": 28,
+            "node": 163,
+            "attrs": {
+                "Edges": 28,
+                "Pathway": "PPP2CA"
+            }
+        },
+        {
+            "edge": 28,
+            "node": 195,
+            "attrs": {
+                "Edges": 28,
+                "Pathway": "PPP2CA"
+            }
+        },
+        {
+            "edge": 28,
+            "node": 168,
+            "attrs": {
+                "Edges": 28,
+                "Pathway": "PPP2CA"
+            }
+        },
+        {
+            "edge": 28,
+            "node": 36,
+            "attrs": {
+                "Edges": 28,
+                "Pathway": "PPP2CA"
+            }
+        },
+        {
+            "edge": 28,
+            "node": 59,
+            "attrs": {
+                "Edges": 28,
+                "Pathway": "PPP2CA"
+            }
+        },
+        {
+            "edge": 28,
+            "node": 154,
+            "attrs": {
+                "Edges": 28,
+                "Pathway": "PPP2CA"
+            }
+        },
+        {
+            "edge": 28,
+            "node": 183,
+            "attrs": {
+                "Edges": 28,
+                "Pathway": "PPP2CA"
+            }
+        },
+        {
+            "edge": 28,
+            "node": 141,
+            "attrs": {
+                "Edges": 28,
+                "Pathway": "PPP2CA"
+            }
+        },
+        {
+            "edge": 28,
+            "node": 4,
+            "attrs": {
+                "Edges": 28,
+                "Pathway": "PPP2CA"
+            }
+        },
+        {
+            "edge": 28,
+            "node": 53,
+            "attrs": {
+                "Edges": 28,
+                "Pathway": "PPP2CA"
+            }
+        },
+        {
+            "edge": 28,
+            "node": 80,
+            "attrs": {
+                "Edges": 28,
+                "Pathway": "PPP2CA"
+            }
+        },
+        {
+            "edge": 28,
+            "node": 246,
+            "attrs": {
+                "Edges": 28,
+                "Pathway": "PPP2CA"
+            }
+        },
+        {
+            "edge": 28,
+            "node": 75,
+            "attrs": {
+                "Edges": 28,
+                "Pathway": "PPP2CA"
+            }
+        },
+        {
+            "edge": 28,
+            "node": 76,
+            "attrs": {
+                "Edges": 28,
+                "Pathway": "PPP2CA"
+            }
+        },
+        {
+            "edge": 28,
+            "node": 115,
+            "attrs": {
+                "Edges": 28,
+                "Pathway": "PPP2CA"
+            }
+        },
+        {
+            "edge": 28,
+            "node": 185,
+            "attrs": {
+                "Edges": 28,
+                "Pathway": "PPP2CA"
+            }
+        },
+        {
+            "edge": 28,
+            "node": 238,
+            "attrs": {
+                "Edges": 28,
+                "Pathway": "PPP2CA"
+            }
+        },
+        {
+            "edge": 28,
+            "node": 20,
+            "attrs": {
+                "Edges": 28,
+                "Pathway": "PPP2CA"
+            }
+        },
+        {
+            "edge": 28,
+            "node": 56,
+            "attrs": {
+                "Edges": 28,
+                "Pathway": "PPP2CA"
+            }
+        },
+        {
+            "edge": 28,
+            "node": 28,
+            "attrs": {
+                "Edges": 28,
+                "Pathway": "PPP2CA"
+            }
+        },
+        {
+            "edge": 28,
+            "node": 209,
+            "attrs": {
+                "Edges": 28,
+                "Pathway": "PPP2CA"
+            }
+        },
+        {
+            "edge": 28,
+            "node": 5,
+            "attrs": {
+                "Edges": 28,
+                "Pathway": "PPP2CA"
+            }
+        },
+        {
+            "edge": 28,
+            "node": 158,
+            "attrs": {
+                "Edges": 28,
+                "Pathway": "PPP2CA"
+            }
+        },
+        {
+            "edge": 28,
+            "node": 6,
+            "attrs": {
+                "Edges": 28,
+                "Pathway": "PPP2CA"
+            }
+        },
+        {
+            "edge": 28,
+            "node": 32,
+            "attrs": {
+                "Edges": 28,
+                "Pathway": "PPP2CA"
+            }
+        },
+        {
+            "edge": 28,
+            "node": 77,
+            "attrs": {
+                "Edges": 28,
+                "Pathway": "PPP2CA"
+            }
+        },
+        {
+            "edge": 28,
+            "node": 233,
+            "attrs": {
+                "Edges": 28,
+                "Pathway": "PPP2CA"
+            }
+        },
+        {
+            "edge": 28,
+            "node": 139,
+            "attrs": {
+                "Edges": 28,
+                "Pathway": "PPP2CA"
+            }
+        },
+        {
+            "edge": 28,
+            "node": 192,
+            "attrs": {
+                "Edges": 28,
+                "Pathway": "PPP2CA"
+            }
+        },
+        {
+            "edge": 28,
+            "node": 247,
+            "attrs": {
+                "Edges": 28,
+                "Pathway": "PPP2CA"
+            }
+        },
+        {
+            "edge": 28,
+            "node": 279,
+            "attrs": {
+                "Edges": 28,
+                "Pathway": "PPP2CA"
+            }
+        },
+        {
+            "edge": 28,
+            "node": 114,
+            "attrs": {
+                "Edges": 28,
+                "Pathway": "PPP2CA"
+            }
+        },
+        {
+            "edge": 28,
+            "node": 199,
+            "attrs": {
+                "Edges": 28,
+                "Pathway": "PPP2CA"
+            }
+        },
+        {
+            "edge": 28,
+            "node": 251,
+            "attrs": {
+                "Edges": 28,
+                "Pathway": "PPP2CA"
+            }
+        },
+        {
+            "edge": 28,
+            "node": 254,
+            "attrs": {
+                "Edges": 28,
+                "Pathway": "PPP2CA"
+            }
+        },
+        {
+            "edge": 28,
+            "node": 150,
+            "attrs": {
+                "Edges": 28,
+                "Pathway": "PPP2CA"
+            }
+        },
+        {
+            "edge": 28,
+            "node": 206,
+            "attrs": {
+                "Edges": 28,
+                "Pathway": "PPP2CA"
+            }
+        },
+        {
+            "edge": 28,
+            "node": 177,
+            "attrs": {
+                "Edges": 28,
+                "Pathway": "PPP2CA"
+            }
+        },
+        {
+            "edge": 28,
+            "node": 108,
+            "attrs": {
+                "Edges": 28,
+                "Pathway": "PPP2CA"
+            }
+        },
+        {
+            "edge": 28,
+            "node": 272,
+            "attrs": {
+                "Edges": 28,
+                "Pathway": "PPP2CA"
+            }
+        },
+        {
+            "edge": 28,
+            "node": 255,
+            "attrs": {
+                "Edges": 28,
+                "Pathway": "PPP2CA"
+            }
+        },
+        {
+            "edge": 28,
+            "node": 171,
+            "attrs": {
+                "Edges": 28,
+                "Pathway": "PPP2CA"
+            }
+        },
+        {
+            "edge": 28,
+            "node": 101,
+            "attrs": {
+                "Edges": 28,
+                "Pathway": "PPP2CA"
+            }
+        },
+        {
+            "edge": 28,
+            "node": 212,
+            "attrs": {
+                "Edges": 28,
+                "Pathway": "PPP2CA"
+            }
+        },
+        {
+            "edge": 28,
+            "node": 152,
+            "attrs": {
+                "Edges": 28,
+                "Pathway": "PPP2CA"
+            }
+        },
+        {
+            "edge": 28,
+            "node": 117,
+            "attrs": {
+                "Edges": 28,
+                "Pathway": "PPP2CA"
+            }
+        },
+        {
+            "edge": 28,
+            "node": 71,
+            "attrs": {
+                "Edges": 28,
+                "Pathway": "PPP2CA"
+            }
+        },
+        {
+            "edge": 28,
+            "node": 180,
+            "attrs": {
+                "Edges": 28,
+                "Pathway": "PPP2CA"
+            }
+        },
+        {
+            "edge": 28,
+            "node": 105,
+            "attrs": {
+                "Edges": 28,
+                "Pathway": "PPP2CA"
+            }
+        },
+        {
+            "edge": 28,
+            "node": 134,
+            "attrs": {
+                "Edges": 28,
+                "Pathway": "PPP2CA"
+            }
+        },
+        {
+            "edge": 28,
+            "node": 211,
+            "attrs": {
+                "Edges": 28,
+                "Pathway": "PPP2CA"
+            }
+        },
+        {
+            "edge": 28,
+            "node": 151,
+            "attrs": {
+                "Edges": 28,
+                "Pathway": "PPP2CA"
+            }
+        },
+        {
+            "edge": 28,
+            "node": 3,
+            "attrs": {
+                "Edges": 28,
+                "Pathway": "PPP2CA"
+            }
+        },
+        {
+            "edge": 28,
+            "node": 138,
+            "attrs": {
+                "Edges": 28,
+                "Pathway": "PPP2CA"
+            }
+        },
+        {
+            "edge": 28,
+            "node": 122,
+            "attrs": {
+                "Edges": 28,
+                "Pathway": "PPP2CA"
+            }
+        },
+        {
+            "edge": 28,
+            "node": 205,
+            "attrs": {
+                "Edges": 28,
+                "Pathway": "PPP2CA"
+            }
+        },
+        {
+            "edge": 28,
+            "node": 147,
+            "attrs": {
+                "Edges": 28,
+                "Pathway": "PPP2CA"
+            }
+        },
+        {
+            "edge": 28,
+            "node": 87,
+            "attrs": {
+                "Edges": 28,
+                "Pathway": "PPP2CA"
+            }
+        },
+        {
+            "edge": 28,
+            "node": 241,
+            "attrs": {
+                "Edges": 28,
+                "Pathway": "PPP2CA"
+            }
+        },
+        {
+            "edge": 28,
+            "node": 86,
+            "attrs": {
+                "Edges": 28,
+                "Pathway": "PPP2CA"
+            }
+        },
+        {
+            "edge": 28,
+            "node": 112,
+            "attrs": {
+                "Edges": 28,
+                "Pathway": "PPP2CA"
+            }
+        },
+        {
+            "edge": 28,
+            "node": 35,
+            "attrs": {
+                "Edges": 28,
+                "Pathway": "PPP2CA"
+            }
+        },
+        {
+            "edge": 28,
+            "node": 12,
+            "attrs": {
+                "Edges": 28,
+                "Pathway": "PPP2CA"
+            }
+        },
+        {
+            "edge": 28,
+            "node": 118,
+            "attrs": {
+                "Edges": 28,
+                "Pathway": "PPP2CA"
+            }
+        },
+        {
+            "edge": 28,
+            "node": 140,
+            "attrs": {
+                "Edges": 28,
+                "Pathway": "PPP2CA"
+            }
+        },
+        {
+            "edge": 28,
+            "node": 50,
+            "attrs": {
+                "Edges": 28,
+                "Pathway": "PPP2CA"
+            }
+        },
+        {
+            "edge": 28,
+            "node": 172,
+            "attrs": {
+                "Edges": 28,
+                "Pathway": "PPP2CA"
+            }
+        },
+        {
+            "edge": 28,
+            "node": 231,
+            "attrs": {
+                "Edges": 28,
+                "Pathway": "PPP2CA"
+            }
+        },
+        {
+            "edge": 28,
+            "node": 153,
+            "attrs": {
+                "Edges": 28,
+                "Pathway": "PPP2CA"
+            }
+        },
+        {
+            "edge": 28,
+            "node": 44,
+            "attrs": {
+                "Edges": 28,
+                "Pathway": "PPP2CA"
+            }
+        },
+        {
+            "edge": 28,
+            "node": 27,
+            "attrs": {
+                "Edges": 28,
+                "Pathway": "PPP2CA"
+            }
+        },
+        {
+            "edge": 28,
+            "node": 161,
+            "attrs": {
+                "Edges": 28,
+                "Pathway": "PPP2CA"
+            }
+        },
+        {
+            "edge": 28,
+            "node": 179,
+            "attrs": {
+                "Edges": 28,
+                "Pathway": "PPP2CA"
+            }
+        },
+        {
+            "edge": 28,
+            "node": 266,
+            "attrs": {
+                "Edges": 28,
+                "Pathway": "PPP2CA"
+            }
+        },
+        {
+            "edge": 28,
+            "node": 31,
+            "attrs": {
+                "Edges": 28,
+                "Pathway": "PPP2CA"
+            }
+        },
+        {
+            "edge": 28,
+            "node": 181,
+            "attrs": {
+                "Edges": 28,
+                "Pathway": "PPP2CA"
+            }
+        },
+        {
+            "edge": 28,
+            "node": 142,
+            "attrs": {
+                "Edges": 28,
+                "Pathway": "PPP2CA"
+            }
+        },
+        {
+            "edge": 28,
+            "node": 26,
+            "attrs": {
+                "Edges": 28,
+                "Pathway": "PPP2CA"
+            }
+        },
+        {
+            "edge": 28,
+            "node": 10,
+            "attrs": {
+                "Edges": 28,
+                "Pathway": "PPP2CA"
+            }
+        },
+        {
+            "edge": 28,
+            "node": 21,
+            "attrs": {
+                "Edges": 28,
+                "Pathway": "PPP2CA"
+            }
+        },
+        {
+            "edge": 28,
+            "node": 96,
+            "attrs": {
+                "Edges": 28,
+                "Pathway": "PPP2CA"
+            }
+        },
+        {
+            "edge": 28,
+            "node": 204,
+            "attrs": {
+                "Edges": 28,
+                "Pathway": "PPP2CA"
+            }
+        },
+        {
+            "edge": 28,
+            "node": 57,
+            "attrs": {
+                "Edges": 28,
+                "Pathway": "PPP2CA"
+            }
+        },
+        {
+            "edge": 28,
+            "node": 274,
+            "attrs": {
+                "Edges": 28,
+                "Pathway": "PPP2CA"
+            }
+        },
+        {
+            "edge": 29,
+            "node": 171,
+            "attrs": {
+                "Edges": 29,
+                "Pathway": "PPP3CA"
+            }
+        },
+        {
+            "edge": 29,
+            "node": 273,
+            "attrs": {
+                "Edges": 29,
+                "Pathway": "PPP3CA"
+            }
+        },
+        {
+            "edge": 29,
+            "node": 48,
+            "attrs": {
+                "Edges": 29,
+                "Pathway": "PPP3CA"
+            }
+        },
+        {
+            "edge": 29,
+            "node": 98,
+            "attrs": {
+                "Edges": 29,
+                "Pathway": "PPP3CA"
+            }
+        },
+        {
+            "edge": 29,
+            "node": 259,
+            "attrs": {
+                "Edges": 29,
+                "Pathway": "PPP3CA"
+            }
+        },
+        {
+            "edge": 29,
+            "node": 211,
+            "attrs": {
+                "Edges": 29,
+                "Pathway": "PPP3CA"
+            }
+        },
+        {
+            "edge": 29,
+            "node": 151,
+            "attrs": {
+                "Edges": 29,
+                "Pathway": "PPP3CA"
+            }
+        },
+        {
+            "edge": 29,
+            "node": 123,
+            "attrs": {
+                "Edges": 29,
+                "Pathway": "PPP3CA"
+            }
+        },
+        {
+            "edge": 29,
+            "node": 3,
+            "attrs": {
+                "Edges": 29,
+                "Pathway": "PPP3CA"
+            }
+        },
+        {
+            "edge": 29,
+            "node": 189,
+            "attrs": {
+                "Edges": 29,
+                "Pathway": "PPP3CA"
+            }
+        },
+        {
+            "edge": 29,
+            "node": 223,
+            "attrs": {
+                "Edges": 29,
+                "Pathway": "PPP3CA"
+            }
+        },
+        {
+            "edge": 29,
+            "node": 241,
+            "attrs": {
+                "Edges": 29,
+                "Pathway": "PPP3CA"
+            }
+        },
+        {
+            "edge": 29,
+            "node": 221,
+            "attrs": {
+                "Edges": 29,
+                "Pathway": "PPP3CA"
+            }
+        },
+        {
+            "edge": 29,
+            "node": 112,
+            "attrs": {
+                "Edges": 29,
+                "Pathway": "PPP3CA"
+            }
+        },
+        {
+            "edge": 29,
+            "node": 141,
+            "attrs": {
+                "Edges": 29,
+                "Pathway": "PPP3CA"
+            }
+        },
+        {
+            "edge": 29,
+            "node": 164,
+            "attrs": {
+                "Edges": 29,
+                "Pathway": "PPP3CA"
+            }
+        },
+        {
+            "edge": 29,
+            "node": 50,
+            "attrs": {
+                "Edges": 29,
+                "Pathway": "PPP3CA"
+            }
+        },
+        {
+            "edge": 29,
+            "node": 156,
+            "attrs": {
+                "Edges": 29,
+                "Pathway": "PPP3CA"
+            }
+        },
+        {
+            "edge": 29,
+            "node": 261,
+            "attrs": {
+                "Edges": 29,
+                "Pathway": "PPP3CA"
+            }
+        },
+        {
+            "edge": 29,
+            "node": 19,
+            "attrs": {
+                "Edges": 29,
+                "Pathway": "PPP3CA"
+            }
+        },
+        {
+            "edge": 29,
+            "node": 233,
+            "attrs": {
+                "Edges": 29,
+                "Pathway": "PPP3CA"
+            }
+        },
+        {
+            "edge": 29,
+            "node": 26,
+            "attrs": {
+                "Edges": 29,
+                "Pathway": "PPP3CA"
+            }
+        },
+        {
+            "edge": 29,
+            "node": 85,
+            "attrs": {
+                "Edges": 29,
+                "Pathway": "PPP3CA"
+            }
+        },
+        {
+            "edge": 29,
+            "node": 169,
+            "attrs": {
+                "Edges": 29,
+                "Pathway": "PPP3CA"
+            }
+        },
+        {
+            "edge": 29,
+            "node": 45,
+            "attrs": {
+                "Edges": 29,
+                "Pathway": "PPP3CA"
+            }
+        },
+        {
+            "edge": 30,
+            "node": 158,
+            "attrs": {
+                "Edges": 30,
+                "Pathway": "PPP4C"
+            }
+        },
+        {
+            "edge": 30,
+            "node": 106,
+            "attrs": {
+                "Edges": 30,
+                "Pathway": "PPP4C"
+            }
+        },
+        {
+            "edge": 30,
+            "node": 88,
+            "attrs": {
+                "Edges": 30,
+                "Pathway": "PPP4C"
+            }
+        },
+        {
+            "edge": 30,
+            "node": 105,
+            "attrs": {
+                "Edges": 30,
+                "Pathway": "PPP4C"
+            }
+        },
+        {
+            "edge": 30,
+            "node": 15,
+            "attrs": {
+                "Edges": 30,
+                "Pathway": "PPP4C"
+            }
+        },
+        {
+            "edge": 30,
+            "node": 1,
+            "attrs": {
+                "Edges": 30,
+                "Pathway": "PPP4C"
+            }
+        },
+        {
+            "edge": 31,
+            "node": 141,
+            "attrs": {
+                "Edges": 31,
+                "Pathway": "PPP5C"
+            }
+        },
+        {
+            "edge": 31,
+            "node": 259,
+            "attrs": {
+                "Edges": 31,
+                "Pathway": "PPP5C"
+            }
+        },
+        {
+            "edge": 31,
+            "node": 262,
+            "attrs": {
+                "Edges": 31,
+                "Pathway": "PPP5C"
+            }
+        },
+        {
+            "edge": 31,
+            "node": 0,
+            "attrs": {
+                "Edges": 31,
+                "Pathway": "PPP5C"
+            }
+        },
+        {
+            "edge": 31,
+            "node": 3,
+            "attrs": {
+                "Edges": 31,
+                "Pathway": "PPP5C"
+            }
+        },
+        {
+            "edge": 31,
+            "node": 11,
+            "attrs": {
+                "Edges": 31,
+                "Pathway": "PPP5C"
+            }
+        },
+        {
+            "edge": 31,
+            "node": 178,
+            "attrs": {
+                "Edges": 31,
+                "Pathway": "PPP5C"
+            }
+        },
+        {
+            "edge": 31,
+            "node": 209,
+            "attrs": {
+                "Edges": 31,
+                "Pathway": "PPP5C"
+            }
+        },
+        {
+            "edge": 32,
+            "node": 105,
+            "attrs": {
+                "Edges": 32,
+                "Pathway": "PPP6C"
+            }
+        },
+        {
+            "edge": 32,
+            "node": 84,
+            "attrs": {
+                "Edges": 32,
+                "Pathway": "PPP6C"
+            }
+        },
+        {
+            "edge": 32,
+            "node": 67,
+            "attrs": {
+                "Edges": 32,
+                "Pathway": "PPP6C"
+            }
+        },
+        {
+            "edge": 32,
+            "node": 204,
+            "attrs": {
+                "Edges": 32,
+                "Pathway": "PPP6C"
+            }
+        },
+        {
+            "edge": 32,
+            "node": 206,
+            "attrs": {
+                "Edges": 32,
+                "Pathway": "PPP6C"
+            }
+        },
+        {
+            "edge": 33,
+            "node": 51,
+            "attrs": {
+                "Edges": 33,
+                "Pathway": "PTEN"
+            }
+        },
+        {
+            "edge": 33,
+            "node": 86,
+            "attrs": {
+                "Edges": 33,
+                "Pathway": "PTEN"
+            }
+        },
+        {
+            "edge": 33,
+            "node": 277,
+            "attrs": {
+                "Edges": 33,
+                "Pathway": "PTEN"
+            }
+        },
+        {
+            "edge": 33,
+            "node": 129,
+            "attrs": {
+                "Edges": 33,
+                "Pathway": "PTEN"
+            }
+        },
+        {
+            "edge": 33,
+            "node": 155,
+            "attrs": {
+                "Edges": 33,
+                "Pathway": "PTEN"
+            }
+        },
+        {
+            "edge": 34,
+            "node": 172,
+            "attrs": {
+                "Edges": 34,
+                "Pathway": "PTP4A3"
+            }
+        },
+        {
+            "edge": 34,
+            "node": 14,
+            "attrs": {
+                "Edges": 34,
+                "Pathway": "PTP4A3"
+            }
+        },
+        {
+            "edge": 34,
+            "node": 222,
+            "attrs": {
+                "Edges": 34,
+                "Pathway": "PTP4A3"
+            }
+        },
+        {
+            "edge": 34,
+            "node": 163,
+            "attrs": {
+                "Edges": 34,
+                "Pathway": "PTP4A3"
+            }
+        },
+        {
+            "edge": 34,
+            "node": 89,
+            "attrs": {
+                "Edges": 34,
+                "Pathway": "PTP4A3"
+            }
+        },
+        {
+            "edge": 34,
+            "node": 28,
+            "attrs": {
+                "Edges": 34,
+                "Pathway": "PTP4A3"
+            }
+        },
+        {
+            "edge": 35,
+            "node": 194,
+            "attrs": {
+                "Edges": 35,
+                "Pathway": "PTPN1"
+            }
+        },
+        {
+            "edge": 35,
+            "node": 37,
+            "attrs": {
+                "Edges": 35,
+                "Pathway": "PTPN1"
+            }
+        },
+        {
+            "edge": 35,
+            "node": 270,
+            "attrs": {
+                "Edges": 35,
+                "Pathway": "PTPN1"
+            }
+        },
+        {
+            "edge": 35,
+            "node": 51,
+            "attrs": {
+                "Edges": 35,
+                "Pathway": "PTPN1"
+            }
+        },
+        {
+            "edge": 35,
+            "node": 60,
+            "attrs": {
+                "Edges": 35,
+                "Pathway": "PTPN1"
+            }
+        },
+        {
+            "edge": 35,
+            "node": 127,
+            "attrs": {
+                "Edges": 35,
+                "Pathway": "PTPN1"
+            }
+        },
+        {
+            "edge": 35,
+            "node": 214,
+            "attrs": {
+                "Edges": 35,
+                "Pathway": "PTPN1"
+            }
+        },
+        {
+            "edge": 35,
+            "node": 128,
+            "attrs": {
+                "Edges": 35,
+                "Pathway": "PTPN1"
+            }
+        },
+        {
+            "edge": 35,
+            "node": 230,
+            "attrs": {
+                "Edges": 35,
+                "Pathway": "PTPN1"
+            }
+        },
+        {
+            "edge": 35,
+            "node": 234,
+            "attrs": {
+                "Edges": 35,
+                "Pathway": "PTPN1"
+            }
+        },
+        {
+            "edge": 35,
+            "node": 226,
+            "attrs": {
+                "Edges": 35,
+                "Pathway": "PTPN1"
+            }
+        },
+        {
+            "edge": 35,
+            "node": 97,
+            "attrs": {
+                "Edges": 35,
+                "Pathway": "PTPN1"
+            }
+        },
+        {
+            "edge": 35,
+            "node": 162,
+            "attrs": {
+                "Edges": 35,
+                "Pathway": "PTPN1"
+            }
+        },
+        {
+            "edge": 35,
+            "node": 242,
+            "attrs": {
+                "Edges": 35,
+                "Pathway": "PTPN1"
+            }
+        },
+        {
+            "edge": 35,
+            "node": 155,
+            "attrs": {
+                "Edges": 35,
+                "Pathway": "PTPN1"
+            }
+        },
+        {
+            "edge": 35,
+            "node": 200,
+            "attrs": {
+                "Edges": 35,
+                "Pathway": "PTPN1"
+            }
+        },
+        {
+            "edge": 35,
+            "node": 229,
+            "attrs": {
+                "Edges": 35,
+                "Pathway": "PTPN1"
+            }
+        },
+        {
+            "edge": 35,
+            "node": 130,
+            "attrs": {
+                "Edges": 35,
+                "Pathway": "PTPN1"
+            }
+        },
+        {
+            "edge": 35,
+            "node": 103,
+            "attrs": {
+                "Edges": 35,
+                "Pathway": "PTPN1"
+            }
+        },
+        {
+            "edge": 35,
+            "node": 165,
+            "attrs": {
+                "Edges": 35,
+                "Pathway": "PTPN1"
+            }
+        },
+        {
+            "edge": 35,
+            "node": 256,
+            "attrs": {
+                "Edges": 35,
+                "Pathway": "PTPN1"
+            }
+        },
+        {
+            "edge": 35,
+            "node": 107,
+            "attrs": {
+                "Edges": 35,
+                "Pathway": "PTPN1"
+            }
+        },
+        {
+            "edge": 35,
+            "node": 175,
+            "attrs": {
+                "Edges": 35,
+                "Pathway": "PTPN1"
+            }
+        },
+        {
+            "edge": 35,
+            "node": 209,
+            "attrs": {
+                "Edges": 35,
+                "Pathway": "PTPN1"
+            }
+        },
+        {
+            "edge": 35,
+            "node": 28,
+            "attrs": {
+                "Edges": 35,
+                "Pathway": "PTPN1"
+            }
+        },
+        {
+            "edge": 35,
+            "node": 65,
+            "attrs": {
+                "Edges": 35,
+                "Pathway": "PTPN1"
+            }
+        },
+        {
+            "edge": 35,
+            "node": 231,
+            "attrs": {
+                "Edges": 35,
+                "Pathway": "PTPN1"
+            }
+        },
+        {
+            "edge": 35,
+            "node": 156,
+            "attrs": {
+                "Edges": 35,
+                "Pathway": "PTPN1"
+            }
+        },
+        {
+            "edge": 35,
+            "node": 23,
+            "attrs": {
+                "Edges": 35,
+                "Pathway": "PTPN1"
+            }
+        },
+        {
+            "edge": 35,
+            "node": 39,
+            "attrs": {
+                "Edges": 35,
+                "Pathway": "PTPN1"
+            }
+        },
+        {
+            "edge": 35,
+            "node": 109,
+            "attrs": {
+                "Edges": 35,
+                "Pathway": "PTPN1"
+            }
+        },
+        {
+            "edge": 35,
+            "node": 120,
+            "attrs": {
+                "Edges": 35,
+                "Pathway": "PTPN1"
+            }
+        },
+        {
+            "edge": 35,
+            "node": 243,
+            "attrs": {
+                "Edges": 35,
+                "Pathway": "PTPN1"
+            }
+        },
+        {
+            "edge": 35,
+            "node": 216,
+            "attrs": {
+                "Edges": 35,
+                "Pathway": "PTPN1"
+            }
+        },
+        {
+            "edge": 35,
+            "node": 227,
+            "attrs": {
+                "Edges": 35,
+                "Pathway": "PTPN1"
+            }
+        },
+        {
+            "edge": 35,
+            "node": 166,
+            "attrs": {
+                "Edges": 35,
+                "Pathway": "PTPN1"
+            }
+        },
+        {
+            "edge": 35,
+            "node": 17,
+            "attrs": {
+                "Edges": 35,
+                "Pathway": "PTPN1"
+            }
+        },
+        {
+            "edge": 35,
+            "node": 43,
+            "attrs": {
+                "Edges": 35,
+                "Pathway": "PTPN1"
+            }
+        },
+        {
+            "edge": 36,
+            "node": 194,
+            "attrs": {
+                "Edges": 36,
+                "Pathway": "PTPN11"
+            }
+        },
+        {
+            "edge": 36,
+            "node": 51,
+            "attrs": {
+                "Edges": 36,
+                "Pathway": "PTPN11"
+            }
+        },
+        {
+            "edge": 36,
+            "node": 201,
+            "attrs": {
+                "Edges": 36,
+                "Pathway": "PTPN11"
+            }
+        },
+        {
+            "edge": 36,
+            "node": 231,
+            "attrs": {
+                "Edges": 36,
+                "Pathway": "PTPN11"
+            }
+        },
+        {
+            "edge": 36,
+            "node": 203,
+            "attrs": {
+                "Edges": 36,
+                "Pathway": "PTPN11"
+            }
+        },
+        {
+            "edge": 36,
+            "node": 23,
+            "attrs": {
+                "Edges": 36,
+                "Pathway": "PTPN11"
+            }
+        },
+        {
+            "edge": 36,
+            "node": 44,
+            "attrs": {
+                "Edges": 36,
+                "Pathway": "PTPN11"
+            }
+        },
+        {
+            "edge": 36,
+            "node": 119,
+            "attrs": {
+                "Edges": 36,
+                "Pathway": "PTPN11"
+            }
+        },
+        {
+            "edge": 36,
+            "node": 226,
+            "attrs": {
+                "Edges": 36,
+                "Pathway": "PTPN11"
+            }
+        },
+        {
+            "edge": 36,
+            "node": 78,
+            "attrs": {
+                "Edges": 36,
+                "Pathway": "PTPN11"
+            }
+        },
+        {
+            "edge": 36,
+            "node": 120,
+            "attrs": {
+                "Edges": 36,
+                "Pathway": "PTPN11"
+            }
+        },
+        {
+            "edge": 36,
+            "node": 104,
+            "attrs": {
+                "Edges": 36,
+                "Pathway": "PTPN11"
+            }
+        },
+        {
+            "edge": 36,
+            "node": 193,
+            "attrs": {
+                "Edges": 36,
+                "Pathway": "PTPN11"
+            }
+        },
+        {
+            "edge": 36,
+            "node": 33,
+            "attrs": {
+                "Edges": 36,
+                "Pathway": "PTPN11"
+            }
+        },
+        {
+            "edge": 36,
+            "node": 149,
+            "attrs": {
+                "Edges": 36,
+                "Pathway": "PTPN11"
+            }
+        },
+        {
+            "edge": 36,
+            "node": 133,
+            "attrs": {
+                "Edges": 36,
+                "Pathway": "PTPN11"
+            }
+        },
+        {
+            "edge": 36,
+            "node": 219,
+            "attrs": {
+                "Edges": 36,
+                "Pathway": "PTPN11"
+            }
+        },
+        {
+            "edge": 36,
+            "node": 257,
+            "attrs": {
+                "Edges": 36,
+                "Pathway": "PTPN11"
+            }
+        },
+        {
+            "edge": 36,
+            "node": 17,
+            "attrs": {
+                "Edges": 36,
+                "Pathway": "PTPN11"
+            }
+        },
+        {
+            "edge": 36,
+            "node": 160,
+            "attrs": {
+                "Edges": 36,
+                "Pathway": "PTPN11"
+            }
+        },
+        {
+            "edge": 36,
+            "node": 43,
+            "attrs": {
+                "Edges": 36,
+                "Pathway": "PTPN11"
+            }
+        },
+        {
+            "edge": 37,
+            "node": 231,
+            "attrs": {
+                "Edges": 37,
+                "Pathway": "PTPN12"
+            }
+        },
+        {
+            "edge": 37,
+            "node": 239,
+            "attrs": {
+                "Edges": 37,
+                "Pathway": "PTPN12"
+            }
+        },
+        {
+            "edge": 37,
+            "node": 33,
+            "attrs": {
+                "Edges": 37,
+                "Pathway": "PTPN12"
+            }
+        },
+        {
+            "edge": 37,
+            "node": 220,
+            "attrs": {
+                "Edges": 37,
+                "Pathway": "PTPN12"
+            }
+        },
+        {
+            "edge": 37,
+            "node": 66,
+            "attrs": {
+                "Edges": 37,
+                "Pathway": "PTPN12"
+            }
+        },
+        {
+            "edge": 37,
+            "node": 155,
+            "attrs": {
+                "Edges": 37,
+                "Pathway": "PTPN12"
+            }
+        },
+        {
+            "edge": 37,
+            "node": 28,
+            "attrs": {
+                "Edges": 37,
+                "Pathway": "PTPN12"
+            }
+        },
+        {
+            "edge": 38,
+            "node": 229,
+            "attrs": {
+                "Edges": 38,
+                "Pathway": "PTPN13"
+            }
+        },
+        {
+            "edge": 38,
+            "node": 248,
+            "attrs": {
+                "Edges": 38,
+                "Pathway": "PTPN13"
+            }
+        },
+        {
+            "edge": 38,
+            "node": 23,
+            "attrs": {
+                "Edges": 38,
+                "Pathway": "PTPN13"
+            }
+        },
+        {
+            "edge": 38,
+            "node": 91,
+            "attrs": {
+                "Edges": 38,
+                "Pathway": "PTPN13"
+            }
+        },
+        {
+            "edge": 38,
+            "node": 204,
+            "attrs": {
+                "Edges": 38,
+                "Pathway": "PTPN13"
+            }
+        },
+        {
+            "edge": 39,
+            "node": 194,
+            "attrs": {
+                "Edges": 39,
+                "Pathway": "PTPN2"
+            }
+        },
+        {
+            "edge": 39,
+            "node": 51,
+            "attrs": {
+                "Edges": 39,
+                "Pathway": "PTPN2"
+            }
+        },
+        {
+            "edge": 39,
+            "node": 60,
+            "attrs": {
+                "Edges": 39,
+                "Pathway": "PTPN2"
+            }
+        },
+        {
+            "edge": 39,
+            "node": 231,
+            "attrs": {
+                "Edges": 39,
+                "Pathway": "PTPN2"
+            }
+        },
+        {
+            "edge": 39,
+            "node": 277,
+            "attrs": {
+                "Edges": 39,
+                "Pathway": "PTPN2"
+            }
+        },
+        {
+            "edge": 39,
+            "node": 203,
+            "attrs": {
+                "Edges": 39,
+                "Pathway": "PTPN2"
+            }
+        },
+        {
+            "edge": 39,
+            "node": 214,
+            "attrs": {
+                "Edges": 39,
+                "Pathway": "PTPN2"
+            }
+        },
+        {
+            "edge": 39,
+            "node": 230,
+            "attrs": {
+                "Edges": 39,
+                "Pathway": "PTPN2"
+            }
+        },
+        {
+            "edge": 39,
+            "node": 110,
+            "attrs": {
+                "Edges": 39,
+                "Pathway": "PTPN2"
+            }
+        },
+        {
+            "edge": 39,
+            "node": 120,
+            "attrs": {
+                "Edges": 39,
+                "Pathway": "PTPN2"
+            }
+        },
+        {
+            "edge": 39,
+            "node": 227,
+            "attrs": {
+                "Edges": 39,
+                "Pathway": "PTPN2"
+            }
+        },
+        {
+            "edge": 39,
+            "node": 133,
+            "attrs": {
+                "Edges": 39,
+                "Pathway": "PTPN2"
+            }
+        },
+        {
+            "edge": 39,
+            "node": 165,
+            "attrs": {
+                "Edges": 39,
+                "Pathway": "PTPN2"
+            }
+        },
+        {
+            "edge": 39,
+            "node": 135,
+            "attrs": {
+                "Edges": 39,
+                "Pathway": "PTPN2"
+            }
+        },
+        {
+            "edge": 39,
+            "node": 275,
+            "attrs": {
+                "Edges": 39,
+                "Pathway": "PTPN2"
+            }
+        },
+        {
+            "edge": 39,
+            "node": 188,
+            "attrs": {
+                "Edges": 39,
+                "Pathway": "PTPN2"
+            }
+        },
+        {
+            "edge": 39,
+            "node": 43,
+            "attrs": {
+                "Edges": 39,
+                "Pathway": "PTPN2"
+            }
+        },
+        {
+            "edge": 40,
+            "node": 124,
+            "attrs": {
+                "Edges": 40,
+                "Pathway": "PTPN22"
+            }
+        },
+        {
+            "edge": 40,
+            "node": 7,
+            "attrs": {
+                "Edges": 40,
+                "Pathway": "PTPN22"
+            }
+        },
+        {
+            "edge": 40,
+            "node": 116,
+            "attrs": {
+                "Edges": 40,
+                "Pathway": "PTPN22"
+            }
+        },
+        {
+            "edge": 41,
+            "node": 231,
+            "attrs": {
+                "Edges": 41,
+                "Pathway": "PTPN23"
+            }
+        },
+        {
+            "edge": 41,
+            "node": 58,
+            "attrs": {
+                "Edges": 41,
+                "Pathway": "PTPN23"
+            }
+        },
+        {
+            "edge": 41,
+            "node": 109,
+            "attrs": {
+                "Edges": 41,
+                "Pathway": "PTPN23"
+            }
+        },
+        {
+            "edge": 41,
+            "node": 155,
+            "attrs": {
+                "Edges": 41,
+                "Pathway": "PTPN23"
+            }
+        },
+        {
+            "edge": 42,
+            "node": 124,
+            "attrs": {
+                "Edges": 42,
+                "Pathway": "PTPN3"
+            }
+        },
+        {
+            "edge": 42,
+            "node": 16,
+            "attrs": {
+                "Edges": 42,
+                "Pathway": "PTPN3"
+            }
+        },
+        {
+            "edge": 42,
+            "node": 216,
+            "attrs": {
+                "Edges": 42,
+                "Pathway": "PTPN3"
+            }
+        },
+        {
+            "edge": 42,
+            "node": 54,
+            "attrs": {
+                "Edges": 42,
+                "Pathway": "PTPN3"
+            }
+        },
+        {
+            "edge": 43,
+            "node": 37,
+            "attrs": {
+                "Edges": 43,
+                "Pathway": "PTPN6"
+            }
+        },
+        {
+            "edge": 43,
+            "node": 144,
+            "attrs": {
+                "Edges": 43,
+                "Pathway": "PTPN6"
+            }
+        },
+        {
+            "edge": 43,
+            "node": 72,
+            "attrs": {
+                "Edges": 43,
+                "Pathway": "PTPN6"
+            }
+        },
+        {
+            "edge": 43,
+            "node": 231,
+            "attrs": {
+                "Edges": 43,
+                "Pathway": "PTPN6"
+            }
+        },
+        {
+            "edge": 43,
+            "node": 208,
+            "attrs": {
+                "Edges": 43,
+                "Pathway": "PTPN6"
+            }
+        },
+        {
+            "edge": 43,
+            "node": 190,
+            "attrs": {
+                "Edges": 43,
+                "Pathway": "PTPN6"
+            }
+        },
+        {
+            "edge": 43,
+            "node": 234,
+            "attrs": {
+                "Edges": 43,
+                "Pathway": "PTPN6"
+            }
+        },
+        {
+            "edge": 43,
+            "node": 119,
+            "attrs": {
+                "Edges": 43,
+                "Pathway": "PTPN6"
+            }
+        },
+        {
+            "edge": 43,
+            "node": 120,
+            "attrs": {
+                "Edges": 43,
+                "Pathway": "PTPN6"
+            }
+        },
+        {
+            "edge": 43,
+            "node": 271,
+            "attrs": {
+                "Edges": 43,
+                "Pathway": "PTPN6"
+            }
+        },
+        {
+            "edge": 43,
+            "node": 92,
+            "attrs": {
+                "Edges": 43,
+                "Pathway": "PTPN6"
+            }
+        },
+        {
+            "edge": 43,
+            "node": 7,
+            "attrs": {
+                "Edges": 43,
+                "Pathway": "PTPN6"
+            }
+        },
+        {
+            "edge": 43,
+            "node": 196,
+            "attrs": {
+                "Edges": 43,
+                "Pathway": "PTPN6"
+            }
+        },
+        {
+            "edge": 43,
+            "node": 133,
+            "attrs": {
+                "Edges": 43,
+                "Pathway": "PTPN6"
+            }
+        },
+        {
+            "edge": 43,
+            "node": 8,
+            "attrs": {
+                "Edges": 43,
+                "Pathway": "PTPN6"
+            }
+        },
+        {
+            "edge": 43,
+            "node": 217,
+            "attrs": {
+                "Edges": 43,
+                "Pathway": "PTPN6"
+            }
+        },
+        {
+            "edge": 43,
+            "node": 170,
+            "attrs": {
+                "Edges": 43,
+                "Pathway": "PTPN6"
+            }
+        },
+        {
+            "edge": 43,
+            "node": 25,
+            "attrs": {
+                "Edges": 43,
+                "Pathway": "PTPN6"
+            }
+        },
+        {
+            "edge": 43,
+            "node": 17,
+            "attrs": {
+                "Edges": 43,
+                "Pathway": "PTPN6"
+            }
+        },
+        {
+            "edge": 44,
+            "node": 173,
+            "attrs": {
+                "Edges": 44,
+                "Pathway": "PTPN7"
+            }
+        },
+        {
+            "edge": 44,
+            "node": 96,
+            "attrs": {
+                "Edges": 44,
+                "Pathway": "PTPN7"
+            }
+        },
+        {
+            "edge": 44,
+            "node": 36,
+            "attrs": {
+                "Edges": 44,
+                "Pathway": "PTPN7"
+            }
+        },
+        {
+            "edge": 45,
+            "node": 127,
+            "attrs": {
+                "Edges": 45,
+                "Pathway": "PTPN9"
+            }
+        },
+        {
+            "edge": 45,
+            "node": 260,
+            "attrs": {
+                "Edges": 45,
+                "Pathway": "PTPN9"
+            }
+        },
+        {
+            "edge": 45,
+            "node": 120,
+            "attrs": {
+                "Edges": 45,
+                "Pathway": "PTPN9"
+            }
+        },
+        {
+            "edge": 46,
+            "node": 144,
+            "attrs": {
+                "Edges": 46,
+                "Pathway": "PTPRA"
+            }
+        },
+        {
+            "edge": 46,
+            "node": 231,
+            "attrs": {
+                "Edges": 46,
+                "Pathway": "PTPRA"
+            }
+        },
+        {
+            "edge": 46,
+            "node": 79,
+            "attrs": {
+                "Edges": 46,
+                "Pathway": "PTPRA"
+            }
+        },
+        {
+            "edge": 46,
+            "node": 245,
+            "attrs": {
+                "Edges": 46,
+                "Pathway": "PTPRA"
+            }
+        },
+        {
+            "edge": 46,
+            "node": 28,
+            "attrs": {
+                "Edges": 46,
+                "Pathway": "PTPRA"
+            }
+        },
+        {
+            "edge": 47,
+            "node": 99,
+            "attrs": {
+                "Edges": 47,
+                "Pathway": "PTPRB"
+            }
+        },
+        {
+            "edge": 47,
+            "node": 133,
+            "attrs": {
+                "Edges": 47,
+                "Pathway": "PTPRB"
+            }
+        },
+        {
+            "edge": 47,
+            "node": 165,
+            "attrs": {
+                "Edges": 47,
+                "Pathway": "PTPRB"
+            }
+        },
+        {
+            "edge": 48,
+            "node": 124,
+            "attrs": {
+                "Edges": 48,
+                "Pathway": "PTPRC"
+            }
+        },
+        {
+            "edge": 48,
+            "node": 144,
+            "attrs": {
+                "Edges": 48,
+                "Pathway": "PTPRC"
+            }
+        },
+        {
+            "edge": 48,
+            "node": 7,
+            "attrs": {
+                "Edges": 48,
+                "Pathway": "PTPRC"
+            }
+        },
+        {
+            "edge": 48,
+            "node": 245,
+            "attrs": {
+                "Edges": 48,
+                "Pathway": "PTPRC"
+            }
+        },
+        {
+            "edge": 48,
+            "node": 162,
+            "attrs": {
+                "Edges": 48,
+                "Pathway": "PTPRC"
+            }
+        },
+        {
+            "edge": 48,
+            "node": 135,
+            "attrs": {
+                "Edges": 48,
+                "Pathway": "PTPRC"
+            }
+        },
+        {
+            "edge": 48,
+            "node": 167,
+            "attrs": {
+                "Edges": 48,
+                "Pathway": "PTPRC"
+            }
+        },
+        {
+            "edge": 48,
+            "node": 188,
+            "attrs": {
+                "Edges": 48,
+                "Pathway": "PTPRC"
+            }
+        },
+        {
+            "edge": 48,
+            "node": 17,
+            "attrs": {
+                "Edges": 48,
+                "Pathway": "PTPRC"
+            }
+        },
+        {
+            "edge": 49,
+            "node": 215,
+            "attrs": {
+                "Edges": 49,
+                "Pathway": "PTPRE"
+            }
+        },
+        {
+            "edge": 49,
+            "node": 60,
+            "attrs": {
+                "Edges": 49,
+                "Pathway": "PTPRE"
+            }
+        },
+        {
+            "edge": 49,
+            "node": 231,
+            "attrs": {
+                "Edges": 49,
+                "Pathway": "PTPRE"
+            }
+        },
+        {
+            "edge": 49,
+            "node": 73,
+            "attrs": {
+                "Edges": 49,
+                "Pathway": "PTPRE"
+            }
+        },
+        {
+            "edge": 49,
+            "node": 173,
+            "attrs": {
+                "Edges": 49,
+                "Pathway": "PTPRE"
+            }
+        },
+        {
+            "edge": 49,
+            "node": 96,
+            "attrs": {
+                "Edges": 49,
+                "Pathway": "PTPRE"
+            }
+        },
+        {
+            "edge": 49,
+            "node": 245,
+            "attrs": {
+                "Edges": 49,
+                "Pathway": "PTPRE"
+            }
+        },
+        {
+            "edge": 50,
+            "node": 60,
+            "attrs": {
+                "Edges": 50,
+                "Pathway": "PTPRF"
+            }
+        },
+        {
+            "edge": 50,
+            "node": 267,
+            "attrs": {
+                "Edges": 50,
+                "Pathway": "PTPRF"
+            }
+        },
+        {
+            "edge": 50,
+            "node": 109,
+            "attrs": {
+                "Edges": 50,
+                "Pathway": "PTPRF"
+            }
+        },
+        {
+            "edge": 50,
+            "node": 165,
+            "attrs": {
+                "Edges": 50,
+                "Pathway": "PTPRF"
+            }
+        },
+        {
+            "edge": 51,
+            "node": 200,
+            "attrs": {
+                "Edges": 51,
+                "Pathway": "PTPRH"
+            }
+        },
+        {
+            "edge": 51,
+            "node": 231,
+            "attrs": {
+                "Edges": 51,
+                "Pathway": "PTPRH"
+            }
+        },
+        {
+            "edge": 51,
+            "node": 7,
+            "attrs": {
+                "Edges": 51,
+                "Pathway": "PTPRH"
+            }
+        },
+        {
+            "edge": 51,
+            "node": 28,
+            "attrs": {
+                "Edges": 51,
+                "Pathway": "PTPRH"
+            }
+        },
+        {
+            "edge": 52,
+            "node": 51,
+            "attrs": {
+                "Edges": 52,
+                "Pathway": "PTPRJ"
+            }
+        },
+        {
+            "edge": 52,
+            "node": 184,
+            "attrs": {
+                "Edges": 52,
+                "Pathway": "PTPRJ"
+            }
+        },
+        {
+            "edge": 52,
+            "node": 144,
+            "attrs": {
+                "Edges": 52,
+                "Pathway": "PTPRJ"
+            }
+        },
+        {
+            "edge": 52,
+            "node": 231,
+            "attrs": {
+                "Edges": 52,
+                "Pathway": "PTPRJ"
+            }
+        },
+        {
+            "edge": 52,
+            "node": 190,
+            "attrs": {
+                "Edges": 52,
+                "Pathway": "PTPRJ"
+            }
+        },
+        {
+            "edge": 52,
+            "node": 120,
+            "attrs": {
+                "Edges": 52,
+                "Pathway": "PTPRJ"
+            }
+        },
+        {
+            "edge": 52,
+            "node": 34,
+            "attrs": {
+                "Edges": 52,
+                "Pathway": "PTPRJ"
+            }
+        },
+        {
+            "edge": 52,
+            "node": 22,
+            "attrs": {
+                "Edges": 52,
+                "Pathway": "PTPRJ"
+            }
+        },
+        {
+            "edge": 52,
+            "node": 18,
+            "attrs": {
+                "Edges": 52,
+                "Pathway": "PTPRJ"
+            }
+        },
+        {
+            "edge": 52,
+            "node": 55,
+            "attrs": {
+                "Edges": 52,
+                "Pathway": "PTPRJ"
+            }
+        },
+        {
+            "edge": 52,
+            "node": 173,
+            "attrs": {
+                "Edges": 52,
+                "Pathway": "PTPRJ"
+            }
+        },
+        {
+            "edge": 52,
+            "node": 133,
+            "attrs": {
+                "Edges": 52,
+                "Pathway": "PTPRJ"
+            }
+        },
+        {
+            "edge": 52,
+            "node": 165,
+            "attrs": {
+                "Edges": 52,
+                "Pathway": "PTPRJ"
+            }
+        },
+        {
+            "edge": 52,
+            "node": 166,
+            "attrs": {
+                "Edges": 52,
+                "Pathway": "PTPRJ"
+            }
+        },
+        {
+            "edge": 52,
+            "node": 96,
+            "attrs": {
+                "Edges": 52,
+                "Pathway": "PTPRJ"
+            }
+        },
+        {
+            "edge": 52,
+            "node": 245,
+            "attrs": {
+                "Edges": 52,
+                "Pathway": "PTPRJ"
+            }
+        },
+        {
+            "edge": 52,
+            "node": 65,
+            "attrs": {
+                "Edges": 52,
+                "Pathway": "PTPRJ"
+            }
+        },
+        {
+            "edge": 53,
+            "node": 100,
+            "attrs": {
+                "Edges": 53,
+                "Pathway": "PTPRO"
+            }
+        },
+        {
+            "edge": 53,
+            "node": 235,
+            "attrs": {
+                "Edges": 53,
+                "Pathway": "PTPRO"
+            }
+        },
+        {
+            "edge": 53,
+            "node": 111,
+            "attrs": {
+                "Edges": 53,
+                "Pathway": "PTPRO"
+            }
+        },
+        {
+            "edge": 54,
+            "node": 137,
+            "attrs": {
+                "Edges": 54,
+                "Pathway": "PTPRS"
+            }
+        },
+        {
+            "edge": 54,
+            "node": 100,
+            "attrs": {
+                "Edges": 54,
+                "Pathway": "PTPRS"
+            }
+        },
+        {
+            "edge": 54,
+            "node": 208,
+            "attrs": {
+                "Edges": 54,
+                "Pathway": "PTPRS"
+            }
+        },
+        {
+            "edge": 54,
+            "node": 120,
+            "attrs": {
+                "Edges": 54,
+                "Pathway": "PTPRS"
+            }
+        },
+        {
+            "edge": 55,
+            "node": 44,
+            "attrs": {
+                "Edges": 55,
+                "Pathway": "PTPRT"
+            }
+        },
+        {
+            "edge": 55,
+            "node": 190,
+            "attrs": {
+                "Edges": 55,
+                "Pathway": "PTPRT"
+            }
+        },
+        {
+            "edge": 55,
+            "node": 58,
+            "attrs": {
+                "Edges": 55,
+                "Pathway": "PTPRT"
+            }
+        },
+        {
+            "edge": 55,
+            "node": 214,
+            "attrs": {
+                "Edges": 55,
+                "Pathway": "PTPRT"
+            }
+        },
+        {
+            "edge": 56,
+            "node": 208,
+            "attrs": {
+                "Edges": 56,
+                "Pathway": "PTPRZ1"
+            }
+        },
+        {
+            "edge": 56,
+            "node": 113,
+            "attrs": {
+                "Edges": 56,
+                "Pathway": "PTPRZ1"
+            }
+        },
+        {
+            "edge": 56,
+            "node": 145,
+            "attrs": {
+                "Edges": 56,
+                "Pathway": "PTPRZ1"
+            }
+        },
+        {
+            "edge": 57,
+            "node": 272,
+            "attrs": {
+                "Edges": 57,
+                "Pathway": "SCP2"
+            }
+        },
+        {
+            "edge": 57,
+            "node": 224,
+            "attrs": {
+                "Edges": 57,
+                "Pathway": "SCP2"
+            }
+        },
+        {
+            "edge": 57,
+            "node": 13,
+            "attrs": {
+                "Edges": 57,
+                "Pathway": "SCP2"
+            }
+        },
+        {
+            "edge": 57,
+            "node": 134,
+            "attrs": {
+                "Edges": 57,
+                "Pathway": "SCP2"
+            }
+        },
+        {
+            "edge": 58,
+            "node": 61,
+            "attrs": {
+                "Edges": 58,
+                "Pathway": "SSH1"
+            }
+        },
+        {
+            "edge": 58,
+            "node": 49,
+            "attrs": {
+                "Edges": 58,
+                "Pathway": "SSH1"
+            }
+        },
+        {
+            "edge": 58,
+            "node": 136,
+            "attrs": {
+                "Edges": 58,
+                "Pathway": "SSH1"
+            }
+        },
+        {
+            "edge": 58,
+            "node": 265,
+            "attrs": {
+                "Edges": 58,
+                "Pathway": "SSH1"
+            }
+        }
+    ]
+}
